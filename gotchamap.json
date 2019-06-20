@@ -124,6 +124,8 @@
         "areas": "九龍區",
         "desc": "在尖沙咀首都廣場2樓，就有「娃娃星球 WaWa Planet 」夾公仔店，店內有多款靚靚公仔！",
         "openHours": "11:30–23:30",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/42938100_344740786070915_1762345967698313216_n.jpg?_nc_cat=111&_nc_oc=AQkautc33d--_G_OpViJMwfLI0BkAaq6IUCJ8FsGxHr5ie2oz7kSPXKDX8cMmOp5qTo&_nc_ht=scontent.fhkg4-2.fna&oh=fcbf3cdc0015ddc20fc2b3e55b148cc0&oe=5D7EE7B1",
+        "fb": "https://www.facebook.com/wawaplanet.hk",
         "brand": "娃娃星球 WaWa Planet",
         "video": "https://www.facebook.com/wawaplanet.hk/videos/1006955549487691/",
         "lat": 22.299667,
@@ -291,13 +293,13 @@
         "lon": 114.189374
     },
     {
-        "name": "貓爪 Cat's Claw",
+        "name": "貓爪 Cat\\'s Claw",
         "address": "旺角通菜街150號2樓",
         "district": "旺角",
         "areas": "九龍區",
         "image": "https:
         "fb": "https://www.facebook.com/pages/category/Arts---Entertainment/%E8%B2%93%E7%88%AA-Cats-Claw-485833618500380/",
-        "brand": "貓爪 Cat's Claw",
+        "brand": "貓爪 Cat\\'s Claw",
         "lat": 22.322118,
         "lon": 114.170141
     },
@@ -307,6 +309,8 @@
         "district": "旺角",
         "areas": "九龍區",
         "desc": "旺角旗艦店實施24小時開放，日日夜夜都可以任夾！",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/42938100_344740786070915_1762345967698313216_n.jpg?_nc_cat=111&_nc_oc=AQkautc33d--_G_OpViJMwfLI0BkAaq6IUCJ8FsGxHr5ie2oz7kSPXKDX8cMmOp5qTo&_nc_ht=scontent.fhkg4-2.fna&oh=fcbf3cdc0015ddc20fc2b3e55b148cc0&oe=5D7EE7B1",
+        "fb": "https://www.facebook.com/wawaplanet.hk",
         "brand": "娃娃星球 WaWa Planet",
         "lat": 22.316354,
         "lon": 114.169287
