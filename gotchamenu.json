@@ -6,7 +6,7 @@
         "action": "/gotchamap"
     },
     {
-        "title": "Youbuter",
+        "title": "Youtuber",
         "layout": "video",
         "actionType": "API",
         "action": "/youtubeapi"
@@ -15,10 +15,10 @@
         "title": "Google form",
         "layout": "webview",
         "actionType": "URL",
-        "action": "https://forms.gle/bK4XBY5eVHbMoWJY8"
+        "action": "https://docs.google.com/forms/d/e/1FAIpQLSem693xK7oj0HtjRVTvESs7GTEW6cWjiM0xsBcrNjW32S4inQ/viewform?usp=sf_link"
     },
     {
-        "title": "Facebook Fage Page",
+        "title": "Facebook Fan Page",
         "layout": "webview",
         "actionType": "URL",
         "action": "http://"
