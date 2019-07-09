@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Map",
+        "layout": "map",
+        "actionType": "API",
+        "action": "/gotchamap"
+    },
+    {
+        "title": "Youbuter",
+        "layout": "video",
+        "actionType": "API",
+        "action": "/youtubeapi"
+    },
+    {
+        "title": "Google form",
+        "layout": "webview",
+        "actionType": "URL",
+        "action": "https://forms.gle/bK4XBY5eVHbMoWJY8"
+    },
+    {
+        "title": "Facebook Fage Page",
+        "layout": "webview",
+        "actionType": "URL",
+        "action": "http://"
+    }
+]
