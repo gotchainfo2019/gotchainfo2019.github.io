@@ -1,31 +1,31 @@
 [
     {
         "title": "Map 1",
-        "layoutKey": "map",
+        "layout": "map",
         "actionType": "API",
         "action": "/gotchamap"
     },
     {
         "title": "Map 2",
-        "layoutKey": "map",
+        "layout": "map",
         "actionType": "API",
         "action": "/gotchamap"
     },
     {
         "title": "Youtuber (Not Ready)",
-        "layoutKey": "video",
+        "layout": "video",
         "actionType": "API",
         "action": "/youtubeapi"
     },
     {
         "title": "Google Form",
-        "layoutKey": "webview",
+        "layout": "webview",
         "actionType": "URL",
         "action": "https://docs.google.com/forms/d/e/1FAIpQLSem693xK7oj0HtjRVTvESs7GTEW6cWjiM0xsBcrNjW32S4inQ/viewform?usp=sf_link"
     },
     {
         "title": "Facebook Fan Page",
-        "layoutKey": "webview",
+        "layout": "webview",
         "actionType": "FACEBOOK",
         "action": "http://"
     }
