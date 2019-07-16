@@ -3,13 +3,13 @@
         "title": "Map 1",
         "layout": "map",
         "actionType": "API",
-        "action": "/gotchamap"
+        "action": "gotchamap"
     },
     {
         "title": "Map 2",
         "layout": "map",
         "actionType": "API",
-        "action": "/gotchamap"
+        "action": "gotchamap"
     },
     {
         "title": "Youtuber (Not Ready)",
