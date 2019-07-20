@@ -8,12 +8,14 @@
     },
     {
         "title": "Map 2",
+        "icon": "icon_map_marker.png",
         "layout": "map",
         "actionType": "API",
         "action": "gotchamap"
     },
     {
         "title": "Youtuber (Not Ready)",
+        "icon": "icon_youtube.png",
         "layout": "video",
         "actionType": "API",
         "action": "/youtubeapi"
@@ -27,6 +29,7 @@
     },
     {
         "title": "Facebook Fan Page",
+        "icon": "icon_facebook.png",
         "layout": "webview",
         "actionType": "FACEBOOK",
         "action": "http://"
