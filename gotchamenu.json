@@ -25,7 +25,7 @@
         "icon": "icon_google_form.png",
         "layout": "webview",
         "actionType": "URL",
-        "action": "https://forms.gle/NFjKYKuxuSLXdMfCA"
+        "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
     },
     {
         "title": "Facebook Fan Page",
