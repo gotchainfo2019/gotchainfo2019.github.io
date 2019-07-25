@@ -32,6 +32,6 @@
         "icon": "icon_facebook.png",
         "layout": "webview",
         "actionType": "FACEBOOK",
-        "action": "http://"
+        "action": 76067761227
     }
 ]
