@@ -994,6 +994,7 @@
         "address": "旺角朗豪坊9樓03-11號舖",
         "district": "旺角",
         "areas": "九龍區",
+        "placeId": "ChIJSwh8m8cABDQRrNY18BQWwR0",
         "desc": "來自日本的NAMCO在新界、九龍都設有分店，店內有夾公仔機、貼紙相機、擲彩虹等遊戲。而且不少夾公仔機內的貨品都是由日本直送，款式又多，另外，店內的UFO夾公仔機尤其多！",
         "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/26220109_1585229458227215_4345640434871050398_n.jpg?_nc_cat=111&_nc_oc=AQkID3cpg2kaHuNt2D_YC7uJOXJHlrZLMar9SM8md93zuHAZcM59h-AxrQVTgDjaQfQ&_nc_ht=scontent.fhkg4-2.fna&oh=c1ff313496fb9f4bba03ded276d389fb&oe=5DC47C7F",
         "fb": "218516931565148",
@@ -1020,6 +1021,7 @@
         "address": "荃灣D.PARK愉景新城2樓2071號舖",
         "district": "荃灣",
         "areas": "新界區",
+        "placeId": "ChIJy_r_rvH4AzQRpfdNAKBqODg",
         "desc": "來自日本的NAMCO在新界、九龍都設有分店，店內有夾公仔機、貼紙相機、擲彩虹等遊戲。而且不少夾公仔機內的貨品都是由日本直送，款式又多，另外，店內的UFO夾公仔機尤其多！",
         "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/26220109_1585229458227215_4345640434871050398_n.jpg?_nc_cat=111&_nc_oc=AQkID3cpg2kaHuNt2D_YC7uJOXJHlrZLMar9SM8md93zuHAZcM59h-AxrQVTgDjaQfQ&_nc_ht=scontent.fhkg4-2.fna&oh=c1ff313496fb9f4bba03ded276d389fb&oe=5DC47C7F",
         "fb": "218516931565148",
@@ -1033,6 +1035,7 @@
         "address": "荃灣荃新天地2期UG層UG26-28及UG37-38號舖",
         "district": "荃灣",
         "areas": "新界區",
+        "placeId": "ChIJMWQUAez4AzQRHu9g0YYdWaI",
         "desc": "來自日本的NAMCO在新界、九龍都設有分店，店內有夾公仔機、貼紙相機、擲彩虹等遊戲。而且不少夾公仔機內的貨品都是由日本直送，款式又多，另外，店內的UFO夾公仔機尤其多！",
         "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/26220109_1585229458227215_4345640434871050398_n.jpg?_nc_cat=111&_nc_oc=AQkID3cpg2kaHuNt2D_YC7uJOXJHlrZLMar9SM8md93zuHAZcM59h-AxrQVTgDjaQfQ&_nc_ht=scontent.fhkg4-2.fna&oh=c1ff313496fb9f4bba03ded276d389fb&oe=5DC47C7F",
         "fb": "218516931565148",
@@ -1046,6 +1049,7 @@
         "address": "將軍澳唐俊街9號PopCorn 2期1樓F111及F112舖",
         "district": "將軍澳",
         "areas": "新界區",
+        "placeId": "ChIJP9JReswDBDQRh0U0Xbdmgw8",
         "desc": "來自日本的NAMCO在新界、九龍都設有分店，店內有夾公仔機、貼紙相機、擲彩虹等遊戲。而且不少夾公仔機內的貨品都是由日本直送，款式又多，另外，店內的UFO夾公仔機尤其多！",
         "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/26220109_1585229458227215_4345640434871050398_n.jpg?_nc_cat=111&_nc_oc=AQkID3cpg2kaHuNt2D_YC7uJOXJHlrZLMar9SM8md93zuHAZcM59h-AxrQVTgDjaQfQ&_nc_ht=scontent.fhkg4-2.fna&oh=c1ff313496fb9f4bba03ded276d389fb&oe=5DC47C7F",
         "fb": "218516931565148",
@@ -1059,6 +1063,7 @@
         "address": "銅鑼灣時代廣場Square on 9F",
         "district": "銅鑼灣",
         "areas": "香港島",
+        "placeId": "ChIJs-ZV8qABBDQRcxVo9unpdxk",
         "desc": "冒險樂園是不少大人小朋友都愛的地方，今次銅鑼灣有新店Planet J Hong Kong，入面遊戲設施齊全，更有一大個夾公仔地帶！",
         "image": "https://www.ulifestyle.com.hk/store/content/video_form/thumbnail/medium/201902/80ecfa938c33a898468568ef5f0a8cb8.jpg",
         "fb": "2294476930698744",
@@ -1174,5 +1179,18 @@
         "brand": "The Claw ",
         "lat": 22.316127,
         "lon": 114.17032
+    },
+    {
+        "id": 90,
+        "name": "Namco 何文田店",
+        "address": "採石山佛光街80號",
+        "district": "何文田",
+        "areas": "九龍區",
+        "placeId": "ChIJs_oiT2sBBDQRQQJCz0AxFK4",
+        "desc": "來自日本的NAMCO在新界、九龍都設有分店，店內有夾公仔機、貼紙相機、擲彩虹等遊戲。而且不少夾公仔機內的貨品都是由日本直送，款式又多，另外，店內的UFO夾公仔機尤其多！",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/26220109_1585229458227215_4345640434871050398_n.jpg?_nc_cat=111&_nc_oc=AQkID3cpg2kaHuNt2D_YC7uJOXJHlrZLMar9SM8md93zuHAZcM59h-AxrQVTgDjaQfQ&_nc_ht=scontent.fhkg4-2.fna&oh=c1ff313496fb9f4bba03ded276d389fb&oe=5DC47C7F",
+        "fb": "218516931565148",
+        "lat": 22.316065,
+        "lon": 114.181621
     }
 ]
