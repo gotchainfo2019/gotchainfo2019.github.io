@@ -31,7 +31,7 @@
         "title": "Facebook Fan Page",
         "icon": "icon_facebook.png",
         "layout": "webview",
-        "actionType": "FACEBOOK",
-        "action": 76067761227
+        "actionType": "URL",
+        "action": "https://www.facebook.com/JumpinGymU.S.A/"
     }
 ]
