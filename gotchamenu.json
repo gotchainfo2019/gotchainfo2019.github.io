@@ -1,37 +1,30 @@
 [
     {
-        "title": "Map 1",
+        "title": "夾公仔地圖",
         "icon": "icon_map_marker.png",
         "layout": "map",
         "actionType": "API",
         "action": "gotchamap"
     },
     {
-        "title": "Map 2",
+        "title": "唔好叫錯外賣餐廳",
         "icon": "icon_map_marker.png",
         "layout": "map",
         "actionType": "API",
         "action": "gotchamap"
-    },
-    {
-        "title": "Youtuber (Not Ready)",
-        "icon": "icon_youtube.png",
-        "layout": "video",
-        "actionType": "API",
-        "action": "/youtubeapi"
     },
     {
         "title": "Google Form",
         "icon": "icon_google_form.png",
         "layout": "webview",
         "actionType": "URL",
-        "action": "https://docs.google.com/forms/d/e/1FAIpQLSem693xK7oj0HtjRVTvESs7GTEW6cWjiM0xsBcrNjW32S4inQ/viewform?usp=sf_link"
+        "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
     },
     {
         "title": "Facebook Fan Page",
         "icon": "icon_facebook.png",
         "layout": "webview",
         "actionType": "FACEBOOK",
-        "action": 76067761227
+        "action": 100290784654471
     }
 ]
