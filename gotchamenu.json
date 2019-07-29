@@ -11,7 +11,7 @@
         "icon": "icon_map_marker.png",
         "layout": "map",
         "actionType": "API",
-        "action": "gotchamap"
+        "action": "restaurantmap"
     },
     {
         "title": "Google Form",
