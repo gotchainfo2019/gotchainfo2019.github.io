@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Map 1",
+        "icon": "icon_map_marker.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "gotchamap"
+    },
+    {
+        "title": "Map 2",
+        "icon": "icon_map_marker.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "gotchamap"
+    },
+    {
+        "title": "Youtuber (Not Ready)",
+        "icon": "icon_youtube.png",
+        "layout": "video",
+        "actionType": "API",
+        "action": "/youtubeapi"
+    },
+    {
+        "title": "Google Form",
+        "icon": "icon_google_form.png",
+        "layout": "webview",
+        "actionType": "URL",
+        "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
+    },
+    {
+        "title": "Facebook Fan Page",
+        "icon": "icon_facebook.png",
+        "layout": "webview",
+        "actionType": "URL",
+        "action": "https://www.facebook.com/JumpinGymU.S.A/"
+    }
+]
