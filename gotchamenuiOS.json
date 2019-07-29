@@ -1,24 +1,17 @@
 [
     {
-        "title": "Map 1",
+        "title": "夾公仔地圖",
         "icon": "icon_map_marker.png",
         "layout": "map",
         "actionType": "API",
         "action": "gotchamap"
     },
     {
-        "title": "Map 2",
-        "icon": "icon_map_marker.png",
+        "title": "唔好叫錯外賣餐廳",
+        "icon": "icon_map_marker_restaurant.png",
         "layout": "map",
         "actionType": "API",
-        "action": "gotchamap"
-    },
-    {
-        "title": "Youtuber (Not Ready)",
-        "icon": "icon_youtube.png",
-        "layout": "video",
-        "actionType": "API",
-        "action": "/youtubeapi"
+        "action": "restaurantmap"
     },
     {
         "title": "Google Form",
@@ -32,6 +25,6 @@
         "icon": "icon_facebook.png",
         "layout": "webview",
         "actionType": "URL",
-        "action": "https://www.facebook.com/JumpinGymU.S.A/"
+        "action": "https://www.facebook.com/100290784654471"
     }
 ]
