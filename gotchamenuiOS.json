@@ -7,13 +7,6 @@
         "action": "gotchamap"
     },
     {
-        "title": "發夢地圖",
-        "icon": "icon_map_marker_restaurant.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "restaurantmap"
-    },
-    {
         "title": "Google Form",
         "icon": "icon_google_form.png",
         "layout": "webview",
