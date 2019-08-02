@@ -7,13 +7,6 @@
         "action": "gotchamap"
     },
     {
-        "title": "唔好叫錯外賣餐廳",
-        "icon": "icon_map_marker.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "restaurantmap"
-    },
-    {
         "title": "Google Form",
         "icon": "icon_google_form.png",
         "layout": "webview",
