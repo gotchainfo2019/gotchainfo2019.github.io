@@ -1,0 +1,37 @@
+[
+    {
+        "title": "夾公仔地圖",
+        "icon": "icon_map_marker.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "gotchamap"
+    },
+    {
+        "title": "唔好叫錯外賣餐廳",
+        "icon": "icon_map_marker.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "restaurantmap"
+    },
+    {
+        "title": "Google Form",
+        "icon": "icon_google_form.png",
+        "layout": "webview",
+        "actionType": "URL",
+        "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
+    },
+    {
+        "title": "8月好去處",
+        "icon": "icon_map_marker_black.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "hkaugmap"
+    },
+    {
+        "title": "Facebook Fan Page",
+        "icon": "icon_facebook.png",
+        "layout": "webview",
+        "actionType": "FACEBOOK",
+        "action": "https://www.facebook.com/100290784654471"
+    }
+]

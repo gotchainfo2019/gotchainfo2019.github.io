@@ -1190,7 +1190,71 @@
         "desc": "來自日本的NAMCO在新界、九龍都設有分店，店內有夾公仔機、貼紙相機、擲彩虹等遊戲。而且不少夾公仔機內的貨品都是由日本直送，款式又多，另外，店內的UFO夾公仔機尤其多！",
         "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/26220109_1585229458227215_4345640434871050398_n.jpg?_nc_cat=111&_nc_oc=AQkID3cpg2kaHuNt2D_YC7uJOXJHlrZLMar9SM8md93zuHAZcM59h-AxrQVTgDjaQfQ&_nc_ht=scontent.fhkg4-2.fna&oh=c1ff313496fb9f4bba03ded276d389fb&oe=5DC47C7F",
         "fb": "218516931565148",
+        "brand": "NAMCO",
         "lat": 22.316065,
         "lon": 114.181621
+    },
+    {
+        "id": 91,
+        "name": "鉄人大盛",
+        "address": "尖沙咀堪富利士道格蘭中心地庫",
+        "district": "尖沙咀",
+        "areas": "九龍區",
+        "placeId": "ChIJvdPmD0EBBDQRlhZv1D61ybs",
+        "desc": "大量youtuber專屬夾公仔機(包括: 宅男俱樂部、馬田、Kzee、細B、屎萊姆、熊仔頭及Rock哥、薑檸樂)",
+        "image": "https://static8.orstatic.com/userphoto2/photo/10/SMM/05NKVJ9B3A92716A68D6DEpx.jpg",
+        "fb": "267790600816696",
+        "brand": "鉄人大盛",
+        "lat": 22.298662,
+        "lon": 114.173681
+    },
+    {
+        "id": 92,
+        "name": "UFO 360 日式夾公仔專門店",
+        "address": "尖沙咀 彌敦道36-44號 重慶運動城 WK SQUARE 20A號舖",
+        "district": "尖沙咀",
+        "areas": "九龍區",
+        "placeId": "ChIJs35A1uABBDQRiaRCxtKKRuk",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/60346093_1087150924806642_8548497881399558144_n.jpg?_nc_cat=104&_nc_oc=AQkCxdUU48dyEZxBZd5kNmLvBIU8z95luVrdk4rRIZtMUgUqefDy67jKesBqAf2VXl4&_nc_ht=scontent.fhkg4-2.fna&oh=36fe4e11fa9cc6fa11481c6d94dad20d&oe=5DA07D72",
+        "fb": "1061496787372056",
+        "brand": "UFO 360 日式夾公仔專門店",
+        "lat": 22.296489,
+        "lon": 114.172822
+    },
+    {
+        "id": 93,
+        "name": "元氣爪",
+        "address": "盈豐商場A47號地下",
+        "district": "屯門",
+        "areas": "新界區",
+        "image": "https://scontent.fhkg4-1.fna.fbcdn.net/v/t1.0-9/66645385_848618952180459_7643411404409536512_n.jpg?_nc_cat=110&_nc_oc=AQndZpaRdirfLbpRTlmVxxoneXBQuS1Fl_eP22YODMz1XF-Zb0lJaSDDOvqbO4NUOhU&_nc_ht=scontent.fhkg4-1.fna&oh=8f0f537b75081d33d07fd3ec5c4b9b1d&oe=5DDE510F",
+        "fb": "821251381583883",
+        "brand": "元氣爪",
+        "lat": 22.408608,
+        "lon": 113.967615
+    },
+    {
+        "id": 94,
+        "name": "元氣爪",
+        "address": "天一商城2樓2083鋪",
+        "district": "天水圍",
+        "areas": "新界區",
+        "image": "https://scontent.fhkg4-1.fna.fbcdn.net/v/t1.0-9/66645385_848618952180459_7643411404409536512_n.jpg?_nc_cat=110&_nc_oc=AQndZpaRdirfLbpRTlmVxxoneXBQuS1Fl_eP22YODMz1XF-Zb0lJaSDDOvqbO4NUOhU&_nc_ht=scontent.fhkg4-1.fna&oh=8f0f537b75081d33d07fd3ec5c4b9b1d&oe=5DDE510F",
+        "fb": "821251381583883",
+        "brand": "元氣爪",
+        "lat": 22.464706,
+        "lon": 114.002729
+    },
+    {
+        "id": 95,
+        "name": "元氣爪",
+        "address": "新北江商場一樓D140鋪",
+        "district": "天水圍",
+        "areas": "新界區",
+        "image": "https://scontent.fhkg4-1.fna.fbcdn.net/v/t1.0-9/66645385_848618952180459_7643411404409536512_n.jpg?_nc_cat=110&_nc_oc=AQndZpaRdirfLbpRTlmVxxoneXBQuS1Fl_eP22YODMz1XF-Zb0lJaSDDOvqbO4NUOhU&_nc_ht=scontent.fhkg4-1.fna&oh=8f0f537b75081d33d07fd3ec5c4b9b1d&oe=5DDE510F",
+        "fb": "821251381583883",
+        "brand": "元氣爪",
+        "lat": 22.452117,
+        "lon": 114.000335
     }
 ]
