@@ -14,6 +14,13 @@
         "action": "restaurantmap"
     },
     {
+        "title": "8月好去處",
+        "icon": "icon_map_marker_black.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "hkaugmap"
+    },
+    {
         "title": "Google Form",
         "icon": "icon_google_form.png",
         "layout": "webview",
