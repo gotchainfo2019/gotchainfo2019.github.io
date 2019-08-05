@@ -25,7 +25,7 @@
         "icon": "icon_coins.png",
         "layout": "map",
         "actionType": "API",
-        "action": "coinsmap.json"
+        "action": "coinsmap"
     },
     {
         "title": "Google Form",
