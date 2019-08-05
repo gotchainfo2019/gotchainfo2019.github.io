@@ -7,6 +7,13 @@
         "action": "gotchamap"
     },
     {
+        "title": "夾公仔達人最新影片",
+        "icon": "icon_video.png",
+        "layout": "youtubesearch",
+        "actionType": "API",
+        "action": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=UFO%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%7C%E5%A4%BE%E5%85%AC%E4%BB%94%7C%E5%A4%BE%E5%A8%83%E5%A8%83%7C%E5%A8%83%E5%A8%83%E6%A9%9F&fields=items&key=AIzaSyArxImpJa7rrxyEu00i5T_czmTy6aAneZE"
+    },
+    {
         "title": "夾公仔推薦影片",
         "icon": "icon_video.png",
         "layout": "video",
