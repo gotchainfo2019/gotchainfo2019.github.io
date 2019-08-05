@@ -7,6 +7,13 @@
         "action": "gotchamap"
     },
     {
+        "title": "夾公仔推薦影片",
+        "icon": "icon_video.png",
+        "layout": "video",
+        "actionType": "API",
+        "action": "gotchavideo"
+    },
+    {
         "title": "唔好叫錯外賣餐廳",
         "icon": "icon_map_marker.png",
         "layout": "map",

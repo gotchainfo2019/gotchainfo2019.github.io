@@ -8,7 +8,7 @@
     },
     {
         "title": "唔好叫錯外賣餐廳",
-        "icon": "icon_map_marker.png",
+        "icon": "icon_map_marker_restaurant.png",
         "layout": "map",
         "actionType": "API",
         "action": "restaurantmap"
