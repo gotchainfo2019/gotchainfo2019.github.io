@@ -7,6 +7,27 @@
         "action": "gotchamap"
     },
     {
+        "title": "夾公仔達人最新影片",
+        "icon": "icon_video.png",
+        "layout": "youtubesearch",
+        "actionType": "API",
+        "action": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&order=date&q=UFO%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%7C%E5%A4%BE%E5%85%AC%E4%BB%94%7C%E5%A4%BE%E5%A8%83%E5%A8%83%7C%E5%A8%83%E5%A8%83%E6%A9%9F&fields=items&key="
+    },
+    {
+        "title": "夾公仔推薦影片",
+        "icon": "icon_video.png",
+        "layout": "video",
+        "actionType": "API",
+        "action": "gotchavideo"
+    },
+    {
+        "title": "推銀地圖",
+        "icon": "icon_coins.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "coinsmap"
+    },
+    {
         "title": "Google Form",
         "icon": "icon_google_form.png",
         "layout": "webview",
@@ -19,5 +40,12 @@
         "layout": "webview",
         "actionType": "URL",
         "action": "https://www.facebook.com/100290784654471"
+    },
+    {
+        "title": "Instagram Fan Page",
+        "icon": "icon_ig.png",
+        "layout": "webview",
+        "actionType": "URL",
+        "action": "https://www.instagram.com/wstick.j/?hl=zh-hk"
     }
 ]
