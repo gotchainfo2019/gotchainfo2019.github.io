@@ -7,11 +7,25 @@
         "action": "gotchamap2"
     },
     {
-        "title": "唔好叫錯外賣餐廳",
+        "title": "唔好叫錯外賣餐廳(香港島)",
         "icon": "icon_map_marker_restaurant.png",
         "layout": "map",
         "actionType": "API",
-        "action": "restaurantmap"
+        "action": "restaurantmapHK"
+    },
+    {
+        "title": "唔好叫錯外賣餐廳(新界區)",
+        "icon": "icon_map_marker_restaurant.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "restaurantmapNT"
+    },
+    {
+        "title": "唔好叫錯外賣餐廳(九龍區)",
+        "icon": "icon_map_marker_restaurant.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "restaurantmapKLN"
     },
     {
         "title": "8月好去處",
