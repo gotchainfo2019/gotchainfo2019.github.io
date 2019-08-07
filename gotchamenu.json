@@ -7,6 +7,13 @@
         "action": "gotchamap2"
     },
     {
+        "title": "唔好叫錯外賣餐廳",
+        "icon": "icon_map_marker_restaurant.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "restaurantmap"
+    },
+    {
         "title": "唔好叫錯外賣餐廳(香港島)",
         "icon": "icon_map_marker_restaurant.png",
         "layout": "map",
