@@ -4,7 +4,7 @@
         "icon": "icon_map_marker.png",
         "layout": "map",
         "actionType": "API",
-        "action": "gotchamap2"
+        "action": "gotchamap"
     },
     {
         "title": "唔好叫錯外賣餐廳",
