@@ -52,84 +52,6 @@
         "lon": 114.167986
     },
     {
-        "id": 5,
-        "name": "潮味工房",
-        "address": "牛池灣清水灣道三期地下, 彩云一村彩雲(一)邨日月樓彩雲商場",
-        "district": "牛頭角",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "潮味工房",
-        "lat": 22.334246,
-        "lon": 114.214266
-    },
-    {
-        "id": 6,
-        "name": "殿大喜屋",
-        "address": "F, 號, 26 Kimberley Rd, Tsim Sha Tsui",
-        "district": "尖沙咀",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "殿大喜屋",
-        "lat": 22.300294,
-        "lon": 114.173298
-    },
-    {
-        "id": 7,
-        "name": "京都抹茶庵丸久小山園日本茶販売店",
-        "address": "Shop 210, K11 Mall,, 19 Carnarvon Rd, Tsim Sha Tsui",
-        "district": "尖沙咀",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "京都抹茶庵丸久小山園日本茶販売店",
-        "lat": 22.297483,
-        "lon": 114.173762
-    },
-    {
-        "id": 8,
-        "name": "肥仔記美食",
-        "address": "尖沙咀厚福街3號G1華博商業大廈",
-        "district": "尖沙咀",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "肥仔記美食",
-        "lat": 22.299426,
-        "lon": 114.174036
-    },
-    {
-        "id": 9,
-        "name": "包剪麵",
-        "address": "尖沙咀金馬倫道21號",
-        "district": "尖沙咀",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "包剪麵",
-        "lat": 22.299271,
-        "lon": 114.174046
-    },
-    {
-        "id": 10,
-        "name": "樂天大喜屋",
-        "address": "彌敦道601號二樓全層創興廣場2樓",
-        "district": "旺角",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "樂天大喜屋",
-        "lat": 22.316257,
-        "lon": 114.169739
-    },
-    {
         "id": 11,
         "name": "吉壽日本料理",
         "address": "旺角彌敦道655號5樓",
@@ -154,32 +76,6 @@
         "brand": "鮮入圍煮",
         "lat": 22.315716,
         "lon": 114.171108
-    },
-    {
-        "id": 13,
-        "name": "雅蘭對面活壽司",
-        "address": "旺角奶路臣街11號",
-        "district": "旺角",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "雅蘭對面活壽司",
-        "lat": 22.318579,
-        "lon": 114.169052
-    },
-    {
-        "id": 14,
-        "name": "華記茶餐廳",
-        "address": "油麻地文英街2-24號文英樓",
-        "district": "油麻地",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "華記茶餐廳",
-        "lat": 22.307407,
-        "lon": 114.166751
     },
     {
         "id": 15,
@@ -221,58 +117,6 @@
         "lon": 114.194793
     },
     {
-        "id": 18,
-        "name": "大滿喜",
-        "address": "觀塘觀塘道414, Kwun Tong號10/F One Pacific Centre",
-        "district": "觀塘",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "大滿喜",
-        "lat": 22.312667,
-        "lon": 114.224678
-    },
-    {
-        "id": 19,
-        "name": "Sum Sum Dessert",
-        "address": "1305 室, 港貿中心117 How Ming St, Kwun Tong",
-        "district": "觀塘",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "Sum Sum Dessert",
-        "lat": 22.311619,
-        "lon": 114.224567
-    },
-    {
-        "id": 20,
-        "name": "牛八和牛燒肉屋",
-        "address": "鑽石山龍蟠街3號荷里活廣場3樓311 舖",
-        "district": "鑽石山",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "牛八和牛燒肉屋",
-        "lat": 22.341005,
-        "lon": 114.202116
-    },
-    {
-        "id": 21,
-        "name": "友記茶餐廳",
-        "address": "西營盤東邊街1B號",
-        "district": "西營盤",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "友記茶餐廳",
-        "lat": 22.2883,
-        "lon": 114.143619
-    },
-    {
         "id": 22,
         "name": "肥仔記麵家",
         "address": "西營盤皇后大道西273號",
@@ -299,19 +143,6 @@
         "lon": 114.184955
     },
     {
-        "id": 24,
-        "name": "岩鹽",
-        "address": "Level 16 Lee Gardens利舞臺廣場16樓A舖, 99號 Percival St, Causeway Bay",
-        "district": "銅鑼灣",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "岩鹽",
-        "lat": 22.278339,
-        "lon": 114.183202
-    },
-    {
         "id": 25,
         "name": "大發茶餐廳",
         "address": "灣仔大王東街6號",
@@ -323,58 +154,6 @@
         "brand": "大發茶餐廳",
         "lat": 22.275867,
         "lon": 114.171441
-    },
-    {
-        "id": 26,
-        "name": "潮興魚蛋粉",
-        "address": "灣仔軒尼詩道109號",
-        "district": "灣仔",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "潮興魚蛋粉",
-        "lat": 22.277697,
-        "lon": 114.172264
-    },
-    {
-        "id": 27,
-        "name": "海盜王",
-        "address": "上水符興街21號地下",
-        "district": "上水",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "海盜王",
-        "lat": 22.504222,
-        "lon": 114.129155
-    },
-    {
-        "id": 28,
-        "name": "潮興旺粥粉麵",
-        "address": "上水馬會道180號",
-        "district": "上水",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "潮興旺粥粉麵",
-        "lat": 22.504222,
-        "lon": 114.130275
-    },
-    {
-        "id": 29,
-        "name": "峴港Da Nang",
-        "address": "大埔安埔路12號富善邨富善商場地下G009號舖",
-        "district": "大埔",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "峴港Da Nang",
-        "lat": 22.454079,
-        "lon": 114.174762
     },
     {
         "id": 30,
@@ -403,58 +182,6 @@
         "lon": 114.178764
     },
     {
-        "id": 32,
-        "name": "茶魚飯后",
-        "address": "天水圍香港天水圍天瑞商埸地下G2D號舖",
-        "district": "天水圍",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "茶魚飯后",
-        "lat": 22.45658,
-        "lon": 113.998342
-    },
-    {
-        "id": 33,
-        "name": "興發中西美食餐廳",
-        "address": "火炭坳背灣街33-35號世紀工業大廈中心地下2號後舖",
-        "district": "火炭",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "興發中西美食餐廳",
-        "lat": 22.397243,
-        "lon": 114.195097
-    },
-    {
-        "id": 34,
-        "name": "喜運食堂",
-        "address": "達利中心 石蔭梨木道88號",
-        "district": "沙田",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "喜運食堂",
-        "lat": 22.370009,
-        "lon": 114.13769
-    },
-    {
-        "id": 35,
-        "name": "排頭村星期二餐廳",
-        "address": "沙田排頭村12號",
-        "district": "沙田",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "排頭村星期二餐廳",
-        "lat": 22.384438,
-        "lon": 114.187168
-    },
-    {
         "id": 36,
         "name": "石門 陳根記",
         "address": "沙田安群街2號沙田安群街2號",
@@ -466,58 +193,6 @@
         "brand": "石門 陳根記",
         "lat": 22.388414,
         "lon": 114.20781
-    },
-    {
-        "id": 37,
-        "name": "梅丘壽司美登利總本店",
-        "address": "Shop G24-25 Maritime Square, 33 Tsing Yi Rd W, Tsing Yi",
-        "district": "青衣",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "梅丘壽司美登利總本店",
-        "lat": 22.36125,
-        "lon": 114.107617
-    },
-    {
-        "id": 38,
-        "name": "皇庭酒樓",
-        "address": "流浮山流浮山山東街2號",
-        "district": "流浮山",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "皇庭酒樓",
-        "lat": 22.467646,
-        "lon": 113.984102
-    },
-    {
-        "id": 39,
-        "name": "巴辣仔",
-        "address": "粉嶺聯昌街20號",
-        "district": "粉嶺",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "巴辣仔",
-        "lat": 22.499528,
-        "lon": 114.143219
-    },
-    {
-        "id": 40,
-        "name": "聯和墟 山東餃子店人",
-        "address": "粉嶺聯和墟聯盛街2-4號友興樓地下B號舖",
-        "district": "粉嶺",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "聯和墟 山東餃子店人",
-        "lat": 22.498827,
-        "lon": 114.143412
     },
     {
         "id": 41,
@@ -1079,19 +754,6 @@
         "lon": 114.16837
     },
     {
-        "id": 84,
-        "name": "翠河",
-        "address": "大埔安慈路1號海寶花園10號舖",
-        "district": "大埔",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "翠河",
-        "lat": 22.4533933,
-        "lon": 114.1667183
-    },
-    {
         "id": 85,
         "name": "萬芳冰室",
         "address": "大埔寶湖道1號富盈門商場地下2號舖",
@@ -1131,32 +793,6 @@
         "lon": 113.975137
     },
     {
-        "id": 88,
-        "name": "喜運點心專門店",
-        "address": "石門京瑞廣場一期喜運點心專門店地下30C附近",
-        "district": "沙田",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "喜運點心專門店",
-        "lat": 22.3876539,
-        "lon": 114.2080941
-    },
-    {
-        "id": 89,
-        "name": "萌記牛什麵家",
-        "address": "葵芳信芳路186號地下A1號舖",
-        "district": "葵芳",
-        "areas": "新界區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "萌記牛什麵家",
-        "lat": 22.3578109,
-        "lon": 114.1298151
-    },
-    {
         "id": 90,
         "name": "西記粥品",
         "address": "黃大仙環鳳街26號地舖",
@@ -1181,19 +817,6 @@
         "brand": "景霖廚房(前稱麥記)",
         "lat": 22.3068648,
         "lon": 114.1859452
-    },
-    {
-        "id": 92,
-        "name": "木蘭館",
-        "address": "石硤尾偉智里1-3號白田購物中心地下5號舖",
-        "district": "石硤尾",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "木蘭館",
-        "lat": 22.3349604,
-        "lon": 114.1669223
     },
     {
         "id": 93,
@@ -1248,45 +871,6 @@
         "lon": 114.1747523
     },
     {
-        "id": 97,
-        "name": "新聯威茶餐廳",
-        "address": "尖沙咀山林道18號",
-        "district": "尖沙咀",
-        "areas": "九龍區",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "新聯威茶餐廳",
-        "lat": 22.3025625,
-        "lon": 114.1730687
-    },
-    {
-        "id": 98,
-        "name": "睿居酒屋",
-        "address": "大坑安庶庇街6號",
-        "district": "大坑",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "睿居酒屋",
-        "lat": 22.2790346,
-        "lon": 114.1920415
-    },
-    {
-        "id": 99,
-        "name": "偉利模型",
-        "address": "灣仔 灣仔道221 ",
-        "district": "灣仔",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "偉利模型",
-        "lat": 22.2777525,
-        "lon": 114.1793154
-    },
-    {
         "id": 100,
         "name": "喜記辣蟹",
         "address": "灣仔謝斐道379號",
@@ -1300,19 +884,6 @@
         "lon": 114.1797682
     },
     {
-        "id": 101,
-        "name": "精英電器",
-        "address": "灣仔 汕頭街5-7",
-        "district": "灣仔",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "精英電器",
-        "lat": 22.2752794,
-        "lon": 114.1714671
-    },
-    {
         "id": 102,
         "name": "三葉屋",
         "address": "北角炮台山宏安道18號威徳閣地下8號舖",
@@ -1324,45 +895,6 @@
         "brand": "三葉屋",
         "lat": 22.2883081,
         "lon": 114.1919364
-    },
-    {
-        "id": 103,
-        "name": "潮苑餐廳",
-        "address": "西環石塘咀屈地街44號地下",
-        "district": "石塘咀",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "潮苑餐廳",
-        "lat": 22.286247,
-        "lon": 114.136455
-    },
-    {
-        "id": 104,
-        "name": "皇后中西藥房有限公司",
-        "address": "西營盤皇后大道西291號地舖",
-        "district": "西營盤",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "皇后中西藥房有限公司",
-        "lat": 22.2870415,
-        "lon": 114.1424122
-    },
-    {
-        "id": 105,
-        "name": "成興粥品",
-        "address": "西環德輔道西408號地下D鋪",
-        "district": "西環",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "成興粥品",
-        "lat": 22.286549,
-        "lon": 114.136238
     },
     {
         "id": 106,
@@ -1404,19 +936,6 @@
         "lon": 114.1858059
     },
     {
-        "id": 109,
-        "name": "文輝墨魚丸大王正宗潮州粉麵",
-        "address": "銅鑼灣渣甸街22-24號",
-        "district": "銅鑼灣",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "文輝墨魚丸大王正宗潮州粉麵",
-        "lat": 22.2797858,
-        "lon": 114.1850373
-    },
-    {
         "id": 110,
         "name": "鰂魚涌京餃",
         "address": "鰂魚涌海光街4A-6號地下",
@@ -1428,19 +947,6 @@
         "brand": "鰂魚涌京餃",
         "lat": 22.2881594,
         "lon": 114.2107317
-    },
-    {
-        "id": 111,
-        "name": "Bitters and Sweets",
-        "address": "中環威靈頓街52-54號Somptueux Central 1樓",
-        "district": "中環",
-        "areas": "香港島",
-        "desc": "暫沒資料,希望用家提供",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "Bitters and Sweets",
-        "lat": 22.281856,
-        "lon": 114.1553265
     },
     {
         "id": 112,
@@ -1633,7 +1139,7 @@
         "desc": "有人發夢話：員工喺開舖之前屌柒啲示威人士，燒味佬更加話自己係三合會成員，以前綽號小霸王",
         "openHours": "暫沒資料",
         "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "Just Salad",
+        "brand": "Just Salad／（同埋連埋有一間燒味鋪）",
         "lat": 22.32258,
         "lon": 114.209244
     },
@@ -1678,7 +1184,7 @@
     },
     {
         "id": 130,
-        "name": "觀塘碼頭 百味軒",
+        "name": "百味軒",
         "address": "觀塘碼頭熟食市場",
         "district": "觀塘",
         "areas": "九龍區",
@@ -1691,7 +1197,7 @@
     },
     {
         "id": 131,
-        "name": "牛池灣 英輝咖啡屋",
+        "name": "英輝咖啡屋",
         "address": "牛池灣金池俓29號地下",
         "district": "牛池灣",
         "areas": "九龍區",
@@ -1945,7 +1451,7 @@
         "desc": "原文網址: https://lih.kg/1220224\n有人發夢話：養心殿老細話上街果班年輕人全部係被煽動 \n\n養心殿老闆KaFai Chan旗下餐廳：\n養心麵\n靖 omakase\n灣仔靠炆雞",
         "openHours": "暫沒資料",
         "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "養心殿",
+        "brand": "靖尖沙咀店",
         "lat": 22.298262,
         "lon": 114.174409
     },
@@ -1971,13 +1477,13 @@
         "desc": "有人發夢話：拒絕讓616穿黑衣示威者入座",
         "openHours": "暫沒資料",
         "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "Glasshouse",
+        "brand": "IFC Glasshouse",
         "lat": 22.284954,
         "lon": 114.156972
     },
     {
         "id": 153,
-        "name": "柴灣 民華餐廳",
+        "name": "民華餐廳",
         "address": "柴灣環翠道11號興華廣場1樓101-102號舖",
         "district": "柴灣",
         "areas": "香港島",
@@ -1990,7 +1496,7 @@
     },
     {
         "id": 154,
-        "name": "西環 666泰船面",
+        "name": "666泰船面",
         "address": "西環石塘咀德輔道西366號中亞大樓地舖",
         "district": "西環",
         "areas": "香港島",
@@ -2003,7 +1509,7 @@
     },
     {
         "id": 155,
-        "name": "灣仔美味天皇",
+        "name": "美味天皇",
         "address": "灣仔謝斐道148號地下A舖",
         "district": "灣仔",
         "areas": "香港島",
@@ -2366,45 +1872,6 @@
         "lon": 114.169804
     },
     {
-        "id": 212,
-        "name": "加記",
-        "address": "西環卑路乍街24號地下",
-        "district": "西環",
-        "areas": "香港島",
-        "desc": "原文網址: https://lih.kg/1406220 \n有人發夢話：8月4西環衝突 加記老細派冰水俾黑警話要多謝佢地",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "加記",
-        "lat": 22.283638,
-        "lon": 114.130728
-    },
-    {
-        "id": 213,
-        "name": "加記",
-        "address": "西環西營盤皇后大道西438號真善美大廈地舖",
-        "district": "西環",
-        "areas": "香港島",
-        "desc": "原文網址: https://lih.kg/1406220 \n有人發夢話：8月4西環衝突 加記老細派冰水俾黑警話要多謝佢地",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "加記",
-        "lat": 22.286347,
-        "lon": 114.138508
-    },
-    {
-        "id": 214,
-        "name": "加記",
-        "address": "鴨脷洲海怡路13號海怡半島東商場104-106號舖",
-        "district": "鴨脷洲",
-        "areas": "新界區",
-        "desc": "原文網址: https://lih.kg/1406220 \n有人發夢話：8月4西環衝突 加記老細派冰水俾黑警話要多謝佢地",
-        "openHours": "暫沒資料",
-        "image": "https://na.cx/i/fgjk4OD.jpg",
-        "brand": "加記",
-        "lat": 22.243434,
-        "lon": 114.148607
-    },
-    {
         "id": 215,
         "name": "檸檬冰室",
         "address": "深水埗汝洲街264-266號地舖",
@@ -2452,5 +1919,65 @@
         "brand": "鵝皇館/ 萬發館",
         "lat": 22.3214,
         "lon": 114.161621
+    },
+    {
+        "id": 226,
+        "name": "季季快餐店",
+        "address": "屯門青河坊3號利寶商場地下90號舖",
+        "district": "屯門",
+        "areas": "新界區",
+        "desc": "有人發夢話：極深藍店舖，與旁邊維修電視舖、胸圍店一起經常抹黑示威者，形容白衫打人是替天行道嫌打得不夠大力",
+        "image": "https://na.cx/i/fgjk4OD.jpg",
+        "brand": "季季快餐店",
+        "lat": 22.3884899,
+        "lon": 113.9769526
+    },
+    {
+        "id": 227,
+        "name": "18巷 Soi 18 Thai Cuisine",
+        "address": "銅鑼灣告士打道280號世貿中心13樓1302B室",
+        "district": "銅鑼灣",
+        "areas": "香港島",
+        "desc": "有人發夢話：餐廳老闆係前亞姐暗星張家瑩（而家改左名叫張珮汶）張家瑩幫過何君堯拉票 \n圖：https://static.appledaily.hk/images/e-paper/20151122/large/1448190313_124f.jpg\nhttps://static.appledaily.hk/images/e-paper/20151122/large/1448190425_eaa5.jpg\nhttp://images.takungpao.com/2015/1122/20151122055004229.jpg\n蘋果新聞link：https://hk.news.appledaily.com/local/realtime/article/20151122/54457292\n大公報link：http://news.takungpao.com.hk/hkol/topnews/2015-11/3241132.html",
+        "image": "https://na.cx/i/fgjk4OD.jpg",
+        "brand": "18巷 Soi 18 Thai Cuisine",
+        "lat": 22.2815242,
+        "lon": 114.1820307
+    },
+    {
+        "id": 228,
+        "name": "牛禪燒肉日本料理",
+        "address": "銅鑼灣告士打道280號世貿中心13樓1302室",
+        "district": "銅鑼灣",
+        "areas": "香港島",
+        "desc": "有人發夢話：餐廳老闆係前亞姐暗星張家瑩（而家改左名叫張珮汶）\nhttp://the-sun.on.cc/cnt/lifestyle/20140826/00479_001.html\n\n張家瑩幫過何君堯拉票\n圖：https://static.appledaily.hk/images/e-paper/20151122/large/1448190313_124f.jpg\nhttps://static.appledaily.hk/images/e-paper/20151122/large/1448190425_eaa5.jpg\nhttp://images.takungpao.com/2015/1122/20151122055004229.jpg\n蘋果新聞link：https://hk.news.appledaily.com/local/realtime/article/20151122/54457292\n大公報link：http://news.takungpao.com.hk/hkol/topnews/2015-11/3241132.html",
+        "image": "https://na.cx/i/fgjk4OD.jpg",
+        "brand": "牛禪燒肉日本料理",
+        "lat": 22.2815872,
+        "lon": 114.1820993
+    },
+    {
+        "id": 230,
+        "name": "滬江飯店",
+        "address": "彌敦道27-33號地庫",
+        "district": "尖沙咀",
+        "areas": "九龍區",
+        "desc": "有人發夢話：員工極深藍，話應該出解放軍打死示威者。門口本來有部電視長播cctvb，可能老闆驚員工成日望住部電視講錯嘢，所以近呢個月連電視都熄埋。",
+        "image": "https://na.cx/i/fgjk4OD.jpg",
+        "brand": "滬江飯店",
+        "lat": 22.2815862,
+        "lon": 114.1667784
+    },
+    {
+        "id": 231,
+        "name": "東記冰室",
+        "address": "緬甸台3-5號後座地鋪",
+        "district": "尖沙咀",
+        "areas": "九龍區",
+        "desc": "有人發夢話：員工極深藍，每次落去食嘢都聽到佢地喺度屌。",
+        "image": "https://na.cx/i/fgjk4OD.jpg",
+        "brand": "東記冰室",
+        "lat": 22.296151,
+        "lon": 114.17116
     }
 ]
