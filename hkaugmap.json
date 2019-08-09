@@ -12,30 +12,6 @@
         "lon": 114.161254
     },
     {
-        "id": 9,
-        "name": "8.4 將軍澳",
-        "address": "寶翠公園 → 寶林北路 (經將軍澳警署對出) → 寶寧路 → 將軍澳政府綜合大樓 → 坑口文曲里連儂牆 → 將軍澳單車館公園",
-        "district": "將軍澳",
-        "areas": "新界區",
-        "desc": "集合時間：下午 2:30\n集合地點：將軍澳寶翠公園\n路線：寶翠公園 → 寶林北路 (經將軍澳警署對出) → 寶寧路 → 將軍澳政府綜合大樓 → 坑口文曲里連儂牆 → 將軍澳單車館公園",
-        "image": "https://www.nearsnake.com/wp-content/uploads/2019/07/28th-july-tseung-kwan-o-march-2019_02_1800x935.jpg",
-        "brand": "8.4",
-        "lat": 22.324763,
-        "lon": 114.252602
-    },
-    {
-        "id": 10,
-        "name": "8.4 港島西",
-        "address": "堅尼地城科士街臨時遊樂場",
-        "district": "港島西",
-        "areas": "香港島",
-        "desc": "集合時間：下午 4:00\n集合地點：堅尼地城科士街臨時遊樂場",
-        "image": "https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpzNWPPT.jpg",
-        "brand": "8.4",
-        "lat": 22.28138,
-        "lon": 114.127721
-    },
-    {
         "id": 11,
         "name": "8.11 深水埗",
         "address": "花墟公園 → 界限街 → 長沙灣道 → 深水埗運動場",
@@ -78,7 +54,7 @@
         "district": "沙田",
         "areas": "新界區",
         "desc": "集合時間：2019年8月9日 (星期五) 下午8時 ‑ 11時 (3小時)\n集合地點：沙田娛樂城 對出空地  沙田瀝源街7號 \nhttps://lihkg.com/thread/1430479/page/1",
-        "image": "http://timable.com/res/pic/b2ec1a8ff38cc11937676a6d501f2a103.jpg",
+        "image": "https://na.cx/i/MzgPcyK.jpg",
         "brand": 8.9,
         "lat": 22.38415,
         "lon": 114.192349
@@ -90,7 +66,7 @@
         "district": "黃大仙",
         "areas": "新界區",
         "desc": "集合時間：2019年8月9日 (星期五) 下午8時 ‑ 11時 (3小時)\n集合地點：港鐵黃大仙站 D2出口 龍輝樓與黃大仙巴士總站之間\nhttps://lihkg.com/thread/1430479/page/1",
-        "image": "http://timable.com/res/pic/b2ec1a8ff38cc11937676a6d501f2a103.jpg",
+        "image": "https://na.cx/i/MzgPcyK.jpg",
         "brand": 8.9,
         "lat": 22.341558,
         "lon": 114.194778
