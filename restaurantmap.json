@@ -2738,5 +2738,57 @@
         "brand": "廉記冰室",
         "lat": 22.4490476,
         "lon": 114.1746419
+    },
+    {
+        "id": 293,
+        "name": "華嫂冰室",
+        "address": "華嫂冰室 (觀塘) 觀塘敬業街55號皇廷廣場1號舖",
+        "district": "觀塘",
+        "areas": "九龍區",
+        "desc": "原文網址:  https://lihkg.com/thread/1420739/page/1\n余文樂 為華嫂冰室嘅大股東",
+        "openHours": "暫沒資料",
+        "image": "https://na.cx/i/fgjk4OD.jpg",
+        "brand": "華嫂冰室",
+        "lat": 22.3081994,
+        "lon": 114.2256632
+    },
+    {
+        "id": 294,
+        "name": "華嫂冰室",
+        "address": "華嫂冰室 (元朗) 元朗屏山坑頭村",
+        "district": "元朗",
+        "areas": "新界區",
+        "desc": "原文網址:  https://lihkg.com/thread/1420739/page/1\n余文樂 為華嫂冰室嘅大股東",
+        "openHours": "暫沒資料",
+        "image": "https://na.cx/i/fgjk4OD.jpg",
+        "brand": "華嫂冰室",
+        "lat": 22.44544,
+        "lon": 114.0076535
+    },
+    {
+        "id": 295,
+        "name": "華嫂冰室",
+        "address": "華嫂冰室 (灣仔) 灣仔謝斐道272號杜智臺地下3-4號舖",
+        "district": "灣仔",
+        "areas": "香港島",
+        "desc": "原文網址:  https://lihkg.com/thread/1420739/page/1\n余文樂 為華嫂冰室嘅大股東",
+        "openHours": "暫沒資料",
+        "image": "https://na.cx/i/fgjk4OD.jpg",
+        "brand": "華嫂冰室",
+        "lat": 22.2792039,
+        "lon": 114.1775145
+    },
+    {
+        "id": 296,
+        "name": "華嫂冰室",
+        "address": "華嫂冰室 (尖沙咀) 尖沙咀棉登徑8號地下G7-G8號舖",
+        "district": "尖沙咀",
+        "areas": "九龍區",
+        "desc": "原文網址:  https://lihkg.com/thread/1420739/page/1\n余文樂 為華嫂冰室嘅大股東",
+        "openHours": "暫沒資料",
+        "image": "https://na.cx/i/fgjk4OD.jpg",
+        "brand": "華嫂冰室",
+        "lat": 22.2967817,
+        "lon": 114.1739767
     }
 ]
