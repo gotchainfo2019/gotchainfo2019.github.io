@@ -13,6 +13,32 @@
         "lon": 114.142804
     },
     {
+        "id": 372,
+        "name": "老come煎餅",
+        "address": "天后銀幕街15-17號地下A2B號舖 ",
+        "district": "天后",
+        "areas": "九龍區",
+        "desc": "原文網址: https://imgur.com/a/rIAEUtu",
+        "openHours": "暫沒資料",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/68581144_2407886585925385_3088769084318285824_o.jpg?_nc_cat=1&_nc_oc=AQm0KwZ6qjBfyOGQWP4-EPxohKl7R14-kt6AnE5mwf05-hSRXcuBLjYTZEoPZOaHQCI&_nc_ht=scontent.fhkg4-2.fna&oh=72a61468a8ab13ac20dc74a948206c41&oe=5DD08BF0",
+        "brand": "老come煎餅",
+        "lat": 22.2837887,
+        "lon": 114.1921221
+    },
+    {
+        "id": 359,
+        "name": "Greyhound Café Thai-pas Bar",
+        "address": "銅鑼灣登龍街1-29號金朝陽中心2期Midtown 地下",
+        "district": "銅鑼灣",
+        "areas": "九龍區",
+        "desc": "原文網址: https://lihkg.com/thread/1406273/page/1\n有人發夢話： 唔比員工8月5請假罷工!!!",
+        "openHours": "暫沒資料",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/68581144_2407886585925385_3088769084318285824_o.jpg?_nc_cat=1&_nc_oc=AQm0KwZ6qjBfyOGQWP4-EPxohKl7R14-kt6AnE5mwf05-hSRXcuBLjYTZEoPZOaHQCI&_nc_ht=scontent.fhkg4-2.fna&oh=72a61468a8ab13ac20dc74a948206c41&oe=5DD08BF0",
+        "brand": "Gaia Group",
+        "lat": 22.2788978,
+        "lon": 114.1818077
+    },
+    {
         "id": 348,
         "name": "王家沙花樣年華",
         "address": "太古太古城道18號太古城中心2期1 樓101號舖",
