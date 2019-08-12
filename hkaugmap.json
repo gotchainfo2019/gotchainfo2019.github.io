@@ -118,5 +118,17 @@
         "brand": "8.17",
         "lat": 22.30128,
         "lon": 114.190248
+    },
+    {
+        "id": 21,
+        "name": "818 「止黑暴，制警亂」",
+        "address": "維園",
+        "district": "銅鑼灣",
+        "areas": "香港島",
+        "desc": "圖片來源：網絡圖片\n\n資料來源： https://thestandnews.com/politics/%E6%B0%91%E9%99%A3%E7%99%BC%E8%B5%B7-818-%E9%81%8A%E8%A1%8C-%E6%AD%A2%E9%BB%91%E6%9A%B4-%E5%88%B6%E8%AD%A6%E4%BA%82/\n\n集合時間： 2019/8/18 下午 3:00\n集合地點：維園\n遊行路線：終點為遮打道行人專用區",
+        "image": "https://cdn.thestandnews.com/media/photos/cache/818-12_SPCyQ_1200x0.png",
+        "brand": "8.18",
+        "lat": 22.282385,
+        "lon": 114.189311
     }
 ]
