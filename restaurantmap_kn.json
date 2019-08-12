@@ -1512,6 +1512,19 @@
         "lon": 114.1681265
     },
     {
+        "id": 350,
+        "name": "Greyhound Café",
+        "address": "旺角太子道西193號MOKO新世紀廣場3樓301-302號舖",
+        "district": "旺角",
+        "areas": "香港島",
+        "desc": "原文網址: https://lihkg.com/thread/1406273/page/1\n有人發夢話： 唔比員工8月5請假罷工!!!",
+        "openHours": "暫沒資料",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/68581144_2407886585925385_3088769084318285824_o.jpg?_nc_cat=1&_nc_oc=AQm0KwZ6qjBfyOGQWP4-EPxohKl7R14-kt6AnE5mwf05-hSRXcuBLjYTZEoPZOaHQCI&_nc_ht=scontent.fhkg4-2.fna&oh=72a61468a8ab13ac20dc74a948206c41&oe=5DD08BF0",
+        "brand": "Gaia Group",
+        "lat": 22.3232657,
+        "lon": 114.172011
+    },
+    {
         "id": 354,
         "name": "Greyhound Café",
         "address": "九龍塘達之路80號又一城2樓L2-42號舖",

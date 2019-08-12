@@ -13,6 +13,19 @@
         "lon": 114.142804
     },
     {
+        "id": 348,
+        "name": "王家沙花樣年華",
+        "address": "太古太古城道18號太古城中心2期1 樓101號舖",
+        "district": "太古",
+        "areas": "新界區",
+        "desc": "原文網址: https://lihkg.com/thread/1406273/page/1\n有人發夢話： 唔比員工8月5請假罷工!!!",
+        "openHours": "暫沒資料",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/68581144_2407886585925385_3088769084318285824_o.jpg?_nc_cat=1&_nc_oc=AQm0KwZ6qjBfyOGQWP4-EPxohKl7R14-kt6AnE5mwf05-hSRXcuBLjYTZEoPZOaHQCI&_nc_ht=scontent.fhkg4-2.fna&oh=72a61468a8ab13ac20dc74a948206c41&oe=5DD08BF0",
+        "brand": "Gaia Group",
+        "lat": 22.2866663,
+        "lon": 114.2174168
+    },
+    {
         "id": 23,
         "name": "肥仔記麵家",
         "address": "銅鑼灣福興里40號地舖",
@@ -919,19 +932,6 @@
         "lon": 114.1847145
     },
     {
-        "id": 350,
-        "name": "Greyhound Café",
-        "address": "旺角太子道西193號MOKO新世紀廣場3樓301-302號舖",
-        "district": "旺角",
-        "areas": "香港島",
-        "desc": "原文網址: https://lihkg.com/thread/1406273/page/1\n有人發夢話： 唔比員工8月5請假罷工!!!",
-        "openHours": "暫沒資料",
-        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/68581144_2407886585925385_3088769084318285824_o.jpg?_nc_cat=1&_nc_oc=AQm0KwZ6qjBfyOGQWP4-EPxohKl7R14-kt6AnE5mwf05-hSRXcuBLjYTZEoPZOaHQCI&_nc_ht=scontent.fhkg4-2.fna&oh=72a61468a8ab13ac20dc74a948206c41&oe=5DD08BF0",
-        "brand": "Gaia Group",
-        "lat": 22.3232657,
-        "lon": 114.172011
-    },
-    {
         "id": 352,
         "name": "Greyhound Café",
         "address": "中環港景街1號國際金融中心1樓1082舖",
@@ -995,32 +995,6 @@
         "brand": "吉野家",
         "lat": 22.2639913,
         "lon": 114.2370739
-    },
-    {
-        "id": 377,
-        "name": "吉野家",
-        "address": "將軍澳唐德街1號將軍澳廣場2樓2070-2072號舖",
-        "district": "將軍澳",
-        "areas": "香港島",
-        "desc": "有人發夢話：「反送中」運動遍地開花，市民自發在各區設置連儂牆。近百名配備防暴裝備的持盾警員，日前凌晨前往大埔連儂牆撕走涉警資料便條紙，連鎖餐廳吉野家事後在臉書專頁發表宣傳產品的貼文，當中「唔准叫我獅子狗」的字眼被指辱警。中聯辦主導的《文匯報》及《大公報》報道，吉野家已跟外判廣告公司解約，負責廣告事務的公司員工已亦被解聘。職工盟今午到油麻地吉野家僑江大廈分店抗議，批評解僱工做法屬政治打壓，並呼籲市民「向染紅獅子狗說不！」\n\n報道引述吉野家母公司香港合興集團有限公司總裁、全國政協委員洪明基稱，他最近參加了撐警大會，全力支持特區政府依法施政，對事先不知情感到極為憤怒，亦對事件感到非常痛心。目前涉事廣告已刪除，外判廣告公司遭解約，而負責廣告事務的公司員工亦被解僱。",
-        "openHours": "暫沒資料",
-        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/68581144_2407886585925385_3088769084318285824_o.jpg?_nc_cat=1&_nc_oc=AQm0KwZ6qjBfyOGQWP4-EPxohKl7R14-kt6AnE5mwf05-hSRXcuBLjYTZEoPZOaHQCI&_nc_ht=scontent.fhkg4-2.fna&oh=72a61468a8ab13ac20dc74a948206c41&oe=5DD08BF0",
-        "brand": "吉野家",
-        "lat": 22.3085319,
-        "lon": 114.2624899
-    },
-    {
-        "id": 378,
-        "name": "吉野家",
-        "address": "將軍澳常寧路2號TKO Gateway西翼1樓W104號舖",
-        "district": "將軍澳",
-        "areas": "香港島",
-        "desc": "有人發夢話：「反送中」運動遍地開花，市民自發在各區設置連儂牆。近百名配備防暴裝備的持盾警員，日前凌晨前往大埔連儂牆撕走涉警資料便條紙，連鎖餐廳吉野家事後在臉書專頁發表宣傳產品的貼文，當中「唔准叫我獅子狗」的字眼被指辱警。中聯辦主導的《文匯報》及《大公報》報道，吉野家已跟外判廣告公司解約，負責廣告事務的公司員工已亦被解聘。職工盟今午到油麻地吉野家僑江大廈分店抗議，批評解僱工做法屬政治打壓，並呼籲市民「向染紅獅子狗說不！」\n\n報道引述吉野家母公司香港合興集團有限公司總裁、全國政協委員洪明基稱，他最近參加了撐警大會，全力支持特區政府依法施政，對事先不知情感到極為憤怒，亦對事件感到非常痛心。目前涉事廣告已刪除，外判廣告公司遭解約，而負責廣告事務的公司員工亦被解僱。",
-        "openHours": "暫沒資料",
-        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/68581144_2407886585925385_3088769084318285824_o.jpg?_nc_cat=1&_nc_oc=AQm0KwZ6qjBfyOGQWP4-EPxohKl7R14-kt6AnE5mwf05-hSRXcuBLjYTZEoPZOaHQCI&_nc_ht=scontent.fhkg4-2.fna&oh=72a61468a8ab13ac20dc74a948206c41&oe=5DD08BF0",
-        "brand": "吉野家",
-        "lat": 22.3171998,
-        "lon": 114.2659481
     },
     {
         "id": 381,
