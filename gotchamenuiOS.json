@@ -28,6 +28,20 @@
         "action": "coinsmap"
     },
     {
+        "title": "報料區",
+        "icon": "icon_rating.png",
+        "layout": "reportForm",
+        "actionType": "API",
+        "action": "reportForm"
+    },
+    {
+        "title": "點評報料區",
+        "icon": "icon_like.png",
+        "layout": "reviewReport ",
+        "actionType": "API",
+        "action": "reviewReport "
+    },
+    {
         "title": "Google Form",
         "icon": "icon_google_form.png",
         "layout": "webview",
@@ -47,5 +61,33 @@
         "layout": "webview",
         "actionType": "URL",
         "action": "https://www.instagram.com/wstick.j/?hl=zh-hk"
+    },
+    {
+        "title": "唔好叫錯外賣餐廳 - 香港",
+        "icon": "icon_map_marker_restaurant.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "restaurantmap_hk"
+    },
+    {
+        "title": "唔好叫錯外賣餐廳 - 九龍",
+        "icon": "icon_map_marker_restaurant.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "restaurantmap_kn"
+    },
+    {
+        "title": "唔好叫錯外賣餐廳 - 新界",
+        "icon": "icon_map_marker_restaurant.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "restaurantmap_tm"
+    },
+    {
+        "title": "8月好去處",
+        "icon": "icon_map_marker_black.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "hkaugmap"
     }
 ]
