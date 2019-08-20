@@ -35,20 +35,6 @@
         "action": "reportForm"
     },
     {
-        "title": "點評報料區",
-        "icon": "icon_like.png",
-        "layout": "reviewReport ",
-        "actionType": "API",
-        "action": "reviewReport "
-    },
-    {
-        "title": "Google Form",
-        "icon": "icon_google_form.png",
-        "layout": "webview",
-        "actionType": "URL",
-        "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
-    },
-    {
         "title": "Facebook Fan Page",
         "icon": "icon_facebook.png",
         "layout": "webview",
@@ -82,12 +68,5 @@
         "layout": "map",
         "actionType": "API",
         "action": "restaurantmap_tm"
-    },
-    {
-        "title": "8月好去處",
-        "icon": "icon_map_marker_black.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "hkaugmap"
     }
 ]
