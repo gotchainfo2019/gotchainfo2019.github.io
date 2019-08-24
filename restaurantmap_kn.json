@@ -2648,5 +2648,17 @@
         "brand": "大少燒味茶餐廳",
         "lat": 22.317364,
         "lon": 114.236349
+    },
+    {
+        "id": 629,
+        "name": "翡翠拉麵小籠包",
+        "address": "九龍灣德 福 廣場 第 1 期 G53A 號 舖",
+        "district": "將軍澳",
+        "areas": "九龍區",
+        "desc": "原文網址:  https://lihkg.com/thread/1501354/page/1\n\n有人發夢話 : 24/8 話唔歡迎黑衫喎",
+        "image": "https://na.cx/i/uvSwHez.png",
+        "brand": "翡翠拉麵小籠包",
+        "lat": 22.3210652,
+        "lon": 114.2132768
     }
 ]
