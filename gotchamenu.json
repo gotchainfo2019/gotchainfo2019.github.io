@@ -21,7 +21,7 @@
         "action": "hkaugmap"
     },
     {
-        "title": "Google Form",
+        "title": "報料區",
         "icon": "icon_google_form.png",
         "layout": "webview",
         "actionType": "URL",
