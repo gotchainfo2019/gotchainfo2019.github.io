@@ -1290,5 +1290,111 @@
         "brand": "Gotcha",
         "lat": 22.370735,
         "lon": 114.111309
+    },
+    {
+        "id": 99,
+        "name": "Octopus",
+        "address": "大埔安慈路4號昌運中心地下76號舖",
+        "district": "大埔",
+        "areas": "新界區",
+        "desc": "https://instagram.com/oooctopus2019?igshid=zfpqb2ge9vu5",
+        "image": "https://instagram.fhkg3-1.fna.fbcdn.net/vp/f7ecb180b10986e87ca80edc98e79b76/5E12AAF3/t51.2885-15/sh0.08/e35/s640x640/66710300_389033945139916_2444651974230598514_n.jpg?_nc_ht=instagram.fhkg3-1.fna.fbcdn.net&_nc_cat=104 640w,https://instagram.fhkg3-1.fna.fbcdn.net/vp/d9ec38614b664417ed5f4e403c2c458c/5E04CEF3/t51.2885-15/sh0.08/e35/s750x750/66710300_389033945139916_2444651974230598514_n.jpg?_nc_ht=instagram.fhkg3-1.fna.fbcdn.net&_nc_cat=104 750w,https://instagram.fhkg3-1.fna.fbcdn.net/vp/091b8333947972e78369ee6868c47d27/5DF2BA16/t51.2885-15/e35/66710300_389033945139916_2444651974230598514_n.jpg?_nc_ht=instagram.fhkg3-1.fna.fbcdn.net&_nc_cat=104 1080w",
+        "brand": "Octopus",
+        "lat": 22.452476,
+        "lon": 114.168026
+    },
+    {
+        "id": 100,
+        "name": "jumbo夾公仔兵團",
+        "address": "天一商城1092舖",
+        "district": "元朗區",
+        "areas": "新界區",
+        "image": "https://scontent.fhkg3-1.fna.fbcdn.net/v/t1.0-9/69150592_811370509259760_6121894904516837376_n.jpg?_nc_cat=104&_nc_oc=AQkBWnJdYqDrpX7xNbUl6VBr-1PDYP60jIwFoeFqse_DsSn2JRnaAn_YaqSj71SclZE&_nc_ht=scontent.fhkg3-1.fna&oh=e22e038aedad1f4705186b727ab25e6f&oe=5E13F476",
+        "brand": "jumbo夾公仔兵團",
+        "lat": 22.4647433,
+        "lon": 114.0030365
+    },
+    {
+        "id": 101,
+        "name": "Big bear 娃娃機",
+        "address": "荃灣街市街 (麥當勞對面) ",
+        "district": "荃灣區",
+        "areas": "新界區",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/58602874_796120114093947_6396841015541497856_n.jpg?_nc_cat=103&_nc_oc=AQlF-sfnDXQf-bgQ5zGf_Je8ljXWTBBxKU6cYLS7TfVQ00ByqWupOB0wjs4yVGkRx6Y&_nc_ht=scontent.fhkg4-2.fna&oh=0a3015b51532f39d90407e913f4a89d7&oe=5D930056",
+        "fb": "796119764093982",
+        "brand": "Big bear 娃娃機",
+        "lat": 22.3719076,
+        "lon": 114.1165506
+    },
+    {
+        "id": 102,
+        "name": "Easy Claw 自助夾公仔專門店",
+        "address": "沙田石門京瑞廣場二期101c16号店",
+        "district": "沙田區",
+        "areas": "新界區",
+        "image": "https://scontent.fhkg4-1.fna.fbcdn.net/v/t1.0-9/68661710_493621071422997_8487976449259601920_o.jpg?_nc_cat=107&_nc_oc=AQkGYQEZqQcdgS5O9R5wlW9Zg-uy9vGNZ7nDupA9qR5GITXkrwiX4FYDenEfEeEzDR8&_nc_ht=scontent.fhkg4-1.fna&oh=5f084ff799270cc1ca004d778e0e4873&oe=5E117B61",
+        "fb": "214482126003561",
+        "brand": "Easy Claw 自助夾公仔專門店",
+        "lat": 22.3888914,
+        "lon": 114.20842
+    },
+    {
+        "id": 103,
+        "name": "Easy Claw 自助夾公仔專門店",
+        "address": "大角咀櫸樹街十號富多來商場一期地舖(近新九龍廣場)",
+        "district": "油尖旺區",
+        "areas": "九龍區",
+        "image": "https://scontent.fhkg4-1.fna.fbcdn.net/v/t1.0-9/68661710_493621071422997_8487976449259601920_o.jpg?_nc_cat=107&_nc_oc=AQkGYQEZqQcdgS5O9R5wlW9Zg-uy9vGNZ7nDupA9qR5GITXkrwiX4FYDenEfEeEzDR8&_nc_ht=scontent.fhkg4-1.fna&oh=5f084ff799270cc1ca004d778e0e4873&oe=5E117B61",
+        "fb": "214482126003561",
+        "brand": "Easy Claw 自助夾公仔專門店",
+        "lat": 22.319709,
+        "lon": 114.163144
+    },
+    {
+        "id": 104,
+        "name": "奇幻天地",
+        "address": "旺角砵蘭街450-454號HQ地下C&D舖",
+        "district": "油尖旺區",
+        "areas": "九龍區",
+        "image": "https://scontent.fhkg3-1.fna.fbcdn.net/v/t1.0-9/69436475_1194036394133075_6355617485642792960_n.png?_nc_cat=104&_nc_oc=AQmFV3xr_OWg4hsSEz5F8NlPEr1MZxy20DcMBD1JoJbk2CpOuBo2idZUJTro-y6nvdA&_nc_ht=scontent.fhkg3-1.fna&oh=733ea39ad10796347bf87824ed302516&oe=5E0B6D75",
+        "fb": "709503145919738",
+        "brand": "奇幻天地",
+        "lat": 22.3262595,
+        "lon": 114.1674605
+    },
+    {
+        "id": 105,
+        "name": "Bingo Catcher ビンゴキャッチャー",
+        "address": "葵涌葵富路7-11號葵涌廣場二樓c09 A",
+        "district": "葵青區",
+        "areas": "新界區",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/65309338_375574859761011_4418617643515248640_o.jpg?_nc_cat=106&_nc_oc=AQmEHf18Kpm7eHGbGfiuj_bbd_LKvGVTxq-930dfD4ICJ9ja5FtSOQXMSuX2mEsxhrk&_nc_ht=scontent.fhkg4-2.fna&oh=7e360af5cd5c1e747bf5ab2a27a270c1&oe=5E114FCC",
+        "fb": "351602742158223",
+        "brand": "Bingo Catcher ビンゴキャッチャー",
+        "lat": 22.357912,
+        "lon": 114.1280366
+    },
+    {
+        "id": 106,
+        "name": "Magic Dolls",
+        "address": "油塘大本型2樓208號舖",
+        "district": "觀塘區",
+        "areas": "九龍區",
+        "image": "http://www.domain-mall.hk/images/2019shopfrontupdate/magic_dolls.jpg",
+        "brand": "Magic Dolls",
+        "lat": 22.2964531,
+        "lon": 114.2386982
+    },
+    {
+        "id": 107,
+        "name": "Dream Gotcha 夢の抓物店",
+        "address": "屯門海趣坊77號舖",
+        "district": "屯門區",
+        "areas": "新界區",
+        "image": "https://scontent.fhkg4-2.fna.fbcdn.net/v/t1.0-9/48393801_571017376657223_2852215411074662400_n.jpg?_nc_cat=109&_nc_oc=AQm--Lmc6-0fX1IYH_WLTYvDKUbO4RMUD_BFNa05z3QtDrgQVjgHgjwHoAfrVqNvrCY&_nc_ht=scontent.fhkg4-2.fna&oh=36eae1d920521fbc34286e51d36b41a8&oe=5D8F2418",
+        "fb": "560128694412758",
+        "brand": "Dream Gotcha 夢の抓物店",
+        "lat": 22.372698,
+        "lon": 113.966237
     }
 ]
