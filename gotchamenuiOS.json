@@ -1,5 +1,9 @@
 [
     {
+        "title": "娛樂",
+        "actionType": "Title",
+    },
+    {
         "title": "夾公仔地圖",
         "icon": "icon_map_marker.png",
         "layout": "map",
@@ -13,13 +17,7 @@
         "actionType": "API",
         "action": "https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=15&order=date&q=UFO%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC%7C%E5%A4%BE%E5%85%AC%E4%BB%94%7C%E5%A4%BE%E5%A8%83%E5%A8%83%7C%E5%A8%83%E5%A8%83%E6%A9%9F&fields=items&key="
     },
-    {
-        "title": "唔好叫錯外賣餐廳",
-        "icon": "icon_map_marker_restaurant.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "restaurantmap"
-    },
+
     {
         "title": "夾公仔推薦影片",
         "icon": "icon_video.png",
@@ -42,6 +40,28 @@
         "action": "reportForm"
     },
     {
+        "title": "香港加油",
+        "actionType": "Title",
+    },
+    {
+        "title": "唔好叫錯外賣餐廳",
+        "icon": "icon_map_marker_restaurant.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "restaurantmap"
+    },
+    {
+        "title": "報料區",
+        "icon": "icon_rating.png",
+        "layout": "reportForm",
+        "actionType": "API",
+        "action": "reportForm"
+    },
+    {
+        "title": "關於我們",
+        "actionType": "Title",
+    },
+    {
         "title": "Facebook Fan Page",
         "icon": "icon_facebook.png",
         "layout": "webview",
@@ -54,26 +74,5 @@
         "layout": "webview",
         "actionType": "URL",
         "action": "https://www.instagram.com/wstick.j/?hl=zh-hk"
-    },
-    {
-        "title": "唔好叫錯外賣餐廳 - 香港",
-        "icon": "icon_map_marker_restaurant.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "restaurantmap_hk"
-    },
-    {
-        "title": "唔好叫錯外賣餐廳 - 九龍",
-        "icon": "icon_map_marker_restaurant.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "restaurantmap_kn"
-    },
-    {
-        "title": "唔好叫錯外賣餐廳 - 新界",
-        "icon": "icon_map_marker_restaurant.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "restaurantmap_tm"
     }
 ]
