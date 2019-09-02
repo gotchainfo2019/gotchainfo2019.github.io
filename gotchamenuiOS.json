@@ -74,5 +74,12 @@
         "layout": "webview",
         "actionType": "URL",
         "action": "https://www.instagram.com/wstick.j/?hl=zh-hk"
+    },
+    {
+        "title": "解鎖 - 移除廣告",
+        "icon": "icon_ads.png",
+        "layout": "InAppPurchase",
+        "actionType": "InAppPurchase",
+        "action": "whatsgap.remove.ads"
     }
 ]
