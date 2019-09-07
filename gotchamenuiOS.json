@@ -1,7 +1,7 @@
 [
     {
         "title": "香港加油",
-        "actionType": "Title",
+        "actionType": "Title"
     },
     {
         "title": "唔好叫錯外賣餐廳",
@@ -19,7 +19,7 @@
     },
     {
         "title": "娛樂",
-        "actionType": "Title",
+        "actionType": "Title"
     },
     {
         "title": "夾公仔地圖",
@@ -58,7 +58,7 @@
     },
     {
         "title": "關於我們",
-        "actionType": "Title",
+        "actionType": "Title"
     },
     {
         "title": "Facebook Fan Page",
@@ -76,7 +76,7 @@
     },
     {
         "title": "解鎖 - 去除廣告",
-        "desc": "$8 永久去除app內的所有廣告"
+        "desc": "$8 永久去除app內的所有廣告",
         "icon": "icon_ads.png",
         "layout": "InAppPurchase",
         "actionType": "InAppPurchase",
