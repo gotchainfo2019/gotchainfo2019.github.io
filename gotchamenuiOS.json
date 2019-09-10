@@ -1,14 +1,17 @@
 [
     {
         "title": "香港加油",
-        "actionType": "Title"
+        "actionType": "Title",
+        "action": "Title"
     },
     {
         "title": "唔好叫錯外賣餐廳",
         "icon": "icon_map_marker_restaurant.png",
         "layout": "map",
         "actionType": "API",
-        "action": "restaurantmap"
+        "action": "restaurantmap",
+        "pollingKeywordName1": "1星餐廳",
+        "pollingKeywordName2": "反對"
     },
     {
         "title": "報料區",
@@ -18,15 +21,17 @@
         "action": "reportForm"
     },
     {
-        "title": "娛樂",
-        "actionType": "Title"
+        "title": "夾公仔",
+        "actionType": "Title",
+        "action": "Title"
     },
     {
         "title": "夾公仔地圖",
         "icon": "icon_map_marker.png",
         "layout": "map",
         "actionType": "API",
-        "action": "gotchamap"
+        "action": "gotchamap",
+        "pollingKeywordName1": "夾公仔"
     },
     {
         "title": "夾公仔達人最新影片",
@@ -58,7 +63,8 @@
     },
     {
         "title": "關於我們",
-        "actionType": "Title"
+        "actionType": "Title",
+        "action": "Title"
     },
     {
         "title": "Facebook Fan Page",
@@ -76,10 +82,10 @@
     },
     {
         "title": "解鎖 - 去除廣告",
-        "desc": "$8 永久去除app內的所有廣告",
         "icon": "icon_ads.png",
         "layout": "InAppPurchase",
         "actionType": "InAppPurchase",
-        "action": "whatsgap.remove.ads"
+        "action": "whatsgap.remove.ads",
+        "desc": "$8 永久去除app內的所有廣告"
     }
 ]
