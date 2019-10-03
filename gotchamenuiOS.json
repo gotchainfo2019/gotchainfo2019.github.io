@@ -14,6 +14,14 @@
         "pollingKeywordName2": "反對"
     },
     {
+        "title": "網民推介餐廳",
+        "icon": "icon_map_marker_restaurant_yellow.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "yellowobjectmap",
+        "pollingKeywordName1": "5星餐廳"
+    },
+    {
         "title": "報料區",
         "icon": "icon_rating.png",
         "layout": "reportForm",
