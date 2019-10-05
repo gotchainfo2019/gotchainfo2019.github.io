@@ -22,7 +22,7 @@
         "pollingKeywordName1": "5星餐廳"
     },
     {
-        "title": "報料區",
+        "title": "報料區(維修中）",
         "icon": "icon_rating.png",
         "layout": "reportForm",
         "actionType": "API",
@@ -42,7 +42,7 @@
         "pollingKeywordName1": "夾公仔"
     },
     {
-        "title": "報料區",
+        "title": "報料區(維修中）",
         "icon": "icon_rating.png",
         "layout": "reportForm",
         "actionType": "API",
