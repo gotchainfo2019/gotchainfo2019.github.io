@@ -1,12 +1,5 @@
 [
     {
-        "title": "夾公仔地圖",
-        "icon": "icon_map_marker.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "gotchamap"
-    },
-    {
         "title": "網民推介餐廳",
         "icon": "icon_map_marker_restaurant_yellow.png",
         "layout": "map",
@@ -21,11 +14,25 @@
         "action": "restaurantmap"
     },
     {
-        "title": "報料區",
+        "title": "餐廳報料區",
         "icon": "icon_google_form.png",
         "layout": "webview",
         "actionType": "URL",
         "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
+    },
+    {
+        "title": "夾公仔地圖",
+        "icon": "icon_map_marker.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "gotchamap"
+    },
+    {
+        "title": "夾公仔報料區",
+        "icon": "icon_google_form.png",
+        "layout": "webview",
+        "actionType": "URL",
+        "action": "https://docs.google.com/forms/d/e/1FAIpQLSdiatMZWddTLTJBq8Lk-3bVhlwMqgcsgiq_hoCFTzLttHc7bg/viewform?usp=sf_link"
     },
     {
         "title": "Facebook Fan Page",
