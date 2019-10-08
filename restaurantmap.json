@@ -5573,6 +5573,7 @@
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "和生飯店",
+        "googlePlaceId2": "ChIJG9zfdN76AzQRLQMn4AVv4h8",
         "lat": 22.4111996,
         "lon": 113.9761189
     },
