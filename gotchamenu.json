@@ -1,5 +1,12 @@
 [
     {
+        "title": "夾公仔地圖",
+        "icon": "icon_map_marker.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "gotchamap"
+    },
+    {
         "title": "網民推介餐廳",
         "icon": "icon_map_marker_restaurant_yellow.png",
         "layout": "map",
@@ -19,13 +26,6 @@
         "layout": "webview",
         "actionType": "URL",
         "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
-    },
-    {
-        "title": "夾公仔地圖",
-        "icon": "icon_map_marker.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "gotchamap"
     },
     {
         "title": "夾公仔報料區",
