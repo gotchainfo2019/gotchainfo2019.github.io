@@ -678,7 +678,7 @@
     },
     {
         "id": 82,
-        "name": "選物販賣機",
+        "name": "夾上癮 選物販賣機",
         "address": "元朗雞地鳳群街萬豐商場12號地鋪",
         "district": "元朗",
         "areas": "新界區",
@@ -691,7 +691,7 @@
     },
     {
         "id": 83,
-        "name": "選物販賣機",
+        "name": "夾上癮 選物販賣機",
         "address": "元朗大馬路喜利商場1樓14號舖",
         "district": "元朗",
         "areas": "新界區",
@@ -1909,5 +1909,18 @@
         "brand": "公仔樂園 Toyz factory",
         "lat": 22.452909,
         "lon": 114.170445
+    },
+    {
+        "id": 148,
+        "name": "Aeon Molly Fantasy",
+        "address": "將軍澳廣場2樓Aeon (吉野家對面)",
+        "district": "西貢",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJmdymzYwDBDQRdLtbh--Vpuc",
+        "desc": "有2部夾大公仔, 2部夾細公仔",
+        "type": "gotcha",
+        "brand": "Aeon Molly Fantasy",
+        "lat": 22.3088762,
+        "lon": 114.2626566
     }
 ]
