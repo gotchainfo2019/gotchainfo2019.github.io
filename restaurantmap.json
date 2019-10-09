@@ -871,19 +871,6 @@
         "lon": 114.1797682
     },
     {
-        "id": 102,
-        "name": "三葉屋",
-        "address": "北角炮台山宏安道18號威徳閣地下8號舖",
-        "district": "東區",
-        "areas": "香港島",
-        "desc": "有人發夢話 : 尋晚同朋友去完金鐘去食飯個侍應聽到隔離枱講緊件事就大大聲講班學生收左錢搞事",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
-        "brand": "三葉屋",
-        "lat": 22.2883081,
-        "lon": 114.1919364
-    },
-    {
         "id": 106,
         "name": "蓮園粥麵小廚",
         "address": "跑馬地成和道51A號地下D舖",
@@ -1584,19 +1571,6 @@
         "brand": "新樂餐廳",
         "lat": 22.304268,
         "lon": 114.17148
-    },
-    {
-        "id": 191,
-        "name": "家樂軒小廚",
-        "address": "俊宏廣場地下G04号舖, 88号 Tin Shui Rd, Tin Shui Wai",
-        "district": "元朗",
-        "areas": "新界區",
-        "desc": "有人發夢話 : 老闆娘同d伙記支持元朗恐襲 話d市民抵撚死 廢老集中地",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
-        "brand": "家樂軒小廚",
-        "lat": 22.468495,
-        "lon": 114.000309
     },
     {
         "id": 192,
@@ -6785,19 +6759,6 @@
         "brand": "浦東晉家門",
         "lat": 22.325552,
         "lon": 114.16756
-    },
-    {
-        "id": 659,
-        "name": "六角日本料理",
-        "address": "灣仔光明街6號",
-        "district": "灣仔",
-        "areas": "香港島",
-        "desc": "有人發夢話 : 發夢知道老闆藍絲，譴責班年輕人發窮惡，破壞香港",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
-        "brand": "六角日本料理",
-        "lat": 22.2760413,
-        "lon": 114.1689623
     },
     {
         "id": 660,
