@@ -40,12 +40,5 @@
         "layout": "webview",
         "actionType": "URL",
         "action": "https://www.facebook.com/100290784654471"
-    },
-    {
-        "title": "Facebook Fan Page",
-        "icon": "icon_facebook.png",
-        "layout": "fullscreenad",
-        "actionType": "URL",
-        "action": "promotion20191004.jpg"
     }
 ]
