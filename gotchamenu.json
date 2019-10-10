@@ -35,7 +35,7 @@
         "action": "https://docs.google.com/forms/d/e/1FAIpQLSdiatMZWddTLTJBq8Lk-3bVhlwMqgcsgiq_hoCFTzLttHc7bg/viewform?usp=sf_link"
     },
     {
-        "title": "Facebook Fan Page",
+        "title": “Follow Facebook Page",
         "icon": "icon_facebook.png",
         "layout": "webview",
         "actionType": "FACEBOOK",
