@@ -23,14 +23,7 @@
         "pollingKeywordName2": "網民推介餐廳"
     },
     {
-         "title": "餐廳報料區",
-         "icon": "icon_google_form.png",
-         "layout": "webview",
-         "actionType": "URL",
-         "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
-     },
-    {
-        "title": "報料區(維修中)",
+        "title": "報料區",
         "icon": "icon_rating.png",
         "layout": "reportForm",
         "actionType": "API",
@@ -50,12 +43,12 @@
         "pollingKeywordName1": "夾公仔"
     },
     {
-         "title": "夾公仔報料區",
-         "icon": "icon_google_form.png",
-         "layout": "webview",
-         "actionType": "URL",
-         "action": "https://docs.google.com/forms/d/e/1FAIpQLSdiatMZWddTLTJBq8Lk-3bVhlwMqgcsgiq_hoCFTzLttHc7bg/viewform?usp=sf_link"
-     },
+        "title": "報料區",
+        "icon": "icon_rating.png",
+        "layout": "reportForm",
+        "actionType": "API",
+        "action": "reportForm"
+    },
     {
         "title": "關於我們",
         "actionType": "Title",
