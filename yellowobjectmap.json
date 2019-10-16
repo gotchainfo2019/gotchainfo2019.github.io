@@ -7024,7 +7024,7 @@
     {
         "id": 477,
         "name": "Trois Cafe",
-        "address": "香港中環鐵巷里6號地下",
+        "address": "香港中環鐵行里6號地下",
         "district": "中西區",
         "areas": "香港島",
         "desc": "5/8 罷市\nhttps://www.facebook.com/permalink.php?story_fbid=1439469662867558&id=1323200871161105",
@@ -7032,8 +7032,8 @@
         "openHours": "星期一至五 08:00 - 18:00\r\n星期六 11:00 - 18:00\r\n星期日 全日休息",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "Trois Cafe",
-        "lat": 22.2799907,
-        "lon": 114.1587983,
+        "lat": 22.28452,
+        "lon": 114.155381,
         "fb2": "https://www.facebook.com/Trois-Cafe-1323200871161105/"
     },
     {
