@@ -5412,21 +5412,6 @@
         "fb2": "@熹記蔬菜"
     },
     {
-        "id": 369,
-        "name": "開檯食飯",
-        "address": "石塘咀合和街國基大廈6-12號地下G鋪",
-        "district": "中西區",
-        "areas": "香港島",
-        "desc": "協助劏房戶\nhttps://hk.lifestyle.appledaily.com/lifestyle/realtime/article/20190829/59982023",
-        "type": "restaurant",
-        "openHours": "星期三至五 16:00 - 21:00\n星期六 12:00 - 22:00",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
-        "brand": "開檯食飯",
-        "lat": 22.2859795,
-        "lon": 114.1341,
-        "fb2": "@開檯食飯"
-    },
-    {
         "id": 370,
         "name": "Beeger 2",
         "address": "西環堅尼地城士美菲路1-15號美新大廈地下J號舖",
