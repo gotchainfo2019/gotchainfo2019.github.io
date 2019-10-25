@@ -45,5 +45,12 @@
         "layout": "webview",
         "actionType": "FACEBOOK",
         "action": "whatsgaphk"
+    },
+    {
+        "title": "Facebook Fan Page",
+        "icon": "icon_facebook.png",
+        "layout": "fullscreenad",
+        "actionType": "URL",
+        "action": "promotion20191026.jpg"
     }
 ]
