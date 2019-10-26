@@ -11,7 +11,8 @@
         "actionType": "API",
         "action": "restaurantmap",
         "pollingKeywordName1": "1星餐廳",
-        "pollingKeywordName2": "唔好叫錯外賣餐廳"
+        "pollingKeywordName2": "唔好叫錯外賣餐廳",
+        "apitype" : "google"
     },
     {
         "title": "網民推介餐廳",
@@ -20,7 +21,8 @@
         "actionType": "API",
         "action": "yellowobjectmap",
         "pollingKeywordName1": "5星餐廳",
-        "pollingKeywordName2": "網民推介餐廳"
+        "pollingKeywordName2": "網民推介餐廳",
+        "apitype" : "google"
     },
     {
          "title": "餐廳報料區",
@@ -47,7 +49,8 @@
         "layout": "map",
         "actionType": "API",
         "action": "gotchamap",
-        "pollingKeywordName1": "夾公仔"
+        "pollingKeywordName1": "夾公仔",
+        "apitype" : "git"
     },
     {
          "title": "夾公仔報料區",
