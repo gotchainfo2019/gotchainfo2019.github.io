@@ -5110,7 +5110,7 @@
         "address": "觀塘駿業街67號熟食市場1樓46號舖",
         "district": "觀塘",
         "areas": "九龍區",
-        "desc": "5/8 參與罷市\nhttps://www.facebook.com/mine.kwuntong/photos/a.2267711166796028/2510123612554781/?type=3&theater",
+        "desc": "https://www.facebook.com/mine.kwuntong/photos/a.2267711166796028/2510123612554781/?type=3&theater\n\n8.5，10.2 參與罷市",
         "type": "restaurant",
         "openHours": "星期一至日\n12:00 - 16:00\n17:00 - 21:00",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
@@ -9165,7 +9165,7 @@
         "address": "尖沙咀山林道6號B舖 (漢國中心對面)",
         "district": "油尖旺",
         "areas": "九龍區",
-        "desc": "隨機附送顧客柒婆啤酒,Fb出post'香港人加油'\n",
+        "desc": "隨機附送顧客柒婆啤酒,Fb出post 香港人加油",
         "type": "restaurant",
         "openHours": "星期一至日\n18:00 - 01:00",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
@@ -9216,7 +9216,7 @@
         "address": "元朗鳳攸南街9號好順利大廈地下3號舖",
         "district": "元朗",
         "areas": "新界區",
-        "desc": "12/6 罷市, 22/7 facebook出post'元朗街坊大家小心\n保佑香港'\n",
+        "desc": "12/6 罷市, 22/7 facebook出post 元朗街坊大家小心 保佑香港\n",
         "type": "restaurant",
         "openHours": "星期一至日\n12:00 - 22:00\n公眾假期\n12:00 - 22:00\n公眾假期前夕\n12:00 - 22:00",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
@@ -10117,7 +10117,9 @@
         "brand": "Night Owl",
         "lat": 22.285168,
         "lon": 114.1512508,
-        "fb2": "https://www.facebook.com/NightOwl-at-Why50-451834995354935/"
+        "fb2": "https://www.facebook.com/NightOwl-at-Why50-451834995354935/",
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 611,
@@ -10559,16 +10561,16 @@
     {
         "id": 638,
         "name": "豚道樂",
-        "address": "Cheuk Ming Mansion, Tai Ho Rd, Tsuen Wan",
+        "address": "荃灣大河道63號",
         "district": "荃灣",
         "areas": "新界區",
         "googlePlaceId2": "ChIJS1Ipv-34AzQRexMimjY_s08",
-        "desc": "荃灣有活動時5/8, 825 等都一定開門做休息站！\n\n今日去食，店鋪播放的歌單有願榮光歸香港，店員見我帶口罩亦有講加油\n\n8月25，10月1號開放地方給義士（親眼見）\n\n好唔開心！我係荃灣豚道樂店長，由參與罷工，825，國殤日，10月4日，我都為開門為手足提供休息地方，派水派汽水派食物，幫記者療傷，全條街連beans都收埋，我都撐到最後。永遠都係大河道最前線，雖然都算冷氣房係tg為大家提供一手料，但都會中催淚煙，嘔左2日，有催淚煙入舖，洗枱洗筷子清潔全間舖，洗到我地仆街。 生意又大不如前，租約期滿應該要同大家說再見。 Fact check by me, 上面呢段野係我朋友嚟架，因為佢FB無用好耐，應該無post任何野無咩人知，不過我相信佢講嘅嘢係真架！",
+        "desc": "荃灣有活動時5/8, 825 等都一定開門做休息站！\n\n今日去食，店鋪播放的歌單有願榮光歸香港，店員見我帶口罩亦有講加油\n\n8月25，10月1號開放地方給義士（親眼見）\n\n好唔開心！我係荃灣豚道樂店長，由參與罷工，825，國殤日，10月4日，我都為開門為手足提供休息地方，派水派汽水派食物，幫記者療傷，全條街連beans都收埋，我都撐到最後。永遠都係大河道最前線，雖然都算冷氣房係tg為大家提供一手料，但都會中催淚煙，嘔左2日，有催淚煙入舖，洗枱洗筷子清潔全間舖，洗到我地仆街。 生意又大不如前，租約期滿應該要同大家說再見。 Fact check by me, 上面呢段野係我朋友嚟架，因為佢FB無用好耐，應該無post任何野無咩人知，不過我相信佢講嘅嘢係真架！\n\nhttps://www.facebook.com/butadouraku/\nTelegram: 有份罷工 同埋俾手足休息",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "豚道樂",
-        "lat": 22.3714833,
-        "lon": 114.1158337,
+        "lat": 22.371515,
+        "lon": 114.1157626,
         "good": 15,
         "bad": 0
     },
@@ -10968,7 +10970,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "珍苑麵家",
         "lat": 22.5047454,
-        "lon": 114.1296589
+        "lon": 114.1296589,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 665,
@@ -10982,21 +10986,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "阿布泰國生活百貨",
         "lat": 22.3407007,
-        "lon": 114.2022147
-    },
-    {
-        "id": 666,
-        "name": "珍苑麵家",
-        "address": "上水馬會道148號B",
-        "district": "北區",
-        "areas": "新界區",
-        "googlePlaceId2": "ChIJs3IuJhD2AzQRS9wtw9ukI7A",
-        "desc": "【逆權小店】上水老字號麵店被指撐警 其實幫被踢出校學生搵學校 老闆無奈：乜都無做就俾人話係藍絲 https://lih.kg/1601194 - 分享自 LIHKG 討論區",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
-        "brand": "珍苑麵家",
-        "lat": 22.504678,
-        "lon": 114.1298643
+        "lon": 114.2022147,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 667,
@@ -11010,7 +11002,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "大快活 - 藍田啟田商場",
         "lat": 22.308207,
-        "lon": 114.2354811
+        "lon": 114.2354811,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 668,
@@ -11024,7 +11018,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "大澳德發",
         "lat": 22.2883936,
-        "lon": 114.1933296
+        "lon": 114.1933296,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 669,
@@ -11038,7 +11034,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "魚蛋佬",
         "lat": 22.2828742,
-        "lon": 114.2220997
+        "lon": 114.2220997,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 670,
@@ -11052,7 +11050,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "麵匠風龍",
         "lat": 22.2774698,
-        "lon": 114.1740782
+        "lon": 114.1740782,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 671,
@@ -11066,7 +11066,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "光榮冰室",
         "lat": 22.3719255,
-        "lon": 114.1175536
+        "lon": 114.1175536,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 672,
@@ -11080,7 +11082,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "賞茶",
         "lat": 22.4526822,
-        "lon": 114.1692486
+        "lon": 114.1692486,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 673,
@@ -11094,7 +11098,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "三姐妹",
         "lat": 22.2409404,
-        "lon": 114.1559187
+        "lon": 114.1559187,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 674,
@@ -11108,7 +11114,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "Oyster King",
         "lat": 22.4524876,
-        "lon": 114.1667012
+        "lon": 114.1667012,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 675,
@@ -11122,7 +11130,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "蒙麵",
         "lat": 22.307292,
-        "lon": 114.186516
+        "lon": 114.186516,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 676,
@@ -11136,7 +11146,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "果然 fruitmaster ",
         "lat": 22.3198072,
-        "lon": 114.169831
+        "lon": 114.169831,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 677,
@@ -11150,7 +11162,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "老爹茶居",
         "lat": 22.4241753,
-        "lon": 114.23178
+        "lon": 114.23178,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 678,
@@ -11159,12 +11173,14 @@
         "district": "東區",
         "areas": "香港島",
         "googlePlaceId2": "ChIJm-ADY4gBBDQRv8y0RVLKsy0",
-        "desc": "https://www.facebook.com/springtime.chaiwan/\n內有文宣貼",
+        "desc": "https://www.facebook.com/springtime.chaiwan/\n內有文宣貼\n\nhttps://m.facebook.com/pg/springtime.chaiwan/posts/?ref=page_internal&mt_nav=0\nFacebook上大量支持發夢post",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "Spring Time",
         "lat": 22.26414,
-        "lon": 114.2362811
+        "lon": 114.2362811,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 679,
@@ -11178,7 +11194,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "申子居酒屋",
         "lat": 22.31775,
-        "lon": 114.172928
+        "lon": 114.172928,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 680,
@@ -11192,7 +11210,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "上車",
         "lat": 22.3883599,
-        "lon": 114.2084671
+        "lon": 114.2084671,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 681,
@@ -11206,7 +11226,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "象月",
         "lat": 22.453459,
-        "lon": 114.164888
+        "lon": 114.164888,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 682,
@@ -11220,7 +11242,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "Manis cafe",
         "lat": 22.323877,
-        "lon": 114.217024
+        "lon": 114.217024,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 683,
@@ -11229,12 +11253,14 @@
         "district": "南區",
         "areas": "香港島",
         "googlePlaceId2": "ChIJR9tyi_v_AzQReydPQwNW0cs",
-        "desc": "\n有文宣貼在外圍的枱上面\n\nhttps://www.facebook.com/groups/2701324926545942/permalink/2710970458914722?sfns=mo\n\n有參與三罷，親身fc了",
+        "desc": "\n有文宣貼在外圍的枱上面\n\nhttps://www.facebook.com/groups/2701324926545942/permalink/2710970458914722?sfns=mo\n\n有參與三罷，親身fc了\n\n\n支持三罷，餐廳枱有貼撤回逃犯條例\n\nhttps://www.facebook.com/southernethouse/photos/a.277696089299496/789119738157126?type=3&sfns=mo",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "麗絲快餐店",
         "lat": 22.2531054,
-        "lon": 114.1363718
+        "lon": 114.1363718,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 684,
@@ -11248,7 +11274,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "多多車仔麵",
         "lat": 22.4536774,
-        "lon": 114.1700875
+        "lon": 114.1700875,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 685,
@@ -11262,7 +11290,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "彩虹串燒專門店",
         "lat": 22.4469886,
-        "lon": 114.1685225
+        "lon": 114.1685225,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 686,
@@ -11276,7 +11306,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "肥仔銘茶餐廳",
         "lat": 22.3361442,
-        "lon": 114.1956077
+        "lon": 114.1956077,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 687,
@@ -11290,7 +11322,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "孖寶小館",
         "lat": 22.50444,
-        "lon": 114.129757
+        "lon": 114.129757,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 688,
@@ -11304,7 +11338,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "幸福堂",
         "lat": 22.3156968,
-        "lon": 114.1711296
+        "lon": 114.1711296,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 689,
@@ -11318,7 +11354,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "幸福堂",
         "lat": 22.3223517,
-        "lon": 114.1700992
+        "lon": 114.1700992,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 690,
@@ -11332,7 +11370,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "地道館車仔麵",
         "lat": 22.3351416,
-        "lon": 114.1954998
+        "lon": 114.1954998,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 691,
@@ -11346,7 +11386,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "The Cool Cousins ",
         "lat": 22.3100723,
-        "lon": 114.225116
+        "lon": 114.225116,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 692,
@@ -11360,7 +11402,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "All day ",
         "lat": 22.4252518,
-        "lon": 114.2292095
+        "lon": 114.2292095,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 693,
@@ -11374,7 +11418,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "賞茶 ",
         "lat": 22.4525939,
-        "lon": 114.1689861
+        "lon": 114.1689861,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 694,
@@ -11388,7 +11434,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "Chok雞",
         "lat": 22.3580992,
-        "lon": 114.1276247
+        "lon": 114.1276247,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 695,
@@ -11402,7 +11450,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "威威小食",
         "lat": 22.3155467,
-        "lon": 114.1706303
+        "lon": 114.1706303,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 696,
@@ -11416,7 +11466,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "文華饕記",
         "lat": 22.2774669,
-        "lon": 114.1771597
+        "lon": 114.1771597,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 697,
@@ -11430,7 +11482,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "Beans ",
         "lat": 22.3720844,
-        "lon": 114.1155474
+        "lon": 114.1155474,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 698,
@@ -11444,7 +11498,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "幸茶舍",
         "lat": 22.3273196,
-        "lon": 114.1549416
+        "lon": 114.1549416,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 699,
@@ -11458,7 +11514,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "糖宮甜品專門店",
         "lat": 22.3766084,
-        "lon": 114.1785911
+        "lon": 114.1785911,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 700,
@@ -11472,7 +11530,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "丸茶手作（何文田店）",
         "lat": 22.318953,
-        "lon": 114.17488
+        "lon": 114.17488,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 701,
@@ -11486,7 +11546,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "滑蛋仔",
         "lat": 22.2628253,
-        "lon": 114.2498465
+        "lon": 114.2498465,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 702,
@@ -11500,7 +11562,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "秋山和食屋",
         "lat": 22.3263031,
-        "lon": 114.1687044
+        "lon": 114.1687044,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 703,
@@ -11514,7 +11578,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "千之味刺身專門店",
         "lat": 22.3220155,
-        "lon": 114.1614867
+        "lon": 114.1614867,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 704,
@@ -11528,7 +11594,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "和記餐廳",
         "lat": 22.2811469,
-        "lon": 114.2222042
+        "lon": 114.2222042,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 705,
@@ -11542,7 +11610,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "渣哥",
         "lat": 22.2794078,
-        "lon": 114.1856201
+        "lon": 114.1856201,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 706,
@@ -11556,7 +11626,9 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "天水圍 天一商場 鮮一",
         "lat": 22.3182234,
-        "lon": 114.1698988
+        "lon": 114.1698988,
+        "good": 0,
+        "bad": 0
     },
     {
         "id": 707,
@@ -11570,6 +11642,775 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
         "brand": "鴻昌茶餐廳",
         "lat": 22.33069,
-        "lon": 114.160755
+        "lon": 114.160755,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 708,
+        "name": "中環唐記包點",
+        "address": "Tong Kee Bao Dim 號地下, 10 Gage St, Central https://maps.app.goo.gl/at5tTMWZ5XhN9BYKA",
+        "district": "中西區",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJ8XTwJmgBBDQRgbvTe2kVD4E",
+        "desc": "\n發夢買野食，店舖姐姐送多個麵包，態度好好",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "中環唐記包點",
+        "lat": 22.2828787,
+        "lon": 114.1536506,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 709,
+        "name": "bulldoghotdog",
+        "address": "大埔廣福道60-62號c鋪",
+        "district": "大埔",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJlTrtHx8JBDQRsUh0jxrcU8E",
+        "desc": "https://instagram.com/bulldoghotdog?igshid=1s849u688ixtn\nhttps://www.instagram.com/p/B0v_0oljJeI/?igshid=1jvwqgvy0g18q",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "bulldoghotdog",
+        "lat": 22.4487263,
+        "lon": 114.1665033,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 710,
+        "name": "三才魚旦粉麵",
+        "address": "新都城二期地舖",
+        "district": "西貢",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJc83PqFYABDQRduvcmPzgtCQ",
+        "desc": "https://www.facebook.com/486702828201762/posts/1047776398761066/?app=fbl\n多次出post香港人加油",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "三才魚旦粉麵",
+        "lat": 22.3228322,
+        "lon": 114.258409,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 711,
+        "name": "Hungry Korean",
+        "address": "寶林新都城二期UG005",
+        "district": "西貢",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJX9NjFwwEBDQRahdqF6A0kZ8",
+        "desc": "https://www.facebook.com/937160302975020/posts/2599739846717049/?app=fbl\n8月5罷工休店",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "Hungry Korean",
+        "lat": 22.3228322,
+        "lon": 114.258409,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 712,
+        "name": "熊茶",
+        "address": "葵芳葵富路7號葵涌廣場1樓1182號舖",
+        "district": "葵青",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJDyvRSO34AzQRL5Wl1LBWPGg",
+        "desc": "\n叔叔放左個雪櫃喺店前比人免費拎水，比錢唔肯收\n\nhttps://www.picbon.com/user/hakkinen0213/2990480370",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "熊茶",
+        "lat": 22.358103,
+        "lon": 114.127241,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 713,
+        "name": "銀都冰室",
+        "address": "香港仔華富村華光樓707-708號",
+        "district": "南區",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJJSCmzf3_AzQRMb8OAityFZA",
+        "desc": "https://www.openrice.com/zh/hongkong/r-%E9%8A%80%E9%83%BD%E5%86%B0%E5%AE%A4-%E9%A6%99%E6%B8%AF%E4%BB%94-%E6%B8%AF%E5%BC%8F-r3183\n參與罷市，門口張貼香港人加油",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "銀都冰室",
+        "lat": 22.2500315,
+        "lon": 114.1371641,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 714,
+        "name": "荃灣光榮冰室",
+        "address": "荃灣兆和街",
+        "district": "荃灣",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJE9v-be34AzQRtBwOcJkFXR8",
+        "desc": "餐廳內播ViuTV\n門口擺設免費樽裝水，有寫光復香港。\n\n有圖片",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "荃灣光榮冰室",
+        "lat": 22.3718491,
+        "lon": 114.118072,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 715,
+        "name": "上車",
+        "address": "沙田安麗街11號",
+        "district": "沙田",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJsXH-HkcGBDQRQth1jEkuQE0",
+        "desc": "https://m.facebook.com/groups/869427699748524?view=permalink&id=2769531426404799\n\nhttps://m.facebook.com/groups/2701324926545942?view=permalink&id=2745285288816572\n\n一入門口好多五大訴求海報 播榮光\n\n[重要]石門呢間餐廳好撚串，請連登仔幫我狠狠地懲罰佢\nhttps://lih.kg/1644430\n- 分享自 LIHKG 討論區",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "上車",
+        "lat": 22.3897386,
+        "lon": 114.207564,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 716,
+        "name": "Little vegas",
+        "address": "銅鑼灣耀華街3號百樂中心25樓",
+        "district": "灣仔",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJMxlW51AABDQRg1gvWN0WgmE",
+        "desc": "\n播肥媽,榮光。間餐廳用哂成層,個電梯大堂唔只有連儂牆,直情係個連儂空間,擴展緊上天花板。餐廳入面都有。上openrice 都會見到連儂電梯大堂d相",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "Little vegas",
+        "lat": 22.2777034,
+        "lon": 114.1821785,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 717,
+        "name": "黃金雞",
+        "address": "西灣河海利街6號海利大廈地下B舖",
+        "district": "東區",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJTzJvI4cBBDQRygwOJBY3oG4",
+        "desc": "https://m.facebook.com/pages/category/Product-Service/%E9%BB%83%E9%87%91%E9%9B%9E-290129308290441/\n\nhttps://instagram.com/goldenchicken2018?igshid=bufcspwlankz\n\n入面貼哂文宣黃到核爆",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "黃金雞",
+        "lat": 22.2804352,
+        "lon": 114.2233304,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 718,
+        "name": "牛角",
+        "address": "九龍深水埗V Walk 2樓L2-116a號舖",
+        "district": "深水埗",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJT3r4yeoBBDQR7FBYKjzVdFs",
+        "desc": "https://www.weekendhk.com/988888/dining/%e6%95%98%e7%a6%8f%e6%a8%93-%e9%bb%83%e5%82%91%e9%be%8d-%e7%b6%93%e7%87%9f%e5%9b%b0%e9%9b%a3/\n敘福樓旗下一日關三店 主席黃傑龍：作為香港人願一同承擔\n香港社會不穩，零售業及餐飲業首當其衝受到影響，在經營困難下，經營「牛角」及「牛涮鍋」等日式餐飲品牌的敘福樓，日前於集團網頁宣布，今日三間分店暫停營業，分別位於沙田新城市柳氏家、旺角瓊華中心及銅鑼灣世貿WTC的MMC牛涮鍋。\n主席黃傑龍在個人專頁表示：「大家唔需要特別嚟支持我，去都去咗小店先。」！",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "牛角",
+        "lat": 22.3270529,
+        "lon": 114.1541538,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 719,
+        "name": "釜之魂釜飯專門店",
+        "address": "牛頭角淘大花園G/F 286-288",
+        "district": "觀塘",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJSeBLZagBBDQRDiOIAgtmcLI",
+        "desc": "https://m.facebook.com/gutssoulkamameshi/\nhttps://www.facebook.com/gutssoulkamameshi/photos/a.551881495245183/713913849041946?type=3&sfns=mo\n【香港加油💪🏻】雖然不能全體同事一齊參與遊行🙇🏼‍♂️，但小店既員工都著起黑衫🕴🏻以示支持👍🏻香港人加油💪🏻\n\n貼滿前線畫像",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "釜之魂釜飯專門店",
+        "lat": 22.3248099,
+        "lon": 114.2161322,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 720,
+        "name": "別天神",
+        "address": "旺角山東街40Q號地下",
+        "district": "油尖旺",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJU8dYgPIABDQRqPSKdZI5L3I",
+        "desc": "\n別天神拉麵真係痴左線\n- 分享自 LIHKG 討論區\nhttps://lih.kg/1498349\n\n【抵食！學生食拉麵半價！暑期限定！】食飽先有力發夢㗎！\nhttps://www.instagram.com/p/B05rOByh20o/?igshid=1ikvb5vjf8oqa",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "別天神",
+        "lat": 22.317641,
+        "lon": 114.170758,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 721,
+        "name": "千之味",
+        "address": "深水埗荔枝角道390號",
+        "district": "深水埗",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJT3Zqr7MABDQRkXM7Y8vKyLc",
+        "desc": "https://www.facebook.com/sushi93885690/\n義派食物飲用水",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "千之味",
+        "lat": 22.3296554,
+        "lon": 114.1594718,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 722,
+        "name": "串燒保",
+        "address": "荃灣香車街街市1樓平台8號舖",
+        "district": "荃灣",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJGwleZdH5AzQRgRfg3PCEHhc",
+        "desc": "【逆權小店】荃灣串燒店被藍絲圍攻 患癌老闆娘「唔發聲到我死咗會後悔」\n\nhttps://hk.lifestyle.appledaily.com/lifestyle/realtime/article/20190910/60026671 \n\nhttps://s.nextmedia.com/realtime/a.php?i=20190910&s=10829392&a=60026671\n\nhttps://www.facebook.com/2155229921420323/posts/2460412544235391?sfns=mo",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "串燒保",
+        "lat": 22.3732737,
+        "lon": 114.1115409,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 723,
+        "name": "光榮冰室",
+        "address": "尖沙咀厚福街5-6號地下",
+        "district": "油尖旺",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJkw_ScfoBBDQRsMtcP0S0-o4",
+        "desc": "【抗暴小店】荃灣冰室播TVB被指藍扮黃 改播99台免誤會：黃就係黃 好清晰\nhttps://hk.lifestyle.appledaily.com/etw/magazine/article/20191017/3_60151980/-%E6%8A%97%E6%9A%B4%E5%B0%8F%E5%BA%97-%E8%8D%83%E7%81%A3%E5%86%B0%E5%AE%A4%E6%92%ADTVB%E8%A2%AB%E6%8C%87%E8%97%8D%E6%89%AE%E9%BB%83-%E6%94%B9%E6%92%AD99%E5%8F%B0%E5%85%8D%E8%AA%A4%E6%9C%83-%E9%BB%83%E5%B0%B1%E4%BF%82%E9%BB%83-%E5%A5%BD%E6%B8%85%E6%99%B0/\n\nhttps://m.facebook.com/story.php?story_fbid=10157753035153769&id=590418768",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "光榮冰室",
+        "lat": 22.2994675,
+        "lon": 114.1742414,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 724,
+        "name": "串燒保",
+        "address": "荃灣香車街街市",
+        "district": "荃灣",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJGwleZdH5AzQRgRfg3PCEHhc",
+        "desc": "\nhttps://www.facebook.com/2155229921420323/posts/2460412544235391?sfns=mo",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "串燒保",
+        "lat": 22.3732759,
+        "lon": 114.1116531,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 725,
+        "name": "光榮冰室",
+        "address": "荃灣兆和街18號地下",
+        "district": "荃灣",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJkw_ScfoBBDQRsMtcP0S0-o4",
+        "desc": "【抗暴小店】荃灣冰室播TVB被指藍扮黃 改播99台免誤會：黃就係黃 好清晰\nhttps://hk.lifestyle.appledaily.com/etw/magazine/article/20191017/3_60151980/-%E6%8A%97%E6%9A%B4%E5%B0%8F%E5%BA%97-%E8%8D%83%E7%81%A3%E5%86%B0%E5%AE%A4%E6%92%ADTVB%E8%A2%AB%E6%8C%87%E8%97%8D%E6%89%AE%E9%BB%83-%E6%94%B9%E6%92%AD99%E5%8F%B0%E5%85%8D%E8%AA%A4%E6%9C%83-%E9%BB%83%E5%B0%B1%E4%BF%82%E9%BB%83-%E5%A5%BD%E6%B8%85%E6%99%B0/\n\nhttps://m.facebook.com/story.php?story_fbid=10157753035153769&id=590418768",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "光榮冰室",
+        "lat": 22.37201,
+        "lon": 114.117564,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 726,
+        "name": "嚐喜大不同特色餐廳小廚  網址: https://s.openrice.com/QrbS0dKK900~ufa4GAA",
+        "address": "天后水星街5-7號地舖",
+        "district": "東區",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJWSXkEwUBBDQR_obUR2aO1nI",
+        "desc": "\nhttps://m.facebook.com/story.php?story_fbid=10157908938555016&id=27743445015&anchor_composer=false",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "嚐喜大不同特色餐廳小廚  網址: https://s.openrice.com/QrbS0dKK900~ufa4GAA",
+        "lat": 22.2857173,
+        "lon": 114.1924704,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 727,
+        "name": "珍苑麪家",
+        "address": "上水馬會道148號B舖",
+        "district": "北區",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJs3IuJhD2AzQRS9wtw9ukI7A",
+        "desc": "https://m.facebook.com/profile.php?id=188835267802168&tsid=0.35354409592810865&source=result\n第一身經歷\n收銀處一直痴香港加油，蒙面法之後， 放左隻幪面超人 手持香港人加油 \n老闆話雖然少左啲熟客黎，但值得佢咁做\n希望手足用金錢懲罰佢",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "珍苑麪家",
+        "lat": 22.50475,
+        "lon": 114.1298356,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 728,
+        "name": "伙食工業   Glos Cafe by Fooody",
+        "address": "火炭坳背灣街57-59號利達工業中心地下3號舖 (正門入口-火炭路)",
+        "district": "沙田",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJ49IsvDQGBDQRS2pCcQff380",
+        "desc": "https://instagram.com/gloscafe_fooody\n店內有大量文宣，店員戴黑口罩",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "伙食工業   Glos Cafe by Fooody",
+        "lat": 22.3990111,
+        "lon": 114.1927947,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 729,
+        "name": "豚道樂",
+        "address": "荃灣大河道63號卓明大廈地舖",
+        "district": "荃灣",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJS1Ipv-34AzQRexMimjY_s08",
+        "desc": "Facebook\n\n\n參與85罷工，每次有事開到最後，俾人入去休息多",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "豚道樂",
+        "lat": 22.3716238,
+        "lon": 114.1158184,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 730,
+        "name": "All Day",
+        "address": "馬鞍山鞍源街11號福安花園商場地下50號鋪",
+        "district": "沙田",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJHbBv55YJBDQR8oLXUVJoXmw",
+        "desc": "麥潤培FB post\n\nhttps://www.facebook.com/MIHK.tv/videos/569984127141572/",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "All Day",
+        "lat": 22.4252518,
+        "lon": 114.2292095,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 731,
+        "name": "清玉",
+        "address": "採石山佛光街80號何文田廣場地下正門7號舖",
+        "district": "九龍城",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJ6WFKn0IBBDQRQwhSgLP2Zv0",
+        "desc": "\n",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "清玉",
+        "lat": 22.3159725,
+        "lon": 114.1815918,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 732,
+        "name": "沁沁麵",
+        "address": "西灣河西灣河街112號地下",
+        "district": "東區",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJq6p3hnYBBDQROf69L6OnV-8",
+        "desc": "\nFact check, 親身體驗",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "沁沁麵",
+        "lat": 22.2816366,
+        "lon": 114.2217378,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 733,
+        "name": "盤子工坊",
+        "address": "屯門良運街3號建生商場114號舖",
+        "district": "屯門",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJ85bd4KT7AzQRG9P4yMppVF8",
+        "desc": "\n灰色墻畫左黃雨衣，頭盔連登豬，pepe，寫住fight for freedom ",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "盤子工坊",
+        "lat": 22.407139,
+        "lon": 113.9697465,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 734,
+        "name": "千之味",
+        "address": "千の味刺身壽司專門店 大圍積運街海福花園商場地下31-C1地舖",
+        "district": "沙田",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJNfmftAkHBDQRpZrt-fA5jqo",
+        "desc": "10.1發夢人士有免費飯\n\nhttps://m.facebook.com/sushi93885690/",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "千之味",
+        "lat": 22.3732555,
+        "lon": 114.1766405,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 735,
+        "name": "All Day",
+        "address": "馬鞍山福安花園",
+        "district": "沙田",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJHbBv55YJBDQR8oLXUVJoXmw",
+        "desc": "\n門口大大隻告示，為保障食客安全，唔歡迎警務人員入來光顧，堅有吉士！ ",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "All Day",
+        "lat": 22.4245587,
+        "lon": 114.2292602,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 736,
+        "name": "沁沁麵",
+        "address": "西灣河西灣河街112號",
+        "district": "東區",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJq6p3hnYBBDQROf69L6OnV-8",
+        "desc": "\n[ 徵集 ] 8月 5日 罷市名單\nhttps://lih.kg/1412643\n- 分享自 LIHKG 討論區",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "沁沁麵",
+        "lat": 22.279551,
+        "lon": 114.225142,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 737,
+        "name": "清玉",
+        "address": "何文田邨何文田廣場",
+        "district": "九龍城",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJ6WFKn0IBBDQRQwhSgLP2Zv0",
+        "desc": "\n",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "清玉",
+        "lat": 22.3166857,
+        "lon": 114.1824438,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 738,
+        "name": "東屋台",
+        "address": "建生邨G09號地鋪",
+        "district": "屯門",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJo-DLkzL7AzQR1i8MK22goqc",
+        "desc": "開放俾市民休息及治理\nhttps://imgur.com/lLX9dLr\n\n1028 蘋果live直播 開放比街坊療傷\n1030 兩個負責人比狗強行非法拘捕及非法進入私人地方 \n禁係地下拘捕",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "東屋台",
+        "lat": 22.4071895,
+        "lon": 113.9694548,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 739,
+        "name": "Second Draft ",
+        "address": "G/F, 98 Tung Lo Wan Road",
+        "district": "灣仔",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJzS3UJasBBDQR9ViHC2so2YA",
+        "desc": "https://www.facebook.com/SecondDraftHK/\n5/8 有限度營業，開放做休息站。\nhttps://www.facebook.com/SecondDraftHK/photos/a.1088337541255721/2319646794791450/?type=3&theater\n612參與罷市\nhttps://www.facebook.com/SecondDraftHK/photos/a.1088337541255721/2229169727172491/?type=3&theater",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "Second Draft ",
+        "lat": 22.2798322,
+        "lon": 114.1924484,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 740,
+        "name": "Tap-the ale project",
+        "address": "G/F, 15 Hak Po Street, Mongkok",
+        "district": "油尖旺",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJ8S3OZcYABDQRCJUDXrPZCmE",
+        "desc": "https://www.facebook.com/667120763378717/posts/2296332243790886/\n8.5為旺角集會有限度開門斟水加油，補祝體力，支持罷工。",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "Tap-the ale project",
+        "lat": 22.3174374,
+        "lon": 114.1725954,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 741,
+        "name": "有得餃",
+        "address": " 元朗建業街 47-49號地舖",
+        "district": "元朗",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJxRxow-v7AzQRAOt2tsrrVnA",
+        "desc": "https://www.facebook.com/138380349654695/posts/1261944350631617/\n6.12 支持罷市，好好食嘅良心小店",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "有得餃",
+        "lat": 22.4420153,
+        "lon": 114.0316009,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 742,
+        "name": "35座車仔麵",
+        "address": "九龍灣得寶商場地下A1號",
+        "district": "觀塘",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJX1wu6ZEHBDQRnO_tiZ9F4cI",
+        "desc": "https://www.facebook.com/35%E5%BA%A7%E8%BB%8A%E4%BB%94%E9%BA%B5-324433621719933/\n收據印有 Glory to Hong Kong歌詞",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "35座車仔麵",
+        "lat": 22.3267812,
+        "lon": 114.2144673,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 743,
+        "name": "小食棠",
+        "address": "黃大仙翠鳳街2-4號F舖",
+        "district": "黃大仙",
+        "areas": "九龍區",
+        "googlePlaceId2": "EkBG6IiWLCAyLTQgVHN1aSBGdW5nIFN0cmVldCwgMi00IFRzdWkgRnVuZyBTdCwgQ2h1ayBVbiwgSG9uZyBLb25nIiAaHgoWChQKEgndB7qk3gYENBHUJqa4omvFhhIERuiIlg",
+        "desc": "https://m.facebook.com/%E5%B0%8F%E9%A3%9F%E6%A3%A0-314958216104341/?ref=bookmarks\nFB link有店內連儂牆圖片，實地考察都見到",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "小食棠",
+        "lat": 22.344725,
+        "lon": 114.1965806,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 744,
+        "name": "Sweet Dream",
+        "address": "深水埗欽州街37K西九龍中心7166-7167號舖",
+        "district": "油尖旺",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJw4LLE7MABDQR4MMha8oMpPc",
+        "desc": "https://instagram.com/sweetdream852?\n6月12休息一天 10月5提供口罩",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "Sweet Dream",
+        "lat": 22.3310879,
+        "lon": 114.1597868,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 745,
+        "name": "太子東喜茶",
+        "address": "太子道西別樹華軒157號15號地鋪",
+        "district": "油尖旺",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJ56Epo28BBDQRY_8XLeKrzkQ",
+        "desc": "\nhttps://imgur.com/a/Bt3SOq5\nhttps://imgur.com/a/vy5XQFA\n\n呢間太子東喜茶多次幫助義士避煙洗眼，好有良心，值得推薦。",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "太子東喜茶",
+        "lat": 22.3239049,
+        "lon": 114.1689486,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 746,
+        "name": "一芳台灣水果茶",
+        "address": "灣仔軒尼詩道292號",
+        "district": "灣仔",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJHzeY4cIBBDQR9xUkwMayGM8",
+        "desc": "\n香港一芳不嬲系撐示威者，系台灣同大陸先系藍店。灣仔店仲有埋連農牆添！",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "一芳台灣水果茶",
+        "lat": 22.2777843,
+        "lon": 114.1773249,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 747,
+        "name": "農民泰菜",
+        "address": "農民泰菜 (沙田) 沙田橫壆街1-15號好運中心3樓186-192號舖",
+        "district": "沙田",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJ0wb-izMHBDQRij53SiYJezE",
+        "desc": "\nUploaded",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "農民泰菜",
+        "lat": 22.3830118,
+        "lon": 114.1912458,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 748,
+        "name": "成記美食",
+        "address": "樂富聯合道154號",
+        "district": "黃大仙",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJrymXbSkHBDQRTTDM8i0Ai88",
+        "desc": "10月6號有派水同幫手足揾路\n\n中同係餐廳太子爺 知道佢俾人屈做藍店\n\n發夢有派水 支持黃店 ",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "成記美食",
+        "lat": 22.3349032,
+        "lon": 114.187702,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 749,
+        "name": "MOU MOU CLUB 牛涮鍋",
+        "address": "天水圍天悅邨T Town North 1樓N105號舖",
+        "district": "元朗",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJXx-ys2PwAzQRzLNyWlz2_44",
+        "desc": "https://www.weekendhk.com/988888/dining/%e6%95%98%e7%a6%8f%e6%a8%93-%e9%bb%83%e5%82%91%e9%be%8d-%e7%b6%93%e7%87%9f%e5%9b%b0%e9%9b%a3/\n敘福樓旗下一日關三店 主席黃傑龍：作為香港人願一同承擔\n香港社會不穩，零售業及餐飲業首當其衝受到影響，在經營困難下，經營「牛角」及「牛涮鍋」等日式餐飲品牌的敘福樓，日前於集團網頁宣布，今日三間分店暫停營業，分別位於沙田新城市柳氏家、旺角瓊華中心及銅鑼灣世貿WTC的MMC牛涮鍋。\n主席黃傑龍在個人專頁表示：「大家唔需要特別嚟支持我，去都去咗小店先。」！",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "MOU MOU CLUB 牛涮鍋",
+        "lat": 22.4623179,
+        "lon": 113.997948,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 750,
+        "name": "名門讌客 (前後各區，謝謝)",
+        "address": "元朗鳳琴街19號鴻運中心地下A號舖； 葵芳葵義路2-10號新葵芳花園商場1樓；觀塘牛頭角道300號裕民中心地舖；觀塘牛頭角道300號裕民中心1樓B號舖 ",
+        "district": "觀塘",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJ-QKgSLz4AzQRmBQ-USqdKNw",
+        "desc": "\nhttps://hk.news.appledaily.com/breaking/realtime/article/20190727/59870241",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "名門讌客 (前後各區，謝謝)",
+        "lat": 22.442519,
+        "lon": 114.0331444,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 751,
+        "name": "千之味刺身壽司專門店",
+        "address": "深水埗（地鐵站c2出口)荔枝角道390號地下C鋪（深水埗警署對面）",
+        "district": "深水埗",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJT3Zqr7MABDQRkXM7Y8vKyLc",
+        "desc": "https://www.facebook.com/sushi93885690/?__tn__=k*F&tn-str=k*F\nhttps://www.facebook.com/sushi93885690/photos/a.741604739186135/2809441889069066/?type=3&theater",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "千之味刺身壽司專門店",
+        "lat": 22.3302026,
+        "lon": 114.1589355,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 752,
+        "name": "Ideas Dessert",
+        "address": "荃灣荃貴街10A 富麗花園商場A 座地下13B及15號鋪",
+        "district": "荃灣",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJpYQKG5P4AzQRbnEi2KbS8rw",
+        "desc": "\n店內有小連儂牆，及店內經常播放著願榮光歸香港。",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "Ideas Dessert",
+        "lat": 22.3690328,
+        "lon": 114.122199,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 753,
+        "name": "豚道樂拉麵",
+        "address": "大河道63號卓明大廈地下",
+        "district": "荃灣",
+        "areas": "新界區",
+        "googlePlaceId2": "ChIJS1Ipv-34AzQRexMimjY_s08",
+        "desc": "https://m.facebook.com/story.php?story_fbid=2386462731669174&id=1456306861351437\nLink\n\n好唔開心！我係荃灣豚道樂店長，由參與罷工，825，國殤日，10月4日，我都為開門為手足提供休息地方，派水派汽水派食物，幫記者療傷，全條街連beans都收埋，我都撐到最後。永遠都係大河道最前線，雖然都算冷氣房係tg為大家提供一手料，但都會中催淚煙，嘔左2日，有催淚煙入舖，洗枱洗筷子清潔全間舖，洗到我地仆街。 生意又大不如前，租約期滿應該要同大家說再見。 Fact check by me, 上面呢段野係我朋友嚟架，因為佢FB無用好耐，應該無post任何野無咩人知，不過我相信佢講嘅嘢係真架！",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "豚道樂拉麵",
+        "lat": 22.3714242,
+        "lon": 114.11574,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 754,
+        "name": "走肉。朋友",
+        "address": "G/F, 28-44 Pok Man Street, Tai Kok Tsui",
+        "district": "油尖旺",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJk8xaOroABDQRoD5q7JUupLk",
+        "desc": "https://www.facebook.com/%E8%B5%B0%E8%82%89-%E6%9C%8B%E5%8F%8B-1835535343424298/\nhttps://www.facebook.com/1835535343424298/posts/2232823470362148/?substory_index=0\n\n響應5Aug三罷",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "走肉。朋友",
+        "lat": 22.319564,
+        "lon": 114.160796,
+        "good": 0,
+        "bad": 0
+    },
+    {
+        "id": 755,
+        "name": "光榮冰室",
+        "address": "深井深井村54-55號地下",
+        "district": "荃灣",
+        "areas": "新界區",
+        "desc": "【抗暴小店】荃灣冰室播TVB被指藍扮黃 改播99台免誤會：黃就係黃 好清晰\nhttps://hk.lifestyle.appledaily.com/etw/magazine/article/20191017/3_60151980/-%E6%8A%97%E6%9A%B4%E5%B0%8F%E5%BA%97-%E8%8D%83%E7%81%A3%E5%86%B0%E5%AE%A4%E6%92%ADTVB%E8%A2%AB%E6%8C%87%E8%97%8D%E6%89%AE%E9%BB%83-%E6%94%B9%E6%92%AD99%E5%8F%B0%E5%85%8D%E8%AA%A4%E6%9C%83-%E9%BB%83%E5%B0%B1%E4%BF%82%E9%BB%83-%E5%A5%BD%E6%B8%85%E6%99%B0/\n\nhttps://m.facebook.com/story.php?story_fbid=10157753035153769&id=590418768",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
+        "brand": "光榮冰室",
+        "lat": 22.367296,
+        "lon": 114.058959,
+        "good": 0,
+        "bad": 0
     }
 ]
