@@ -12,7 +12,7 @@
         "action": "restaurantmap",
         "pollingKeywordName1": "1星餐廳",
         "pollingKeywordName2": "唔好叫錯外賣餐廳",
-        "apitype" : "google"
+        "apitype" : "git"
     },
     {
         "title": "網民推介餐廳",
@@ -22,17 +22,10 @@
         "action": "yellowobjectmap",
         "pollingKeywordName1": "5星餐廳",
         "pollingKeywordName2": "網民推介餐廳",
-        "apitype" : "google"
+        "apitype" : "git"
     },
     {
-         "title": "餐廳報料區",
-         "icon": "icon_google_form.png",
-         "layout": "webview",
-         "actionType": "URL",
-         "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
-     },
-    {
-        "title": "報料區(維修中)",
+        "title": "報料區",
         "icon": "icon_rating.png",
         "layout": "reportForm",
         "actionType": "API",
@@ -53,12 +46,12 @@
         "apitype" : "git"
     },
     {
-         "title": "夾公仔報料區",
-         "icon": "icon_google_form.png",
-         "layout": "webview",
-         "actionType": "URL",
-         "action": "https://docs.google.com/forms/d/e/1FAIpQLSdiatMZWddTLTJBq8Lk-3bVhlwMqgcsgiq_hoCFTzLttHc7bg/viewform?usp=sf_link"
-     },
+        "title": "報料區",
+        "icon": "icon_rating.png",
+        "layout": "reportForm",
+        "actionType": "API",
+        "action": "reportForm"
+    },
     {
         "title": "關於我們",
         "actionType": "Title",
