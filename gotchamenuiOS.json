@@ -25,6 +25,14 @@
         "apitype" : "google"
     },
     {
+        "title": "啱Channel之選餐廳",
+        "icon": "icon_arm_channel_marker.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "armchannel",
+        "apitype" : "git"
+    },
+    {
         "title": "報料區",
         "icon": "icon_rating.png",
         "layout": "reportForm",
