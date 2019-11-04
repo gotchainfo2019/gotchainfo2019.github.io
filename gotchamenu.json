@@ -26,6 +26,13 @@
         "pollingKeywordName2": "唔好叫錯外賣餐廳"
     },
     {
+        "title": "啱Channel之選餐廳",
+        "icon": "icon_arm_channel_marker.png",
+        "layout": "map",
+        "actionType": "API",
+        "action": "armchannel"
+    },
+    {
         "title": "餐廳報料區",
         "icon": "icon_google_form.png",
         "layout": "webview",
