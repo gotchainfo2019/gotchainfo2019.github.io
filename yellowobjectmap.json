@@ -5213,23 +5213,6 @@
         "subType": "多國菜/海鮮"
     },
     {
-        "id": 295,
-        "name": "壹屋子台式料理",
-        "address": "香港新界西貢福民路 58-72 號高富樓地下 11 號舖",
-        "district": "西貢",
-        "areas": "新界區",
-        "desc": "5/8 參與罷市\nhttps://www.facebook.com/%E5%A3%B9%E5%B1%8B%E5%AD%90-Sons-Lab-2173171382967452/",
-        "type": "restaurant",
-        "openHours": "/",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "壹屋子台式料理",
-        "lat": 22.381902,
-        "lon": 114.2733425,
-        "good": 1,
-        "bad": 0,
-        "subType": "台式"
-    },
-    {
         "id": 296,
         "name": "外賣俠",
         "address": "九龍觀塘駿業街熟食市場地下21號舖",
