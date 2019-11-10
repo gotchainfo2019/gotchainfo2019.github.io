@@ -10331,24 +10331,6 @@
         "subType": "多國菜/酒"
     },
     {
-        "id": 595,
-        "name": "No Milkshake No Life",
-        "address": "石硤尾巴域街80號美葵樓地下G01號舖",
-        "district": "深水埗",
-        "areas": "九龍區",
-        "desc": "12/6, 5/8 罷市\n",
-        "type": "restaurant",
-        "openHours": "星期一至日\n10:00 - 18:00",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "No Milkshake No Life",
-        "lat": 22.3337786,
-        "lon": 114.1674019,
-        "fb2": "@nomilkshakenolife",
-        "good": 9,
-        "bad": 1,
-        "subType": "西式/三文治"
-    },
-    {
         "id": 596,
         "name": "メイド喫茶 A‧T FIELD Cafe",
         "address": "旺角登打士街登打士廣場十三樓1301-1302",
