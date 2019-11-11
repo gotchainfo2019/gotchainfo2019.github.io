@@ -112,22 +112,6 @@
         "bad": 12
     },
     {
-        "id": 16,
-        "name": "德豐",
-        "address": "深水埗桂林街145號A及147號地舖",
-        "district": "深水埗",
-        "areas": "九龍區",
-        "desc": "有人發夢話 : 12號當日去食早餐話出去游行搞呢搞路個班人",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
-        "brand": "德豐",
-        "lat": 22.332364,
-        "lon": 114.162717,
-        "checkingSameContent": "Done",
-        "good": 3,
-        "bad": 14
-    },
-    {
         "id": 17,
         "name": "新蒲崗燒皇燒烤雞煲專門店",
         "address": "新蒲崗衍慶街34號地舖",
