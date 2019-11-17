@@ -12,7 +12,7 @@
         "action": "restaurantmap",
         "pollingKeywordName1": "1星餐廳",
         "pollingKeywordName2": "唔好叫錯外賣餐廳",
-        "apitype" : "google"
+        "apitype" : "git"
     },
     {
         "title": "網民推介餐廳",
@@ -22,7 +22,7 @@
         "action": "yellowobjectmap",
         "pollingKeywordName1": "5星餐廳",
         "pollingKeywordName2": "網民推介餐廳",
-        "apitype" : "google"
+        "apitype" : "git"
     },
     {
         "title": "啱Channel之選餐廳",
