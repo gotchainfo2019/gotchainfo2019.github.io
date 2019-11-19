@@ -37,7 +37,7 @@
         "icon": "icon_pollingPin.png",
         "layout": "map",
         "actionType": "API",
-        "action": "pollingmap"
+        "action": "pollingmap",
         "apitype" : "git"
     },
     {
