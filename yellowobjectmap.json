@@ -12215,24 +12215,6 @@
         "subType": "日本菜/壽司/刺身"
     },
     {
-        "id": 722,
-        "name": "串燒保",
-        "address": "荃灣鱟地坊74號天保大廈地下E2號舖",
-        "district": "荃灣",
-        "areas": "新界區",
-        "googlePlaceId2": "ChIJGwleZdH5AzQRgRfg3PCEHhc",
-        "desc": "【逆權小店】荃灣串燒店被藍絲圍攻 患癌老闆娘「唔發聲到我死咗會後悔」\n\nhttps://hk.lifestyle.appledaily.com/lifestyle/realtime/article/20190910/60026671 \n\nhttps://s.nextmedia.com/realtime/a.php?i=20190910&s=10829392&a=60026671\n\nhttps://www.facebook.com/2155229921420323/posts/2460412544235391?sfns=mo\n\n荃灣黃店（串燒保）老闆娘想大家幫幫手\nhttps://lih.kg/1686339\n- 分享自 LIHKG 討論區",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "串燒保",
-        "lat": 22.3711763,
-        "lon": 114.1149693,
-        "good": 4,
-        "bad": 1,
-        "subType": "日本菜/烤肉",
-        "closed": true
-    },
-    {
         "id": 723,
         "name": "光榮冰室",
         "address": "尖沙咀厚福街5-6號地下",
