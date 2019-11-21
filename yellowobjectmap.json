@@ -120,26 +120,6 @@
         "timeline": "**[24/8] 觀塘遊行免費派水\nhttps://ibb.co/8cFMPFn"
     },
     {
-        "id": 7,
-        "name": "合記飯店",
-        "address": "牛頭角聯安街21號地舖",
-        "district": "觀塘",
-        "areas": "九龍區",
-        "desc": "為抗爭者提供免費食物\nhttps://ibb.co/PCqgPb5",
-        "type": "restaurant",
-        "openHours": "星期一至日05:00 - 14:00; 18:00 - 02:00",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "合記飯店",
-        "lat": 22.3155196,
-        "lon": 114.2213243,
-        "checkingSameContent": "Done",
-        "fb2": "合記飯店",
-        "good": 20,
-        "bad": 5,
-        "subType": "港式/燒臘",
-        "normalDesc": "- 為抗爭者提供免費食物\nhttps://ibb.co/PCqgPb5"
-    },
-    {
         "id": 8,
         "name": "串噹噹",
         "address": "紅磡蕪湖街78號A地舖",
@@ -553,7 +533,7 @@
         "brand": "籽樂廚房 Sowergift Kitchen",
         "lat": 22.3026708,
         "lon": 114.1740091,
-        "checkingSameContent": "Same 3033",
+        "checkingSameContent": "Same 1934",
         "fb2": "@sowergiftkitchen",
         "good": 20,
         "bad": 6,
@@ -639,27 +619,6 @@
         "bad": 2,
         "subType": "港式/小食/名人店",
         "timeline": "**[11/11] 3間分店所有營業額完全不扣除任何成本，全數撥捐星火基金\nhttps://www.facebook.com/JarGor1996/posts/2581743525237006\n**[5/8] 參與罷市, 提供「我愛香港」免費套餐\nhttps://www.facebook.com/JarGor1996/posts/2387044391373588"
-    },
-    {
-        "id": 33,
-        "name": "榕記車仔麵",
-        "address": "九龍城打鼓嶺道80號",
-        "district": "九龍城",
-        "areas": "九龍區",
-        "desc": "為抗爭者提供水\nhttps://www.facebook.com/yungkeemin/posts/2563025890421475",
-        "type": "restaurant",
-        "openHours": "星期二至日 11:30pm - 9:00pm",
-        "icon": "Y",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "榕記車仔麵",
-        "lat": 22.330284,
-        "lon": 114.191691,
-        "checkingSameContent": "Done",
-        "fb2": "@yungkeemin",
-        "good": 15,
-        "bad": 4,
-        "subType": "港式/車仔麵",
-        "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/yungkeemin/photos/a.787555541301861/2763751053682290/?type=3&theater\n**[5/8] 參與罷市\n**[4/8] 為抗爭者提供水\nhttps://www.facebook.com/yungkeemin/posts/2563025890421475"
     },
     {
         "id": 34,
@@ -1318,7 +1277,9 @@
         "checkingSameContent": "Done",
         "good": 27,
         "bad": 3,
-        "subType": "日本菜/拉麵"
+        "subType": "日本菜/拉麵",
+        "normalDesc": "別天神拉麵真係痴左線\n- 分享自 LIHKG 討論區\nhttps://lih.kg/1498349\n\n【抵食！學生食拉麵半價！暑期限定！】食飽先有力發夢㗎！\nhttps://www.instagram.com/p/B05rOByh20o/?igshid=1ikvb5vjf8oqa",
+        "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/ramenbetsu/photos/a.2543679679105721/2668891626584525/?type=3&theater\n**[5/8] 參與罷市\nhttps://www.facebook.com/2539626856177670/photos/a.2543679679105721/2580819875391701/?type=3&theater"
     },
     {
         "id": 68,
@@ -1336,7 +1297,9 @@
         "checkingSameContent": "Same 72",
         "good": 68,
         "bad": 10,
-        "subType": "日本菜/拉麵"
+        "subType": "日本菜/拉麵",
+        "normalDesc": "別天神拉麵真係痴左線\n- 分享自 LIHKG 討論區\nhttps://lih.kg/1498349\n\n【抵食！學生食拉麵半價！暑期限定！】食飽先有力發夢㗎！\nhttps://www.instagram.com/p/B05rOByh20o/?igshid=1ikvb5vjf8oqa",
+        "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/ramenbetsu/photos/a.2543679679105721/2668891626584525/?type=3&theater\n**[5/8] 參與罷市\nhttps://www.facebook.com/2539626856177670/photos/a.2543679679105721/2580819875391701/?type=3&theater"
     },
     {
         "id": 69,
@@ -1354,7 +1317,9 @@
         "checkingSameContent": "Done",
         "good": 36,
         "bad": 8,
-        "subType": "日本菜/拉麵"
+        "subType": "日本菜/拉麵",
+        "normalDesc": "別天神拉麵真係痴左線\n- 分享自 LIHKG 討論區\nhttps://lih.kg/1498349\n\n【抵食！學生食拉麵半價！暑期限定！】食飽先有力發夢㗎！\nhttps://www.instagram.com/p/B05rOByh20o/?igshid=1ikvb5vjf8oqa",
+        "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/ramenbetsu/photos/a.2543679679105721/2668891626584525/?type=3&theater\n**[5/8] 參與罷市\nhttps://www.facebook.com/2539626856177670/photos/a.2543679679105721/2580819875391701/?type=3&theater"
     },
     {
         "id": 70,
@@ -1372,7 +1337,9 @@
         "checkingSameContent": "Same 72",
         "good": 17,
         "bad": 6,
-        "subType": "日本菜/拉麵"
+        "subType": "日本菜/拉麵",
+        "normalDesc": "別天神拉麵真係痴左線\n- 分享自 LIHKG 討論區\nhttps://lih.kg/1498349\n\n【抵食！學生食拉麵半價！暑期限定！】食飽先有力發夢㗎！\nhttps://www.instagram.com/p/B05rOByh20o/?igshid=1ikvb5vjf8oqa",
+        "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/ramenbetsu/photos/a.2543679679105721/2668891626584525/?type=3&theater\n**[5/8] 參與罷市\nhttps://www.facebook.com/2539626856177670/photos/a.2543679679105721/2580819875391701/?type=3&theater"
     },
     {
         "id": 71,
@@ -1390,7 +1357,9 @@
         "checkingSameContent": "Same 72",
         "good": 52,
         "bad": 16,
-        "subType": "日本菜/拉麵"
+        "subType": "日本菜/拉麵",
+        "normalDesc": "別天神拉麵真係痴左線\n- 分享自 LIHKG 討論區\nhttps://lih.kg/1498349\n\n【抵食！學生食拉麵半價！暑期限定！】食飽先有力發夢㗎！\nhttps://www.instagram.com/p/B05rOByh20o/?igshid=1ikvb5vjf8oqa",
+        "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/ramenbetsu/photos/a.2543679679105721/2668891626584525/?type=3&theater\n**[5/8] 參與罷市\nhttps://www.facebook.com/2539626856177670/photos/a.2543679679105721/2580819875391701/?type=3&theater"
     },
     {
         "id": 72,
@@ -1408,7 +1377,9 @@
         "checkingSameContent": "Done",
         "good": 52,
         "bad": 5,
-        "subType": "日本菜/拉麵"
+        "subType": "日本菜/拉麵",
+        "normalDesc": "別天神拉麵真係痴左線\n- 分享自 LIHKG 討論區\nhttps://lih.kg/1498349\n\n【抵食！學生食拉麵半價！暑期限定！】食飽先有力發夢㗎！\nhttps://www.instagram.com/p/B05rOByh20o/?igshid=1ikvb5vjf8oqa",
+        "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/ramenbetsu/photos/a.2543679679105721/2668891626584525/?type=3&theater\n**[5/8] 參與罷市\nhttps://www.facebook.com/2539626856177670/photos/a.2543679679105721/2580819875391701/?type=3&theater"
     },
     {
         "id": 73,
@@ -1426,7 +1397,9 @@
         "checkingSameContent": "Done",
         "good": 37,
         "bad": 3,
-        "subType": "日本菜/拉麵"
+        "subType": "日本菜/拉麵",
+        "normalDesc": "別天神拉麵真係痴左線\n- 分享自 LIHKG 討論區\nhttps://lih.kg/1498349\n\n【抵食！學生食拉麵半價！暑期限定！】食飽先有力發夢㗎！\nhttps://www.instagram.com/p/B05rOByh20o/?igshid=1ikvb5vjf8oqa",
+        "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/ramenbetsu/photos/a.2543679679105721/2668891626584525/?type=3&theater\n**[5/8] 參與罷市\nhttps://www.facebook.com/2539626856177670/photos/a.2543679679105721/2580819875391701/?type=3&theater"
     },
     {
         "id": 74,
@@ -2240,7 +2213,7 @@
         "brand": "甜一刻",
         "lat": 22.3347224,
         "lon": 114.1593392,
-        "checkingSameContent": "Duplicate",
+        "checkingSameContent": "Done",
         "fb2": "@sweetmomentdessert",
         "good": 117,
         "bad": 3,
@@ -2674,7 +2647,7 @@
         "brand": "拉麵天王",
         "lat": 22.3061885,
         "lon": 114.1876941,
-        "checkingSameContent": "Duplicate",
+        "checkingSameContent": "Done",
         "good": 50,
         "bad": 3,
         "subType": "日本菜/拉麵"
@@ -2947,25 +2920,6 @@
         "timeline": "**[11/11]休業\nhttps://www.facebook.com/YiFangTeaHK/posts/537179110174696\n**[5/8] 罷市\nhttps://ibb.co/jTPfvsh\nhttps://ibb.co/ygSzknX"
     },
     {
-        "id": 155,
-        "name": "Veggle Cafe",
-        "address": "觀塘成業街7號東廣場地下G13A及15號舖 ",
-        "district": "觀塘",
-        "areas": "九龍區",
-        "desc": "12/6 提供免費差電、水、食物比抗爭義士\nhttps://www.facebook.com/vegglehkcafe/posts/2580739255271658",
-        "type": "restaurant",
-        "openHours": "12:30 - 20:30",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "Veggle Cafe",
-        "lat": 22.3109022,
-        "lon": 114.2262275,
-        "checkingSameContent": "Done",
-        "fb2": "@vegglehkcafe",
-        "good": 17,
-        "bad": 3,
-        "subType": "飲食"
-    },
-    {
         "id": 156,
         "name": "Sogno Gelato",
         "address": "荃灣楊屋道1號荃新天地2期UG樓85號舖",
@@ -2978,7 +2932,7 @@
         "brand": "Sogno Gelato",
         "lat": 22.369508,
         "lon": 114.113671,
-        "checkingSameContent": "Same 3096",
+        "checkingSameContent": "Same 1996",
         "good": 72,
         "bad": 3,
         "subType": "意大利菜/雪糕/乳酪"
@@ -3824,7 +3778,7 @@
         "brand": "加藤屋 Katoya",
         "lat": 22.3482388,
         "lon": 114.2005514,
-        "checkingSameContent": "Same 3095",
+        "checkingSameContent": "Done",
         "fb2": "@KatoyaHK",
         "good": 256,
         "bad": 5,
@@ -3943,24 +3897,6 @@
         "subType": "港式/小食店"
     },
     {
-        "id": 208,
-        "name": "三多",
-        "address": "大圍積信街24號喜悅樓地下A2舖",
-        "district": "沙田",
-        "areas": "新界區",
-        "desc": "12/6 參與罷市\nhttps://www.facebook.com/218176438567623/photos/a.444571329261465/822895254762402/?type=3&theater",
-        "type": "restaurant",
-        "openHours": "星期一至五 16:00 - 02:00\n星期六至日 14:00 - 02:00",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "三多",
-        "lat": 22.3762526,
-        "lon": 114.1778807,
-        "checkingSameContent": "Done",
-        "good": 16,
-        "bad": 18,
-        "subType": "港式/小食店"
-    },
-    {
         "id": 209,
         "name": "三多",
         "address": "大埔北盛街29A號地下",
@@ -3994,24 +3930,6 @@
         "checkingSameContent": "Same 210",
         "good": 18,
         "bad": 14,
-        "subType": "港式/小食店"
-    },
-    {
-        "id": 211,
-        "name": "三多",
-        "address": "觀塘聯安街9-15號永毅大樓地下B舖",
-        "district": "觀塘",
-        "areas": "九龍區",
-        "desc": "12/6 參與罷市\nhttps://www.facebook.com/218176438567623/photos/a.444571329261465/822895254762402/?type=3&theater",
-        "type": "restaurant",
-        "openHours": "星期一至五 12:00 - 00:00\n星期六至日 13:00 - 00:00",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "三多",
-        "lat": 22.315259,
-        "lon": 114.2214186,
-        "checkingSameContent": "Done",
-        "good": 14,
-        "bad": 11,
         "subType": "港式/小食店"
     },
     {
@@ -4652,6 +4570,7 @@
         "checkingSameContent": "Done",
         "good": 11,
         "bad": 1,
+        "updatedDesc": "\n",
         "subType": "港式/快餐店"
     },
     {
@@ -4791,7 +4710,7 @@
         "address": "觀塘觀塘巧明街99號巧明工廠大廈3樓AB座",
         "district": "觀塘",
         "areas": "九龍區",
-        "desc": "12/6 支持遊行\nhttps://www.facebook.com/howdept/photos/a.617865751725077/1231780230333623/?type=3&theater\n\n由612開始已支持運動，85,10.1等罷市總有佢份\nhttps://www.facebook.com/groups/2701324926545942/permalink/2813616071983493/",
+        "desc": "[13/11] 罷市\n[11/11] 罷市\n[1/10] 罷市\n[5/8] 罷市\nhttps://www.facebook.com/groups/2701324926545942/permalink/2813616071983493/\n[12/6] 支持遊行\nhttps://www.facebook.com/howdept/photos/a.617865751725077/1231780230333623/?type=3&theater",
         "type": "restaurant",
         "openHours": "星期一至六 12:00 - 22:00\n星期日 12:00 - 18:30\n公眾假期 12:00 - 18:30",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
@@ -4802,7 +4721,8 @@
         "fb2": "@howdept",
         "good": 52,
         "bad": 2,
-        "subType": "西式/漢堡包"
+        "subType": "西式/漢堡包",
+        "timeline": "**[13/11] 罷市\n**[11/11] 罷市\n**[1/10] 罷市\n**[5/8] 罷市\nhttps://www.facebook.com/groups/2701324926545942/permalink/2813616071983493/\n**[12/6] 支持遊行\nhttps://www.facebook.com/howdept/photos/a.617865751725077/1231780230333623/?type=3&theater"
     },
     {
         "id": 254,
@@ -5012,6 +4932,7 @@
         "fb2": "@mylittlecoffeeTM",
         "good": 19,
         "bad": 6,
+        "updatedDesc": "\n",
         "subType": "西式/咖啡店"
     },
     {
@@ -5285,7 +5206,7 @@
         "brand": "皇茶",
         "lat": 22.3159648,
         "lon": 114.1727523,
-        "checkingSameContent": "Same 3082",
+        "checkingSameContent": "Same 1982",
         "good": 35,
         "bad": 2,
         "subType": "台灣菜/台式飲品"
@@ -5382,25 +5303,6 @@
         "good": 46,
         "bad": 1,
         "subType": "潮州菜/粉麵/米線"
-    },
-    {
-        "id": 285,
-        "name": "三肥美食",
-        "address": "南昌街142-144號地下6號舖",
-        "district": "深水埗",
-        "areas": "九龍區",
-        "desc": "5/8 參與罷市\nhttps://www.facebook.com/triple.3.fat.delicacy/photos/a.273647913295884/375090069818334/?type=3&theater\n\n612,805都有罷工\nhttps://www.facebook.com/groups/2701324926545942/permalink/2728991243779310/",
-        "type": "restaurant",
-        "openHours": "10:00 - 22:00",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "三肥美食",
-        "lat": 22.3294892,
-        "lon": 114.1636479,
-        "checkingSameContent": "Done",
-        "fb2": "@triple.3.fat.delicacy",
-        "good": 25,
-        "bad": 4,
-        "subType": "港式/車仔麵/小食店/港式/車仔麵/小食店"
     },
     {
         "id": 286,
@@ -5914,7 +5816,7 @@
         "address": "銅鑼灣富明街2-6號寶明大廈1樓L室",
         "district": "灣仔",
         "areas": "香港島",
-        "desc": "5/8 參與罷市\nhttps://www.facebook.com/mnmcatcafe/photos/a.819815484795115/2152988771477773/?type=3&theater",
+        "desc": "[11/11 - 13/11] 參與罷市\nhttps://www.instagram.com/p/B4ymNwPDAP0/\n[5/8] 參與罷市\nhttps://www.facebook.com/mnmcatcafe/photos/a.819815484795115/2152988771477773/?type=3&theater",
         "type": "restaurant",
         "openHours": "12:30 - 23:00",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
@@ -5925,7 +5827,9 @@
         "fb2": "@mnmcatcafe",
         "good": 8,
         "bad": 1,
-        "subType": "西式/酒"
+        "subType": "西式/酒",
+        "normalDesc": "多次公開譴責、捐款支持前線\nhttps://www.facebook.com/814169378693059/posts/2342756945834287?d=n&substory_index=0&sfns=mo",
+        "timeline": "**[11/11 - 13/11] 參與罷市\nhttps://www.instagram.com/p/B4ymNwPDAP0/\n**[5/8] 參與罷市\nhttps://www.facebook.com/mnmcatcafe/photos/a.819815484795115/2152988771477773/?type=3&theater"
     },
     {
         "id": 315,
@@ -6092,7 +5996,7 @@
         "brand": "留白 Blank Cafe",
         "lat": 22.371363,
         "lon": 114.119912,
-        "checkingSameContent": "Same 3040",
+        "checkingSameContent": "Same 1940",
         "good": 13,
         "bad": 1,
         "subType": "西式/甜品/糖水"
@@ -6561,7 +6465,7 @@
         "brand": "麵家山下",
         "lat": 22.5045763,
         "lon": 114.1286004,
-        "checkingSameContent": "Same 2912",
+        "checkingSameContent": "Same 1916",
         "fb2": "@menyamashita",
         "good": 254,
         "bad": 8,
@@ -6692,30 +6596,11 @@
         "brand": "花斑茶社",
         "lat": 22.2816356,
         "lon": 114.1280965,
-        "checkingSameContent": "Same 3031",
+        "checkingSameContent": "Same 1931",
         "fb2": "@abouteahk",
         "good": 69,
         "bad": 0,
         "subType": "台式飲品"
-    },
-    {
-        "id": 357,
-        "name": "13 Food Angel",
-        "address": "筲箕灣筲箕灣道356-358號海德堡地下B號舖",
-        "district": "東區",
-        "areas": "香港島",
-        "desc": "為香港人打氣\nhttps://ibb.co/1MdNj3F\nhttps://ibb.co/Y0xkfhw",
-        "type": "restaurant",
-        "openHours": "星期一至日08:00 - 22:00",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "13 Food Angel",
-        "lat": 22.2783116,
-        "lon": 114.2263605,
-        "checkingSameContent": "Done",
-        "fb2": "@13foodangel",
-        "good": 15,
-        "bad": 3,
-        "subType": "西式"
     },
     {
         "id": 358,
@@ -6819,7 +6704,7 @@
         "address": "深水埗基隆街255號地舖",
         "district": "深水埗",
         "areas": "九龍區",
-        "desc": "免費為港人補給「經典茄牛通」\nhttps://www.instagram.com/p/B16Zss8DrM0/",
+        "desc": "免費為港人補給「經典茄牛通」\nhttps://www.instagram.com/p/B16Zss8DrM0/\n\n張單印有 香港人，反抗！ \nhttps://i.imgur.com/IwrtSBT.png",
         "type": "restaurant",
         "openHours": "星期一至日 12:00 - 22:00",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
@@ -6830,7 +6715,8 @@
         "fb2": "@tomato.c.hing.shamshuipo",
         "good": 69,
         "bad": 0,
-        "subType": "港式/粉麵/米線"
+        "subType": "港式/粉麵/米線",
+        "normalDesc": "免費為港人補給「經典茄牛通」\nhttps://www.instagram.com/p/B16Zss8DrM0/\n\n張單印有 香港人，反抗！ \nhttps://i.imgur.com/IwrtSBT.png"
     },
     {
         "id": 365,
@@ -7835,7 +7721,7 @@
         "brand": "混醬坊",
         "lat": 22.328685,
         "lon": 114.16524,
-        "checkingSameContent": "Same 3077",
+        "checkingSameContent": "Same 1977",
         "fb2": "@mixup.hk",
         "good": 55,
         "bad": 5,
@@ -8207,7 +8093,7 @@
         "address": "深水埗欽州街37號西九龍中心8樓美食廣場55號舖",
         "district": "深水埗",
         "areas": "九龍區",
-        "desc": "支援手足水、能量棒\nhttps://www.facebook.com/permalink.php?story_fbid=1082922111899097&id=737261133131865",
+        "desc": "\n支援手足水、能量棒\nhttps://www.facebook.com/permalink.php?story_fbid=1082922111899097&id=73726113313186\n[13/11 ~] 不斷送飯比學生 \n[11/11] 各分店已有穩定接受支援學生，因此未能參與星期一三罷，但因積極響應1111黎明行動關係，當日會有以下特別安排\nhttps://www.facebook.com/737261133131865/photos/a.891114161079894/1163393693851938/",
         "type": "restaurant",
         "openHours": "星期一至日 12:00-21:00",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
@@ -8218,7 +8104,9 @@
         "fb2": "https://www.facebook.com/%E6%B0%B4%E9%96%80%E6%B3%B0%E5%BC%8F%E9%9B%9E%E9%A3%AF%E5%B0%88%E9%96%80%E5%BA%97-737261133131865/",
         "good": 64,
         "bad": 2,
-        "subType": "泰國菜/快餐店"
+        "subType": "泰國菜/快餐店",
+        "normalDesc": "\n支援手足水、能量棒\nhttps://www.facebook.com/permalink.php?story_fbid=1082922111899097&id=73726113313186",
+        "timeline": "**[13/11 ~] 不斷送飯比學生 \n**[11/11] 各分店已有穩定接受支援學生，因此未能參與星期一三罷，但因積極響應1111黎明行動關係，當日會有以下特別安排\nhttps://www.facebook.com/737261133131865/photos/a.891114161079894/1163393693851938/"
     },
     {
         "id": 440,
@@ -8226,7 +8114,7 @@
         "address": "元朗青山公路元朗段34號任安樓地下C號舖",
         "district": "元朗",
         "areas": "新界區",
-        "desc": "支援手足水、能量棒\nhttps://www.facebook.com/permalink.php?story_fbid=1082922111899097&id=737261133131865",
+        "desc": "\n支援手足水、能量棒\nhttps://www.facebook.com/permalink.php?story_fbid=1082922111899097&id=73726113313186\n[13/11 ~] 不斷送飯比學生 \n[11/11] 各分店已有穩定接受支援學生，因此未能參與星期一三罷，但因積極響應1111黎明行動關係，當日會有以下特別安排\nhttps://www.facebook.com/737261133131865/photos/a.891114161079894/1163393693851938/",
         "type": "restaurant",
         "openHours": "12:00 - 02:00",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
@@ -8237,7 +8125,9 @@
         "fb2": "https://www.facebook.com/%E6%B0%B4%E9%96%80%E6%B3%B0%E5%BC%8F%E9%9B%9E%E9%A3%AF%E5%B0%88%E9%96%80%E5%BA%97-737261133131865/",
         "good": 63,
         "bad": 4,
-        "subType": "泰國菜/快餐店"
+        "subType": "泰國菜/快餐店",
+        "normalDesc": "\n支援手足水、能量棒\nhttps://www.facebook.com/permalink.php?story_fbid=1082922111899097&id=73726113313186",
+        "timeline": "**[13/11 ~] 不斷送飯比學生 \n**[11/11] 各分店已有穩定接受支援學生，因此未能參與星期一三罷，但因積極響應1111黎明行動關係，當日會有以下特別安排\nhttps://www.facebook.com/737261133131865/photos/a.891114161079894/1163393693851938/"
     },
     {
         "id": 441,
@@ -8346,12 +8236,11 @@
         "brand": "覓茶活",
         "lat": 22.3888914,
         "lon": 114.20842,
-        "checkingSameContent": "Duplicate",
+        "checkingSameContent": "Done",
         "fb2": "@MakeTeaWork",
         "good": 28,
         "bad": 1,
-        "subType": "港式/台式飲品",
-        "timeline": "**[11/11]參與三罷。門口有紙\nhttps://m.facebook.com/MakeTeaWork/\n**[12/8]罷市\n**[5/8]罷市\nhttps://www.facebook.com/MakeTeaWork/posts/361994311161889"
+        "subType": "港式/台式飲品"
     },
     {
         "id": 447,
@@ -8370,25 +8259,6 @@
         "good": 23,
         "bad": 3,
         "subType": "意大利菜/西式"
-    },
-    {
-        "id": 448,
-        "name": "GoldBlack Creative Coffee Journey",
-        "address": "青衣青敬路33號青衣城1期地下26-27號舖",
-        "district": "葵青",
-        "areas": "新界區",
-        "desc": "8月5日罷工。\n店員向我們說香港人加油。\nhttps://www.instagram.com/p/B0v87gOgUut/?igshid=1t2j0m7i0oxge",
-        "type": "restaurant",
-        "openHours": "09:30 - 22:00",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "GoldBlack Creative Coffee Journey",
-        "lat": 22.3584265,
-        "lon": 114.1081419,
-        "checkingSameContent": "Done",
-        "fb2": "@goldblackcoffee",
-        "good": 45,
-        "bad": 5,
-        "subType": "咖啡"
     },
     {
         "id": 449,
@@ -8784,8 +8654,7 @@
         "fb2": "@18GRAMS",
         "good": 3,
         "bad": 0,
-        "subType": "咖啡",
-        "timeline": "**[5/8] 咖啡師們都剛好家都有要事，只維持有限度服務\nhttps://www.facebook.com/18GRAMS/photos/a.125914614248992/1154266761413767/?type=3"
+        "subType": "咖啡"
     },
     {
         "id": 471,
@@ -8804,8 +8673,7 @@
         "fb2": "@18GRAMS",
         "good": 16,
         "bad": 2,
-        "subType": "西式/All Day Breakfast",
-        "timeline": "**[5/8] 咖啡師們都剛好家都有要事，只維持有限度服務\nhttps://www.facebook.com/18GRAMS/photos/a.125914614248992/1154266761413767/?type=3"
+        "subType": "西式/All Day Breakfast"
     },
     {
         "id": 472,
@@ -8824,8 +8692,7 @@
         "fb2": "@18GRAMS",
         "good": 12,
         "bad": 3,
-        "subType": "西式/All Day Breakfast",
-        "timeline": "**[5/8] 咖啡師們都剛好家都有要事，只維持有限度服務\nhttps://www.facebook.com/18GRAMS/photos/a.125914614248992/1154266761413767/?type=3"
+        "subType": "西式/All Day Breakfast"
     },
     {
         "id": 475,
@@ -8844,8 +8711,7 @@
         "fb2": "@18GRAMS",
         "good": 30,
         "bad": 4,
-        "subType": "西式/All Day Breakfast",
-        "timeline": "**[5/8] 咖啡師們都剛好家都有要事，只維持有限度服務\nhttps://www.facebook.com/18GRAMS/photos/a.125914614248992/1154266761413767/?type=3"
+        "subType": "西式/All Day Breakfast"
     },
     {
         "id": 476,
@@ -9328,7 +9194,7 @@
         "address": "上環永樂街87號泰達大廈地下",
         "district": "中西區",
         "areas": "香港島",
-        "desc": "28/7出post支持抗爭, 捐能量棒/朱古力支援抗爭者\n",
+        "desc": "\n支援手足水、能量棒\nhttps://www.facebook.com/permalink.php?story_fbid=1082922111899097&id=73726113313186\n[13/11 ~] 不斷送飯比學生 \n[11/11] 各分店已有穩定接受支援學生，因此未能參與星期一三罷，但因積極響應1111黎明行動關係，當日會有以下特別安排\nhttps://www.facebook.com/737261133131865/photos/a.891114161079894/1163393693851938/",
         "type": "restaurant",
         "openHours": "星期一至六 11:30-21:00",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
@@ -9339,7 +9205,9 @@
         "fb2": "https://www.facebook.com/%E6%B0%B4%E9%96%80%E6%B3%B0%E5%BC%8F%E9%9B%9E%E9%A3%AF%E5%B0%88%E9%96%80%E5%BA%97-737261133131865/",
         "good": 51,
         "bad": 2,
-        "subType": "泰國菜/快餐店"
+        "subType": "泰國菜/快餐店",
+        "normalDesc": "\n支援手足水、能量棒\nhttps://www.facebook.com/permalink.php?story_fbid=1082922111899097&id=73726113313186",
+        "timeline": "**[13/11 ~] 不斷送飯比學生 \n**[11/11] 各分店已有穩定接受支援學生，因此未能參與星期一三罷，但因積極響應1111黎明行動關係，當日會有以下特別安排\nhttps://www.facebook.com/737261133131865/photos/a.891114161079894/1163393693851938/"
     },
     {
         "id": 508,
@@ -10314,7 +10182,7 @@
         "brand": "叁拾士多",
         "lat": 22.336711,
         "lon": 114.147572,
-        "checkingSameContent": "Same 3045",
+        "checkingSameContent": "Same 1944",
         "fb2": "@30store.hk",
         "good": 5,
         "bad": 1,
@@ -10929,7 +10797,7 @@
         "address": " 新蒲崗康強街32-34號康強洋樓地下16A舖",
         "district": "黃大仙",
         "areas": "九龍區",
-        "desc": "5/8 罷市\n",
+        "desc": "5/8 罷市\n\n多次參與三罷，店內有張貼油塘所有非建制區議員的宣傳海報。\nhttps://i.imgur.com/zJ3YYqE.jpg",
         "type": "restaurant",
         "openHours": "星期一至日\n12:00 - 22:30",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
@@ -10940,7 +10808,8 @@
         "fb2": "@more.eggettes",
         "good": 37,
         "bad": 1,
-        "subType": "港式/小食店"
+        "subType": "港式/小食店",
+        "normalDesc": "**[11/11] 多次參與三罷，店內有張貼油塘所有非建制區議員的宣傳海報。\nhttps://i.imgur.com/zJ3YYqE.jpg\n**[5/8] 罷市"
     },
     {
         "id": 600,
@@ -10948,7 +10817,7 @@
         "address": "太子汝州街17號地舖",
         "district": "油尖旺",
         "areas": "九龍區",
-        "desc": "5/8 罷市\n",
+        "desc": "5/8 罷市\n\n多次參與三罷，店內有張貼油塘所有非建制區議員的宣傳海報。\nhttps://i.imgur.com/zJ3YYqE.jpg",
         "type": "restaurant",
         "openHours": "星期一至日\n12:00 - 23:00",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
@@ -10959,7 +10828,8 @@
         "fb2": "@more.eggettes",
         "good": 16,
         "bad": 2,
-        "subType": "港式/小食店"
+        "subType": "港式/小食店",
+        "normalDesc": "**[11/11] 多次參與三罷，店內有張貼油塘所有非建制區議員的宣傳海報。\nhttps://i.imgur.com/zJ3YYqE.jpg\n**[5/8] 罷市"
     },
     {
         "id": 601,
@@ -10967,7 +10837,7 @@
         "address": " 油塘鯉魚門道80號鯉魚門廣場1樓133號舖",
         "district": "觀塘",
         "areas": "九龍區",
-        "desc": "5/8 罷市\n",
+        "desc": "5/8 罷市\n\n多次參與三罷，店內有張貼油塘所有非建制區議員的宣傳海報。\nhttps://i.imgur.com/zJ3YYqE.jpg",
         "type": "restaurant",
         "openHours": "星期一至日\n11:00 - 22:30",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
@@ -10978,7 +10848,8 @@
         "fb2": "@more.eggettes",
         "good": 124,
         "bad": 11,
-        "subType": "港式/小食店"
+        "subType": "港式/小食店",
+        "normalDesc": "**[11/11] 多次參與三罷，店內有張貼油塘所有非建制區議員的宣傳海報。\nhttps://i.imgur.com/zJ3YYqE.jpg\n**[5/8] 罷市"
     },
     {
         "id": 602,
@@ -11421,7 +11292,7 @@
         "brand": "聚Chill",
         "lat": 22.4024246,
         "lon": 113.9779248,
-        "checkingSameContent": "Duplicate",
+        "checkingSameContent": "Done",
         "good": 18,
         "bad": 1,
         "subType": "港式",
@@ -11471,7 +11342,7 @@
         "district": "大埔",
         "areas": "新界區",
         "googlePlaceId2": "ChIJL54GBzkIBDQRec9kaoca81c",
-        "desc": "\n餐廳門外有水寫明俾後生仔攞，店入面仲有反送中文宣",
+        "desc": "\n餐廳門外有水寫明俾後生仔攞，店入面仲有反送中文宣\n\n經\"香港人的飲食購物天地\" Fact check. \nhttps://www.facebook.com/groups/2701324926545942/permalink/2802744079737359/",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "Cafe Swan 咖啡灣",
@@ -11480,7 +11351,9 @@
         "checkingSameContent": "Done",
         "good": 18,
         "bad": 26,
-        "subType": "西式/麵包店"
+        "subType": "西式/麵包店",
+        "normalDesc": "經\"香港人的飲食購物天地\" Fact check. \nhttps://www.facebook.com/groups/2701324926545942/permalink/2802744079737359/\n\n餐廳門外有水寫明俾後生仔攞，店入面仲有反送中文宣",
+        "timeline": "**[19/11] 3間分店既純利收益，已全數捐入「星火同盟」 \nhttps://www.facebook.com/cafeswanhk/posts/2608063272618145\n**[13/11] 罷工\nhttps://www.facebook.com/cafeswanhk/photos/a.831852693572554/2594313890659750/\n**[11/11] 罷工"
     },
     {
         "id": 630,
@@ -11488,7 +11361,7 @@
         "address": "粉嶺中心2樓",
         "district": "北區",
         "areas": "新界區",
-        "desc": "\n餐廳門外有水寫明俾後生仔攞，店入面仲有反送中文宣",
+        "desc": "\n餐廳門外有水寫明俾後生仔攞，店入面仲有反送中文宣\n\n經\"香港人的飲食購物天地\" Fact check. \nhttps://www.facebook.com/groups/2701324926545942/permalink/2802744079737359/",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "Cafe Swan 咖啡灣",
@@ -11497,7 +11370,9 @@
         "checkingSameContent": "Done",
         "good": 66,
         "bad": 49,
-        "subType": "西式/麵包店"
+        "subType": "西式/麵包店",
+        "normalDesc": "經\"香港人的飲食購物天地\" Fact check. \nhttps://www.facebook.com/groups/2701324926545942/permalink/2802744079737359/\n\n餐廳門外有水寫明俾後生仔攞，店入面仲有反送中文宣",
+        "timeline": "**[19/11] 3間分店既純利收益，已全數捐入「星火同盟」 \nhttps://www.facebook.com/cafeswanhk/posts/2608063272618145\n**[13/11] 罷工\nhttps://www.facebook.com/cafeswanhk/photos/a.831852693572554/2594313890659750/\n**[11/11] 罷工"
     },
     {
         "id": 631,
@@ -11505,16 +11380,18 @@
         "address": "荃灣眾安街68號荃灣千色匯II期地下G30-G33號舖",
         "district": "荃灣",
         "areas": "新界區",
-        "desc": "\n餐廳門外有水寫明俾後生仔攞，店入面仲有反送中文宣",
+        "desc": "\n餐廳門外有水寫明俾後生仔攞，店入面仲有反送中文宣\n\n經\"香港人的飲食購物天地\" Fact check. \nhttps://www.facebook.com/groups/2701324926545942/permalink/2802744079737359/",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "Cafe Swan 咖啡灣",
         "lat": 22.3706219,
         "lon": 114.1177482,
-        "checkingSameContent": "Same 3047",
+        "checkingSameContent": "Same 1946",
         "good": 19,
         "bad": 58,
-        "subType": "西式/麵包店"
+        "subType": "西式/麵包店",
+        "normalDesc": "經\"香港人的飲食購物天地\" Fact check. \nhttps://www.facebook.com/groups/2701324926545942/permalink/2802744079737359/\n\n餐廳門外有水寫明俾後生仔攞，店入面仲有反送中文宣",
+        "timeline": "**[19/11] 3間分店既純利收益，已全數捐入「星火同盟」 \nhttps://www.facebook.com/cafeswanhk/posts/2608063272618145\n**[13/11] 罷工\nhttps://www.facebook.com/cafeswanhk/photos/a.831852693572554/2594313890659750/\n**[11/11] 罷工"
     },
     {
         "id": 632,
@@ -11659,10 +11536,11 @@
         "brand": "上海天龍樓",
         "lat": 22.2483068,
         "lon": 114.1524398,
-        "checkingSameContent": "Done",
+        "checkingSameContent": "Duplicate",
         "good": 51,
         "bad": 6,
-        "subType": "滬菜 (上海)/中菜館"
+        "subType": "滬菜 (上海)/中菜館",
+        "normalDesc": "香港仔晚飯，黃店選擇少之又少，意外聽到天龍樓中年阿姐伙記高談闊論diu狗diu林鄭diu高官，大聲到有食客叫佢地細聲少少，驚出面可能有狗聽到。阿姐話：驚咩啊驚，呢度私人地方，我幾廿歲人拉我都冇所謂！(與此同時，深藍老豆坐在我旁邊很安靜)\n老實說，呢間環境一般價錢一般好食程度都係中規中矩，所以要南區人要多去食下，反映下有咩可以改善\nhttps://www.facebook.com/groups/2701324926545942?view=permalink&id=2788383827840051\n\nhttps://imgur.com/S484Nxs"
     },
     {
         "id": 640,
@@ -11677,7 +11555,7 @@
         "brand": "香港味道",
         "lat": 22.3363251,
         "lon": 114.1949783,
-        "checkingSameContent": "Same 2909",
+        "checkingSameContent": "Same 1914",
         "good": 63,
         "bad": 5,
         "subType": "港式/茶餐廳/冰室"
@@ -12156,7 +12034,7 @@
         "district": "東區",
         "areas": "香港島",
         "googlePlaceId2": "ChIJDQ9CpXYBBDQR-pixwG5pt_Y",
-        "desc": "https://etw.nextdigital.com.hk/restaurant/10163\n由細個老老細食到宜家後生老細，今日(10月11日)下午佢地一路播收音機狗記招，篤緊串串嘅姨姨時不時細細聲鬧啲狗，叫啲狗唔好再出黎呃人同打細路，我忍唔住話\"講得好\"，之後老闆仔都出聲話\"呢啲記者會係俾藍絲聽架，講埋啲on9野\"，之後姨姨就開始係咁講警察點衰。(之後一個排緊隊嘅阿伯都加把口鬧狗)\n\n見到由細食到大嘅鋪頭係黃，好感動 😭",
+        "desc": "請學生食\nhttps://www.facebook.com/photo.php?fbid=10158938176354027&set=gm.2869695383042228&type=3&theater\n\n由細個老老細食到宜家後生老細，今日(10月11日)下午佢地一路播收音機狗記招，篤緊串串嘅姨姨時不時細細聲鬧啲狗，叫啲狗唔好再出黎呃人同打細路，我忍唔住話\"\"講得好\"\"，之後老闆仔都出聲話\"\"呢啲記者會係俾藍絲聽架，講埋啲on9野\"\"，之後姨姨就開始係咁講警察點衰。(之後一個排緊隊嘅阿伯都加把口鬧狗)\nhttps://etw.nextdigital.com.hk/restaurant/10163",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "魚蛋佬",
@@ -12165,7 +12043,8 @@
         "checkingSameContent": "Done",
         "good": 57,
         "bad": 3,
-        "subType": "港式/小食店"
+        "subType": "港式/小食店",
+        "normalDesc": "請學生食\nhttps://www.facebook.com/photo.php?fbid=10158938176354027&set=gm.2869695383042228&type=3&theater\n\n由細個老老細食到宜家後生老細，今日(10月11日)下午佢地一路播收音機狗記招，篤緊串串嘅姨姨時不時細細聲鬧啲狗，叫啲狗唔好再出黎呃人同打細路，我忍唔住話\"\"講得好\"\"，之後老闆仔都出聲話\"\"呢啲記者會係俾藍絲聽架，講埋啲on9野\"\"，之後姨姨就開始係咁講警察點衰。(之後一個排緊隊嘅阿伯都加把口鬧狗)\nhttps://etw.nextdigital.com.hk/restaurant/10163"
     },
     {
         "id": 670,
@@ -12198,7 +12077,7 @@
         "brand": "光榮冰室",
         "lat": 22.3719255,
         "lon": 114.1175536,
-        "checkingSameContent": "Same 3094",
+        "checkingSameContent": "Same 1995",
         "good": 65,
         "bad": 5,
         "subType": "港式/茶餐廳/冰室"
@@ -12450,7 +12329,7 @@
         "brand": "肥仔銘茶餐廳",
         "lat": 22.3361442,
         "lon": 114.1956077,
-        "checkingSameContent": "Same 3076",
+        "checkingSameContent": "Same 1976",
         "good": 41,
         "bad": 0,
         "subType": "港式/茶餐廳/冰室"
@@ -12522,7 +12401,7 @@
         "brand": "地道館車仔麵",
         "lat": 22.3351416,
         "lon": 114.1954998,
-        "checkingSameContent": "Same 2305",
+        "checkingSameContent": "Same 1289",
         "good": 45,
         "bad": 1,
         "subType": "港式/車仔麵"
@@ -12678,7 +12557,7 @@
         "district": "油尖旺",
         "areas": "九龍區",
         "googlePlaceId2": "ChIJ_y6WG8oABDQROcrBIo0iW3M",
-        "desc": "秋山和食屋\n我朋友上個月新開，黃C家庭小店，一家人做，撞啱呢排市道麻麻，佢哋又喺旺角差館附近，所以比較靜，但佢哋都明白問題喺個垃圾政府度，依然咁撐年青人，所以希望大家可以支持一下 ",
+        "desc": "我朋友上個月新開，黃C家庭小店，一家人做，撞啱呢排市道麻麻，佢哋又喺旺角差館附近，所以比較靜，但佢哋都明白問題喺個垃圾政府度，依然咁撐年青人，所以希望大家可以支持一下 \n\n店舖有文宣/10.1 國殤/11.11罷市",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "秋山和食屋",
@@ -12687,7 +12566,9 @@
         "checkingSameContent": "Duplicate",
         "good": 16,
         "bad": 0,
-        "subType": "日本菜/壽司/刺身"
+        "subType": "日本菜/壽司/刺身",
+        "normalDesc": "上個月新開，黃C家庭小店，一家人做，撞啱呢排市道麻麻，佢哋又喺旺角差館附近，所以比較靜，但佢哋都明白問題喺個垃圾政府度，依然咁撐年青人，所以希望大家可以支持一下 \n\n店舖有文宣",
+        "timeline": "**[11/11] 罷市\n**[1/10] 國殤罷市"
     },
     {
         "id": 703,
@@ -12990,7 +12871,7 @@
         "brand": "清玉",
         "lat": 22.3159725,
         "lon": 114.1815918,
-        "checkingSameContent": "Same 1278",
+        "checkingSameContent": "Same 1277",
         "good": 9,
         "bad": 0,
         "subType": "台灣菜/台式飲品"
@@ -13026,7 +12907,7 @@
         "brand": "盤子工坊",
         "lat": 22.407139,
         "lon": 113.9697465,
-        "checkingSameContent": "Same 3038",
+        "checkingSameContent": "Same 1938",
         "good": 35,
         "bad": 0,
         "subType": "多國菜/小食店"
@@ -13317,7 +13198,7 @@
         "brand": "光榮冰室",
         "lat": 22.367296,
         "lon": 114.058959,
-        "checkingSameContent": "Same 3094",
+        "checkingSameContent": "Same 1995",
         "good": 10,
         "bad": 0,
         "subType": "港式/茶餐廳/冰室"
@@ -13329,7 +13210,7 @@
         "district": "葵青",
         "areas": "新界區",
         "googlePlaceId2": "ChIJ88GxMvr5AzQRUs0l47U8xG0",
-        "desc": "https://m.facebook.com/Mustachechefhk/\n\nwww.instagram.com/mustachechefhk/\n\n唔洗fact check，青衣人應該都知佢係黃，有免費口罩提供，有青衣人加油字句",
+        "desc": "有免費口罩提供\n\n青衣人加油字句\nhttps://www.facebook.com/photo.php?fbid=10156593732993587&set=a.10151366840888587&type=3&sfns=mo\n\nfoodpanda外賣，攝住左張紙\nhttps://www.facebook.com/groups/2701324926545942/permalink/2744340578911043/?hc_location=ufi",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "鬍鬚仔",
@@ -13338,7 +13219,8 @@
         "checkingSameContent": "Duplicate",
         "good": 39,
         "bad": 3,
-        "subType": "港式/漢堡包"
+        "subType": "港式/漢堡包",
+        "normalDesc": "有免費口罩提供\n\n青衣人加油字句\nhttps://www.facebook.com/photo.php?fbid=10156593732993587&set=a.10151366840888587&type=3&sfns=mo\n\nfoodpanda外賣，攝住左張紙\nhttps://www.facebook.com/groups/2701324926545942/permalink/2744340578911043/?hc_location=ufi"
     },
     {
         "id": 758,
@@ -13455,7 +13337,7 @@
         "district": "東區",
         "areas": "香港島",
         "googlePlaceId2": "EjXlnLDkuItCMuiZn-iIliwgMTUzIEtpbmcncyBSZCwgTm9ydGggUG9pbnQsIEhvbmcgS29uZyIqGigKFgoUChIJw-I8igEBBDQRWCTT48Nu68ASDuWcsOS4i0Iy6Jmf6IiW",
-        "desc": "十一著黑衫買一送一\nhttps://www.facebook.com/teaelementss/\n\n823已經免費派飲品畀市民\nhttps://www.facebook.com/groups/2701324926545942/permalink/2747317551946679/",
+        "desc": "[12/11] 穿校服可獲買一送一優惠，現手持大學學生證即可獲同一優惠\nhttps://www.facebook.com/teaelementss/\n[11/11] 罷市\nhttps://www.facebook.com/teaelementss/\n[10/10] 買一送一\n[23/8]已經免費派飲品畀市民\nhttps://www.facebook.com/groups/2701324926545942/permalink/2747317551946679/",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "茶一",
@@ -13464,7 +13346,8 @@
         "checkingSameContent": "Duplicate",
         "good": 18,
         "bad": 0,
-        "subType": "台灣菜/台式飲品"
+        "subType": "台灣菜/台式飲品",
+        "normalDesc": "**[12/11] 穿校服可獲買一送一優惠，現手持大學學生證即可獲同一優惠\nhttps://www.facebook.com/teaelementss/\n**[11/11] 罷市\nhttps://www.facebook.com/teaelementss/\n**[10/10] 買一送一\n**[23/8]已經免費派飲品畀市民\nhttps://www.facebook.com/groups/2701324926545942/permalink/2747317551946679/"
     },
     {
         "id": 767,
@@ -13641,10 +13524,11 @@
         "brand": "漁場台風",
         "lat": 22.3205658,
         "lon": 114.1712144,
-        "checkingSameContent": "Done",
+        "checkingSameContent": "Same 2002",
         "good": 5,
         "bad": 0,
-        "subType": "日本菜/拉麵"
+        "subType": "日本菜/拉麵",
+        "timeline": "**[1/10]遊行，落閘一日\nhttps://www.facebook.com/ramentaifu.i/photos/a.1463271447296715/2246254342331751/?type=3"
     },
     {
         "id": 779,
@@ -13695,7 +13579,7 @@
         "brand": "夏雪",
         "lat": 22.3755609,
         "lon": 114.1780034,
-        "checkingSameContent": "Same 3099",
+        "checkingSameContent": "Same 1999",
         "good": 6,
         "bad": 0,
         "subType": "西式/甜品/糖水"
@@ -13752,7 +13636,8 @@
         "checkingSameContent": "Done",
         "good": 2,
         "bad": 0,
-        "subType": "台灣菜/台式飲品"
+        "subType": "台灣菜/台式飲品",
+        "timeline": "**[13/11]義賣不扣除任何成本撐中大學生，指定捐款俾星火\nhttps://i.imgur.com/hnmogxp.jpg"
     },
     {
         "id": 787,
@@ -13785,7 +13670,7 @@
         "brand": "富記麵家",
         "lat": 22.2771076,
         "lon": 114.1772815,
-        "checkingSameContent": "Same 1280",
+        "checkingSameContent": "Same 1279",
         "good": 20,
         "bad": 0,
         "subType": "港式/粉麵/米線"
@@ -13906,16 +13791,17 @@
         "district": "灣仔",
         "areas": "香港島",
         "googlePlaceId2": "ChIJx_0Sk3MBBDQRlk92G_jn4BE",
-        "desc": "店內有連農牆、播放抗爭歌曲\nhttps://imgur.com/y0DzGQ9\n\n\n店內有連儂牆，大家有時間去支持下，晚市得好少人咋\nhttps://www.facebook.com/groups/2701324926545942/permalink/2723177834360651/\n\n有連儂，單據有光復香港，時代革命，遊行例開手足可先吃晚飯\nhttps://www.facebook.com/no.boundary.hk/\nhttps://www.facebook.com/300858437397512/posts/535143777302309?sfns=mo",
+        "desc": "店內有連農牆、播放抗爭歌曲\nhttps://imgur.com/y0DzGQ9\n\n店內有連儂牆，大家有時間去支持下，晚市得好少人咋\nhttps://www.facebook.com/groups/2701324926545942/permalink/2723177834360651/\n\n日本客人都支持\nhttps://www.facebook.com/300858437397512/posts/535143777302309?sfns=mo",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "No Boundary",
         "lat": 22.2778928,
         "lon": 114.1866803,
-        "checkingSameContent": "Same 3088",
+        "checkingSameContent": "Same 1989",
         "good": 4,
         "bad": 1,
-        "subType": "多國菜/漢堡包"
+        "subType": "多國菜/漢堡包",
+        "normalDesc": "店內有連農牆、播放抗爭歌曲\nhttps://imgur.com/y0DzGQ9\n\n店內有連儂牆，大家有時間去支持下，晚市得好少人咋\nhttps://www.facebook.com/groups/2701324926545942/permalink/2723177834360651/\n\n日本客人都支持\nhttps://www.facebook.com/300858437397512/posts/535143777302309?sfns=mo"
     },
     {
         "id": 797,
@@ -13984,7 +13870,7 @@
         "brand": "一芳",
         "lat": 22.3009751,
         "lon": 114.1724411,
-        "checkingSameContent": "Same 1774",
+        "checkingSameContent": "Same 1337",
         "good": 0,
         "bad": 0,
         "subType": "台灣菜/台式飲品",
@@ -14106,7 +13992,7 @@
         "district": "灣仔",
         "areas": "香港島",
         "googlePlaceId2": "ChIJEUehPlQABDQR61pioCGHoVo",
-        "desc": "VivaPasta\nhttps://www.facebook.com/415345089267121/posts/520542178747411?sfns=mo\n\n1/10 曾參與罷工",
+        "desc": "1/10 曾參與罷工\nhttps://www.facebook.com/415345089267121/posts/520542178747411?sfns=mo",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "VivaPasta",
@@ -14115,7 +14001,8 @@
         "checkingSameContent": "Done",
         "good": 2,
         "bad": 0,
-        "subType": "多國菜"
+        "subType": "多國菜",
+        "timeline": "**[11/11] 曾參與罷工\nhttps://www.facebook.com/permalink.php?story_fbid=551934625608166&id=415345089267121\n**[1/10] 曾參與罷工\nhttps://www.facebook.com/415345089267121/posts/520542178747411?sfns=mo"
     },
     {
         "id": 809,
@@ -14223,7 +14110,9 @@
         "checkingSameContent": "Done",
         "good": 9,
         "bad": 0,
-        "subType": "台灣菜/台式飲品"
+        "subType": "台灣菜/台式飲品",
+        "normalDesc": "鋪頭出面貼上民主黨區選poster\n電視播港台",
+        "timeline": "**[5/8] 罷巿fb出文\nhttps://www.facebook.com/groups/2701324926545942/permalink/2811200518891715/"
     },
     {
         "id": 815,
@@ -14268,7 +14157,7 @@
         "district": "灣仔",
         "areas": "香港島",
         "googlePlaceId2": "ChIJiQWWV8wBBDQRtGQkZEDc6HI",
-        "desc": "有一次發夢，我入去問佢哋鋪頭全身紋身嘅女員工借六角匙同士巴拿，就算冇士巴拿都借六角匙俾我，臨走仲俾啲水我叫我小心\n老闆娘一直有捐錢，曾經借過舖做集資站，同比地方小朋友食飯",
+        "desc": "捐錢\nhttps://www.facebook.com/photo.php?fbid=10221281013083646&set=gm.2891962650815501&type=3&theater\n\n有人話:\n有一次發夢，入去問佢哋鋪頭全身紋身嘅女員工借六角匙同士巴拿，就算冇士巴拿都借六角匙俾我，臨走仲俾啲水我叫我小心\n老闆娘一直有捐錢，曾經借過舖做集資站，同比地方小朋友食飯",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "銅鑼灣麵尊",
@@ -14277,7 +14166,8 @@
         "checkingSameContent": "Done",
         "good": 12,
         "bad": 0,
-        "subType": "港式/車仔麵"
+        "subType": "港式/車仔麵",
+        "normalDesc": "捐錢\nhttps://www.facebook.com/photo.php?fbid=10221281013083646&set=gm.2891962650815501&type=3&theater\n\n有人話:\n有一次發夢，入去問佢哋鋪頭全身紋身嘅女員工借六角匙同士巴拿，就算冇士巴拿都借六角匙俾我，臨走仲俾啲水我叫我小心\n老闆娘一直有捐錢，曾經借過舖做集資站，同比地方小朋友食飯"
     },
     {
         "id": 818,
@@ -14548,25 +14438,8 @@
         "checkingSameContent": "Done",
         "good": 4,
         "bad": 15,
-        "subType": "泰國菜/海鮮"
-    },
-    {
-        "id": 839,
-        "name": "萬花筒",
-        "address": "紅磡黃埔明安街29號A地舖",
-        "district": "九龍城",
-        "areas": "九龍區",
-        "googlePlaceId2": "ChIJbeDk_90ABDQRH7BDnWIaMto",
-        "desc": "\n深夜長播榮光 \nhttps://m.facebook.com/story/graphql_permalink/?graphql_id=UzpfSTkzNzE2MDMwMjk3NTAyMDoyNzM5Mjc2OTcyNzYzMzM1",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "萬花筒",
-        "lat": 22.3051353,
-        "lon": 114.1895675,
-        "checkingSameContent": "Done",
-        "good": 3,
-        "bad": 1,
-        "subType": "港式/雪糕/乳酪"
+        "subType": "泰國菜/海鮮",
+        "timeline": "**[10/8] 免費派飲品同比’行街’人仕入去休息\nhttps://i.imgur.com/GdDa9BA.jpg\nhttp://std.stheadline.com/instant/articles/detail/1064570/即時-香港-大埔遊行-黑衣人聚集廣福道-商舖拉閘便利店變-連牆"
     },
     {
         "id": 841,
@@ -14584,6 +14457,7 @@
         "checkingSameContent": "Done",
         "good": 5,
         "bad": 0,
+        "updatedDesc": "\n",
         "subType": "新加坡菜/粉麵/米線"
     },
     {
@@ -14617,7 +14491,7 @@
         "brand": "鴻記潮州滷鵝",
         "lat": 22.278159,
         "lon": 114.175375,
-        "checkingSameContent": "Same 3092",
+        "checkingSameContent": "Same 1993",
         "good": 1,
         "bad": 0,
         "subType": "潮州菜/海鮮"
@@ -14936,7 +14810,7 @@
         "brand": "仨點仨",
         "lat": 22.3879599,
         "lon": 113.975674,
-        "checkingSameContent": "Same 3072",
+        "checkingSameContent": "Same 1969",
         "good": 2,
         "bad": 0,
         "subType": "台灣菜/台式飲品"
@@ -15127,7 +15001,9 @@
         "lon": 113.9748581,
         "checkingSameContent": "Done",
         "good": 9,
-        "bad": 18
+        "bad": 18,
+        "normalDesc": "屯門確實終於再多間黃店選擇喇！😆\n其實我六月已經知道既，因為幾場重要運動同首次罷工我都有見佢響應。\n但至今百幾日始終要fc再fc先可以講出黎。\n革命未開始我已經幾鐘意呢間拉麵店，由佢開將每到晚間都一定係客似雲來，門面都已覺得好特別，係少有喺香港咁有日本小店味道。\n我偶爾都有幫襯，湯底唔錯架。\n其實我覺得老闆本身都幾低調路線，好欣賞。\n國殤日前夕，今晚俾我經過見倒門口貼左香港人加油！\n竟然公然為香港人打氣，大家絕對要大大力落多幾錢去懲罰佢喇！\n一於懲罰到佢全日都咁多暴徒出沒\nhttps://www.facebook.com/groups/2701324926545942/permalink/2770518366293264?sfns=mo\n\n住係樓上，鋪頭痴滿連儂牆，有香港米豬連認證！\nhttps://m.imgur.com/vWgg99U",
+        "timeline": "**[11/11 - 12/11] 罷工\nhttps://i.imgur.com/60ZZHxO.png"
     },
     {
         "id": 875,
@@ -15142,7 +15018,7 @@
         "brand": "麗江雲南米線",
         "lat": 22.4521074,
         "lon": 114.0002918,
-        "checkingSameContent": "Same 3034",
+        "checkingSameContent": "Same 1935",
         "good": 16,
         "bad": 0
     },
@@ -15177,7 +15053,7 @@
         "brand": "貓之眼 Cats Eye",
         "lat": 22.2759175,
         "lon": 114.1718018,
-        "checkingSameContent": "Same 3083",
+        "checkingSameContent": "Same 1983",
         "good": 10,
         "bad": 0
     },
@@ -15311,7 +15187,7 @@
         "brand": "艾粒是叻",
         "lat": 22.5042096,
         "lon": 114.1303686,
-        "checkingSameContent": "Same 3098",
+        "checkingSameContent": "Same 1998",
         "good": 3,
         "bad": 0,
         "subType": "港式/小食店"
@@ -15442,7 +15318,7 @@
         "brand": "留白",
         "lat": 22.371363,
         "lon": 114.119912,
-        "checkingSameContent": "Same 3040"
+        "checkingSameContent": "Same 1940"
     },
     {
         "id": 896,
@@ -15997,9 +15873,10 @@
         "brand": "大勝丼",
         "lat": 22.3162382,
         "lon": 114.1702765,
-        "checkingSameContent": "Same 3036",
+        "checkingSameContent": "Same 1937",
         "good": 2,
         "bad": 0,
+        "updatedDesc": "\n\n",
         "subType": "日本菜/壽司/刺身"
     },
     {
@@ -16162,9 +16039,10 @@
         "brand": "Cafe Sammi 森美餐廳",
         "lat": 22.371641,
         "lon": 114.119712,
-        "checkingSameContent": "Same 3074",
+        "checkingSameContent": "Same 1974",
         "good": 3,
-        "bad": 0
+        "bad": 0,
+        "normalDesc": "~~[11/11] 休息\nhttps://www.facebook.com/cafesammi/photos/a.299776450482629/780161665777436/?type=3&theater"
     },
     {
         "id": 945,
@@ -16235,7 +16113,7 @@
     },
     {
         "id": 949,
-        "name": "My boot restaurant",
+        "name": "My Boat Restaurant",
         "address": "香港九龍觀塘駿業街64號南益商業中心6樓C室",
         "district": "觀塘",
         "areas": "九龍區",
@@ -16243,7 +16121,7 @@
         "desc": "5/8 罷市\nhttps://www.facebook.com/myboat/\nhttps://www.instagram.com/p/B36PTRFl_Z7/?igshid=mox3i9n0ekre",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "My boot restaurant",
+        "brand": "My Boat Restaurant",
         "lat": 22.3116016,
         "lon": 114.2233863,
         "checkingSameContent": "Done",
@@ -16293,10 +16171,11 @@
         "brand": "鮮芋仙",
         "lat": 22.2790289,
         "lon": 114.181565,
-        "checkingSameContent": "Same 3021",
+        "checkingSameContent": "Same 2014",
         "good": 1,
         "bad": 0,
-        "subType": "甜品"
+        "subType": "甜品",
+        "timeline": "**[31/8]當晚危急之時為有需要的人伸出援手，同時保護留在店裡的人，俾手足入去避 提供安全地方\nhttps://www.facebook.com/groups/2701324926545942/permalink/2714898521855249/"
     },
     {
         "id": 953,
@@ -16430,23 +16309,6 @@
         "checkingSameContent": "Done",
         "good": 2,
         "bad": 0
-    },
-    {
-        "id": 961,
-        "name": "如意冰室私房菜",
-        "address": "灣仔軒尼詩道38-46號新基大廈地舖",
-        "district": "灣仔",
-        "areas": "香港島",
-        "googlePlaceId2": "ChIJ79wl66gBBDQR74ubP4Nuo-I",
-        "desc": "超好黃店，店舖外有自制連儂牆。有一特色菜式：攬炒 （高質炒菜必試）\n\n店外貼上加油、反抗\nhttps://www.facebook.com/460043890709473/posts/6050375198342953/",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "如意冰室私房菜",
-        "lat": 22.2774,
-        "lon": 114.170549,
-        "checkingSameContent": "Done",
-        "good": 2,
-        "bad": 17
     },
     {
         "id": 962,
@@ -16649,7 +16511,7 @@
         "brand": "樂林小鍋米線",
         "lat": 22.2865712,
         "lon": 114.2111823,
-        "checkingSameContent": "Same 3063",
+        "checkingSameContent": "Same 1964",
         "good": 4,
         "bad": 0,
         "subType": "滇菜(雲南)/粉麵/米線"
@@ -16783,21 +16645,23 @@
     },
     {
         "id": 982,
-        "name": "榕記車仔麵",
-        "address": "港貿中心2樓201號鋪",
+        "name": "榕記 潮麵",
+        "address": "九龍城打鼓嶺道80號",
         "district": "觀塘",
         "areas": "九龍區",
         "googlePlaceId2": "ChIJod2IftUGBDQRcwBHTtQIqn0",
-        "desc": "播 願榮光歸香港\nhttps://www.facebook.com/groups/2701324926545942/permalink/2791459190865848?sfns=mo",
+        "desc": "為抗爭者提供水\nhttps://www.facebook.com/yungkeemin/posts/2563025890421475\n\n播 願榮光歸香港\nhttps://www.facebook.com/groups/2701324926545942/permalink/2791459190865848?sfns=mo",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "榕記車仔麵",
-        "lat": 22.3115786,
-        "lon": 114.2247003,
+        "lat": 22.330389,
+        "lon": 114.191662,
         "checkingSameContent": "Done",
         "good": 0,
         "bad": 1,
-        "subType": "港式/車仔麵"
+        "subType": "港式/車仔麵",
+        "closed": true,
+        "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/yungkeemin/photos/a.787555541301861/2763751053682290/?type=3&theater\n**[5/8] 參與罷市\n**[4/8] 為抗爭者提供水\nhttps://www.facebook.com/yungkeemin/posts/2563025890421475"
     },
     {
         "id": 983,
@@ -16833,6 +16697,7 @@
         "checkingSameContent": "Done",
         "good": 1,
         "bad": 0,
+        "updatedDesc": "\n",
         "subType": "港式/串燒/小食店"
     },
     {
@@ -17202,22 +17067,6 @@
         "subType": "未分類"
     },
     {
-        "id": 1009,
-        "name": "魚場台風",
-        "address": "旺角快富街39號",
-        "district": "油尖旺",
-        "areas": "九龍區",
-        "googlePlaceId2": "ChIJrSeEhcgABDQReMhWoHWqeZs",
-        "desc": "1/10 響應罷工\nhttps://na.cx/i/RdZkLXP.jpg",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "魚場台風",
-        "lat": 22.3204452,
-        "lon": 114.1712922,
-        "checkingSameContent": "Done",
-        "subType": "未分類"
-    },
-    {
         "id": 1011,
         "name": "Golem",
         "address": "沙田安群街",
@@ -17316,7 +17165,7 @@
         "brand": "13 Take Away",
         "lat": 22.2785778,
         "lon": 114.1734518,
-        "checkingSameContent": "Same 2911",
+        "checkingSameContent": "Same 1915",
         "good": 1,
         "bad": 0,
         "subType": "未分類"
@@ -17380,7 +17229,7 @@
         "district": "黃大仙",
         "areas": "九龍區",
         "googlePlaceId2": "ChIJraNAKEkHBDQRbmS5o4ibxeE",
-        "desc": "店員一路睇住cctvb新聞一路鬧手足搞搞震，整爛曬d野，辛苦班警察\r\n鋪頭唔會播CCTVB, 喺鋪頭入邊可以高談闊論當下嘅時事！",
+        "desc": "店員一路睇住cctvb新聞一路鬧手足搞搞震，整爛曬d野，辛苦班警察\n鋪頭唔會播CCTVB, 喺鋪頭入邊可以高談闊論當下嘅時事！\n\n老細低調一直有幫小朋友\nhttps://i.imgur.com/bHDoTkC.png",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "友利坊",
@@ -17389,7 +17238,8 @@
         "checkingSameContent": "Done",
         "good": 2,
         "bad": 9,
-        "subType": "未分類"
+        "subType": "未分類",
+        "normalDesc": "店員一路睇住cctvb新聞一路鬧手足搞搞震，整爛曬d野，辛苦班警察\n鋪頭唔會播CCTVB, 喺鋪頭入邊可以高談闊論當下嘅時事！\n\n老細低調一直有幫小朋友\nhttps://i.imgur.com/bHDoTkC.png"
     },
     {
         "id": 1021,
@@ -17416,7 +17266,7 @@
         "district": "灣仔",
         "areas": "香港島",
         "googlePlaceId2": "ChIJwcSnbFoABDQRlX-PpumWIds",
-        "desc": "席間見到有狗大圍捕&黨鐵又封站，無得走。唯有繼續坐，店員無趕我地走，比我地慢慢坐。仲教我地去邊個方向行比較安全。\nhttps://www.facebook.com/groups/2701324926545942/permalink/2725572484121186/",
+        "desc": "席間見到有狗大圍捕&黨鐵又封站，無得走。唯有繼續坐，店員無趕我地走，比我地慢慢坐。仲教我地去邊個方向行比較安全。\nhttps://www.facebook.com/groups/2701324926545942/permalink/2725572484121186/\n\n參加罷工，表示會為手足開到好夜以作休息，同埋抵食夾大件！\n\n10月1、5罷工\nhttps://www.facebook.com/817081595050388/posts/2529050090520188/\n\n讓市民暫避 催淚彈，進入店舖內休息\nhttps://www.facebook.com/817081595050388/posts/2559563570802173?sfns=mo",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "後街牛扒",
@@ -17425,7 +17275,8 @@
         "checkingSameContent": "Duplicate",
         "good": 2,
         "bad": 0,
-        "subType": "未分類"
+        "subType": "未分類",
+        "timeline": "**[1/10 , 5/10] 罷工\nhttps://www.facebook.com/817081595050388/posts/2529050090520188/\n**[8/9] 席間見到有狗大圍捕&黨鐵又封站，無得走。唯有繼續坐，店員無趕我地走，比我地慢慢坐。仲教我地去邊個方向行比較安全。\nhttps://www.facebook.com/groups/2701324926545942/permalink/2725572484121186/"
     },
     {
         "id": 1024,
@@ -17724,7 +17575,7 @@
         "brand": "二世祖",
         "lat": 22.3210325,
         "lon": 114.1648711,
-        "checkingSameContent": "Same 1281",
+        "checkingSameContent": "Same 1280",
         "good": 3,
         "bad": 0,
         "subType": "西式/多國菜/甜品/糖水/漢堡包/西式糕點"
@@ -17932,7 +17783,7 @@
         "brand": "ak",
         "lat": 22.3732555,
         "lon": 114.1766405,
-        "checkingSameContent": "Same 2894",
+        "checkingSameContent": "Same 2004",
         "subType": "日本菜/壽司/刺身"
     },
     {
@@ -18126,14 +17977,15 @@
         "district": "大埔",
         "areas": "新界區",
         "googlePlaceId2": "ChIJQXteSEcIBDQR2ZylqGIL6p8",
-        "desc": "在100毛表態支持抗爭者\nhttps://www.facebook.com/groups/2701324926545942/permalink/2743210329024068/",
+        "desc": "在100毛表態支持抗爭者\nhttps://www.facebook.com/groups/2701324926545942/permalink/2743210329024068/\n\n店內有米豬連 有香港加油 曾罷工\nhttps://www.facebook.com/328394843911711/posts/2560262144058292?d=n&sfns=mo",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "暢和麵家",
         "lat": 22.449504,
         "lon": 114.168449,
         "checkingSameContent": "Duplicate Updated Desc",
-        "subType": "粵菜(廣東)/粉麵/米線/雲吞/餃子/小食店"
+        "subType": "粵菜(廣東)/粉麵/米線/雲吞/餃子/小食店",
+        "normalDesc": "在100毛表態支持抗爭者\nhttps://www.facebook.com/groups/2701324926545942/permalink/2743210329024068/\n\n店內有米豬連 有香港加油 曾罷工\nhttps://www.facebook.com/328394843911711/posts/2560262144058292?d=n&sfns=mo"
     },
     {
         "id": 1068,
@@ -18184,7 +18036,7 @@
         "brand": "御前上茶",
         "lat": 22.4449785,
         "lon": 114.0377393,
-        "checkingSameContent": "Same 2574",
+        "checkingSameContent": "Same 1381",
         "good": 7,
         "bad": 0,
         "subType": "未分類"
@@ -18214,7 +18066,7 @@
         "district": "元朗",
         "areas": "新界區",
         "googlePlaceId2": "ChIJwYLLE7MABDQRPJY68QrRu1w",
-        "desc": "728，818，9月1-5幾乎罷到就幫手罷\nhttps://www.facebook.com/groups/2701324926545942/permalink/2722927107719057/",
+        "desc": "捐錢比守護孩子\nhttps://www.facebook.com/theglockhk/photos/a.480050972332924/985740905097259/?type=3&theater\n\n728，818，9月1-5幾乎罷到就幫手罷\nhttps://www.facebook.com/groups/2701324926545942/permalink/2722927107719057/",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "旮旯",
@@ -18223,7 +18075,8 @@
         "checkingSameContent": "Done",
         "good": 3,
         "bad": 0,
-        "subType": "多國菜/甜品/糖水/咖啡店/私房菜"
+        "subType": "多國菜/甜品/糖水/咖啡店/私房菜",
+        "normalDesc": "**[18/11] 捐錢比守護孩子\nhttps://www.facebook.com/theglockhk/photos/a.480050972332924/985740905097259/?type=3&theater\n**[1/9 - 5/9] 罷工\n**[18/8] 罷工\n**[28/7] 罷工"
     },
     {
         "id": 1073,
@@ -18340,7 +18193,7 @@
         "brand": "大阪日本料理",
         "lat": 22.4421307,
         "lon": 114.0338997,
-        "checkingSameContent": "Same 3057",
+        "checkingSameContent": "Same 1957",
         "good": 1,
         "bad": 0,
         "subType": "日本菜"
@@ -18494,7 +18347,7 @@
         "brand": "冰山之國",
         "lat": 22.451755,
         "lon": 114.001316,
-        "checkingSameContent": "Same 3039",
+        "checkingSameContent": "Same 1939",
         "good": 3,
         "bad": 1,
         "subType": "港式/小食店"
@@ -18924,7 +18777,7 @@
         "brand": "順記",
         "lat": 22.4035721,
         "lon": 113.9778516,
-        "checkingSameContent": "Done",
+        "checkingSameContent": "Same 1986",
         "good": 2,
         "bad": 0,
         "subType": "滇菜(雲南)/粉麵/米線"
@@ -19014,7 +18867,7 @@
         "brand": "膳心小館",
         "lat": 22.3256702,
         "lon": 114.2163586,
-        "checkingSameContent": "Same 3022",
+        "checkingSameContent": "Same 1922",
         "subType": "粵菜(廣東)/港式/中菜館/茶餐廳/冰室/少鹽少糖食店"
     },
     {
@@ -20028,7 +19881,7 @@
         "district": "油尖旺",
         "areas": "九龍區",
         "googlePlaceId2": "ChIJRSRRsRIBBDQRWISs3lTU9UU",
-        "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2747271198617981/\n為反送中運動發聲",
+        "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2747271198617981/\n為反送中運動發聲\n\n餐廳參與多次響應反修例的罷工, 同老細傾過偈既人, 一定會喊到收唔到聲, 佢既良心 與對年青人既同理心非一般人能及, 其他yellow map 都有mark 呢間黃鋪. 詳情也可refer 佢地既 ig post.\nhttps://www.instagram.com/tastory_cafe/\n\nNot sure,但係老闆今日10月12邀請我哋夜晚9點默哀一分鐘。我諗至少係良心小店。\n\n有播過願榮光歸香港，環境乾淨企理，野食好味",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "美味故事",
@@ -20037,7 +19890,9 @@
         "checkingSameContent": "Duplicate",
         "good": 1,
         "bad": 0,
-        "subType": "西式/多國菜/日式西餐"
+        "subType": "西式/多國菜/日式西餐",
+        "normalDesc": "為反送中運動發聲\nhttps://www.facebook.com/groups/2701324926545942/permalink/2747271198617981/\n\n餐廳參與多次響應反修例的罷工, 同老細傾過偈既人, 一定會喊到收唔到聲, 佢既良心 與對年青人既同理心非一般人能及, 其他yellow map 都有mark 呢間黃鋪. 詳情也可refer 佢地既 ig post.\nhttps://www.instagram.com/tastory_cafe/\n\n有播過願榮光歸香港，環境乾淨企理，野食好味",
+        "timeline": "**[12/10] 夜晚9點默哀一分鐘。我諗至少係良心小店\n**[2/9] 暫停營業\nhttps://www.facebook.com/groups/2701324926545942/permalink/2747271198617981/\n**[5/8]暫停營業\nhttps://www.facebook.com/groups/2701324926545942/permalink/2747271198617981/"
     },
     {
         "id": 1180,
@@ -20356,7 +20211,7 @@
         "brand": "火之鳥車仔麵之家",
         "lat": 22.3202709,
         "lon": 114.1714361,
-        "checkingSameContent": "Same 3080",
+        "checkingSameContent": "Same 1980",
         "good": 2,
         "bad": 0,
         "subType": "車仔麵"
@@ -21080,7 +20935,7 @@
         "brand": "Cafe Swan咖啡灣",
         "lat": 22.3706219,
         "lon": 114.1177482,
-        "checkingSameContent": "Same 3047",
+        "checkingSameContent": "Same 1946",
         "good": 2,
         "bad": 0,
         "subType": "西式/麵包店/漢堡包/咖啡店/主題餐廳"
@@ -21226,7 +21081,7 @@
         "district": "西貢",
         "areas": "新界區",
         "googlePlaceId2": "ChIJve6EBvIDBDQRzz1TxeWW4lM",
-        "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2712595492085552/\n請遊行人士飲野",
+        "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2712595492085552/\n請遊行人士飲野\n\n單上面寫有香港加油，齊上齊落\n\n【只屬傳言 / Hearsay ONLY】 將軍澳遊街個日去左大茶飯食 佢問我地係咪岩岩行完 跟住請我地飲野 https://www.facebook.com/groups/2701324926545942/permalink/2712595492085552/ 另外收據有加油字句，「坐埋同一條船先可以齊上齊落！香港人加油！ 」",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "大茶飯",
@@ -21235,7 +21090,9 @@
         "checkingSameContent": "Duplicate",
         "good": 1,
         "bad": 0,
-        "subType": "未分類"
+        "subType": "未分類",
+        "normalDesc": "單上面寫有「坐埋同一條船先可以齊上齊落！香港人加油！ 」",
+        "timeline": "**[1/9] 請遊行人士飲野\nhttps://www.facebook.com/groups/2701324926545942/permalink/2712595492085552/"
     },
     {
         "id": 1250,
@@ -21266,7 +21123,7 @@
         "brand": "嚐糖",
         "lat": 22.306474,
         "lon": 114.261768,
-        "checkingSameContent": "Done",
+        "checkingSameContent": "Same 1352",
         "good": 3,
         "bad": 0,
         "subType": "甜品/糖水/糖水舖"
@@ -21339,24 +21196,6 @@
         "checkingSameContent": "Done",
         "good": 3,
         "bad": 1,
-        "subType": "未分類"
-    },
-    {
-        "id": 1256,
-        "name": "因·果冰室",
-        "address": "深水埗營盤街128號地下",
-        "district": "深水埗",
-        "areas": "九龍區",
-        "googlePlaceId2": "ChIJZ4dBkUwHBDQRChcwArqkWBM",
-        "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2712987925379642/\n9月2參予罷工",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "因·果冰室",
-        "lat": 22.334528,
-        "lon": 114.160726,
-        "checkingSameContent": "Done",
-        "good": 2,
-        "bad": 5,
         "subType": "未分類"
     },
     {
@@ -21594,14 +21433,15 @@
         "district": "黃大仙",
         "areas": "九龍區",
         "googlePlaceId2": "ChIJZ81WAtcGBDQRU5cecCLn-CM",
-        "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2763187987026302/\n邵子風認證是黃店",
+        "desc": "邵子風認證是黃店\nhttps://www.facebook.com/groups/2701324926545942/permalink/2763187987026302/",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "合利潮州粉麵",
         "lat": 22.3357626,
         "lon": 114.1950147,
         "checkingSameContent": "Duplicate Updated Desc",
-        "subType": "潮州菜/粉麵/米線"
+        "subType": "潮州菜/粉麵/米線",
+        "normalDesc": "邵子風認證是黃店\nhttps://www.facebook.com/groups/2701324926545942/permalink/2763187987026302/"
     },
     {
         "id": 1271,
@@ -21616,10 +21456,28 @@
         "brand": "新英華飲食廚房",
         "lat": 22.3358125,
         "lon": 114.1949205,
-        "checkingSameContent": "Same 2909",
+        "checkingSameContent": "Same 1914",
         "good": 1,
         "bad": 1,
         "subType": "港式/茶餐廳/冰室"
+    },
+    {
+        "id": 1272,
+        "name": "王林記",
+        "address": "筲箕灣筲箕灣東大街10號東寶大廈地下A號舖",
+        "district": "東區",
+        "areas": "香港島",
+        "googlePlaceId2": "ChIJ6SzdCHkBBDQRRgyHKwrGJ_I",
+        "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2714544181890683/\nwifi password撐香港",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
+        "brand": "王林記",
+        "lat": 22.280545,
+        "lon": 114.2305239,
+        "checkingSameContent": "Done",
+        "good": 0,
+        "bad": 1,
+        "subType": "未分類"
     },
     {
         "id": 1273,
@@ -22078,14 +21936,16 @@
         "district": "灣仔",
         "areas": "香港島",
         "googlePlaceId2": "ChIJ84aFzYD_AzQRH_IEcdAKy5g",
-        "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2739400072738427/\n5/8有罷工",
+        "desc": "門口有口罩連儂牆同’香港人反抗’標語\n\n**[5/8] 有罷工\nhttps://www.facebook.com/groups/2701324926545942/permalink/2739400072738427/",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "Seoulmate Cafe",
         "lat": 22.280752,
         "lon": 114.183005,
         "checkingSameContent": "Duplicate",
-        "subType": "韓國菜/多國菜/甜品/糖水/韓式炸雞/樓上cafe"
+        "subType": "韓國菜/多國菜/甜品/糖水/韓式炸雞/樓上cafe",
+        "normalDesc": "門口有口罩連儂牆同’香港人反抗’標語",
+        "timeline": "**[11/11] 罷工\nhttps://www.facebook.com/seoulmatecafe/photos/rpp.529475840488045/2117832828318997/?type=3&theater\n**[5/8] 罷工\nhttps://www.facebook.com/groups/2701324926545942/permalink/2739400072738427/"
     },
     {
         "id": 1301,
@@ -22230,7 +22090,7 @@
         "district": "灣仔",
         "areas": "香港島",
         "googlePlaceId2": "ChIJg-PRU1cABDQRoxd2amCdUTQ",
-        "desc": "遊行贈飲予遊行人仕\nhttps://www.facebook.com/groups/2701324926545942/permalink/2712225708789197/",
+        "desc": "遊行贈飲予遊行人仕\nhttps://www.facebook.com/groups/2701324926545942/permalink/2712225708789197/\n\nhttps://www.facebook.com/midnightwildfire.hk/\n\n[5/8] 響應罷市，變身加油站，免費提供日式烏冬",
         "type": "restaurant",
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "brand": "深燒酒",
@@ -22239,7 +22099,8 @@
         "checkingSameContent": "Duplicate",
         "good": 1,
         "bad": 0,
-        "subType": "未分類"
+        "subType": "未分類",
+        "timeline": "**[2/9] 遊行贈飲予遊行人仕\nhttps://www.facebook.com/groups/2701324926545942/permalink/2712225708789197/\n\n**[5/8] 響應罷市，變身加油站，免費提供日式烏冬"
     },
     {
         "id": 1310,
