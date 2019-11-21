@@ -21622,24 +21622,6 @@
         "subType": "港式/茶餐廳/冰室"
     },
     {
-        "id": 1272,
-        "name": "王林記",
-        "address": "筲箕灣筲箕灣東大街10號東寶大廈地下A號舖",
-        "district": "東區",
-        "areas": "香港島",
-        "googlePlaceId2": "ChIJ6SzdCHkBBDQRRgyHKwrGJ_I",
-        "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2714544181890683/\nwifi password撐香港",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
-        "brand": "王林記",
-        "lat": 22.280545,
-        "lon": 114.2305239,
-        "checkingSameContent": "Done",
-        "good": 0,
-        "bad": 1,
-        "subType": "未分類"
-    },
-    {
         "id": 1273,
         "name": "小城滋味",
         "address": "筲箕灣筲箕灣道57-87號太安樓地下A47號舖",
