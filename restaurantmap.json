@@ -6764,22 +6764,6 @@
         "bad": 5
     },
     {
-        "id": 562,
-        "name": "別天神",
-        "address": "鰂魚涌康山道2號康怡廣場南座 吉之島2樓",
-        "district": "東區",
-        "areas": "香港島",
-        "desc": "有人發夢話 : 老闆fc唔到藍定黃。但員工係藍，事源佢地係店面討論近日嘅集會等等，有提到建議宵禁。",
-        "type": "restaurant",
-        "image": "https://gotchainfo2019.github.io/images/promotion20191004.jpg",
-        "brand": "別天神",
-        "lat": 22.28406,
-        "lon": 114.216151,
-        "checkingSameContent": "Done",
-        "good": 5,
-        "bad": 8
-    },
-    {
         "id": 563,
         "name": "四季文昌",
         "address": "旺角荔枝角道35號",
