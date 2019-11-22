@@ -11231,5 +11231,19 @@
         "brand": "沙嗲王",
         "lat": 22.3228322,
         "lon": 114.258409
+    },
+    {
+        "id": 892,
+        "name": "潮發粥麵餐廳",
+        "address": "尖沙咀樂道11號A地下",
+        "district": "油尖旺",
+        "areas": "九龍區",
+        "googlePlaceId2": "ChIJfVahcPIABDQR8ZjOTc8HhII",
+        "desc": "有人發夢話:\n\n老闆兩公婆深藍，成人話學生不對\nhttps://lihkg.com/thread/1721106/page/1",
+        "type": "restaurant",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
+        "brand": "潮發粥麵餐廳",
+        "lat": 22.2970727,
+        "lon": 114.1713922
     }
 ]
