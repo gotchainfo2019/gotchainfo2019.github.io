@@ -33,7 +33,7 @@
         "apitype" : "git"
     },
     {
-        "title": "區議會選舉投票日2019(測試中)",
+        "title": "區議會選舉投票日2019",
         "icon": "icon_pollingPin.png",
         "layout": "map",
         "actionType": "API",
