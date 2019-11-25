@@ -33,13 +33,6 @@
         "action": "armchannel"
     },
     {
-        "title": "區議會選舉投票日2019",
-        "icon": "icon_pollingPin.png",
-        "layout": "map",
-        "actionType": "API",
-        "action": "pollingmap"
-    },
-    {
         "title": "餐廳報料區",
         "icon": "icon_google_form.png",
         "layout": "webview",
