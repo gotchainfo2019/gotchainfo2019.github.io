@@ -2970,8 +2970,8 @@
         "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
         "type": "restaurant",
         "subType": "意大利菜/雪糕/乳酪",
-        "lat": 22.369508,
-        "lon": 114.113671,
+        "lat": 22.368153,
+        "lon": 114.114269,
         "openHours": "星期一至五 12:00-22:30 星期六至日 11:30-22:30",
         "good": 72,
         "bad": 3
@@ -24078,8 +24078,7 @@
         "subType": "台灣菜/台式飲品",
         "lat": 22.27963,
         "lon": 114.183195,
-        "googlePlaceId2": "ChIJL9WrwZ8BBDQRPtONnt601ek",
-        "good": 1,
+        "good": 0,
         "bad": 0
     }
 ]
