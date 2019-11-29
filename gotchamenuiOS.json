@@ -25,20 +25,20 @@
         "apitype" : "git"
     },
     {
+         "title": "其他黃色圈(測試中)",
+         "icon": "icon_map_marker_yellow.png",
+         "layout": "map",
+         "actionType": "API",
+         "action": "yellowOtherMap",
+         "apitype" : "git"
+    },
+    {
         "title": "啱Channel之選餐廳",
         "icon": "icon_arm_channel_marker.png",
         "layout": "map",
         "actionType": "API",
         "action": "armchannel",
         "apitype" : "git"
-    },
-    {
-       "title": "其他黃色圈(測試中)",
-       "icon": "icon_map_marker_yellow.png",
-       "layout": "map",
-       "actionType": "API",
-       "action": "yellowOtherMap",
-       "apitype" : "git"
     },
     {
         "title": "報料區",
