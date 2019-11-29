@@ -33,6 +33,13 @@
         "action": "armchannel"
     },
     {
+       "title": "其他黃他圈(測試中)",
+       "icon": "icon_map_marker_yellow.png",
+       "layout": "map",
+       "actionType": "API",
+       "action": "yellowOtherMap"
+    },
+    {
         "title": "餐廳報料區",
         "icon": "icon_google_form.png",
         "layout": "webview",
