@@ -9,6 +9,7 @@
          "icon": "icon_map_marker_yellow.png",
          "layout": "IntegrationMap",
          "actionType": "API",
+         "action": "integrationYellowBlueMap",
          "actionList":[
                 {
                     "title": "黃色圈",
