@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "title": "tes",
+        "displayimage": "marker/normal_restaurant.png",
+        "yellowimage": "marker/y_restaurant.png",
+        "blueimage": "marker/b_restaurant.png"
+    }
+]
