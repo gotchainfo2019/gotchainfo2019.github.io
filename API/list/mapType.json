@@ -227,9 +227,9 @@
         "id": 29,
         "type": "music",
         "name": "音樂",
-        "displayimage": "marker/normal_more.png",
-        "yellowimage": "marker/y_more.png",
-        "blueimage": "marker/b_more.png"
+        "displayimage": "marker/normal_music.png",
+        "yellowimage": "marker/y_music.png",
+        "blueimage": "marker/b_music.png"
     },
     {
         "id": 30,
@@ -291,8 +291,8 @@
         "id": 37,
         "type": "other",
         "name": "其他",
-        "displayimage": "marker/normal_music.png",
-        "yellowimage": "marker/y_music.png",
-        "blueimage": "marker/b_music.png"
+        "displayimage": "marker/normal_more.png",
+        "yellowimage": "marker/y_more.png",
+        "blueimage": "marker/b_more.png"
     }
 ]
