@@ -19,7 +19,8 @@
                     "action": "API/map/yellowMap",
                     "pollingKeywordName1": "5星餐廳",
                     "pollingKeywordName2": "網民推介餐廳",
-                    "apitype" : "git"
+                    "apitype" : "git",
+                    "lastupdate" : "02/12/2019"
                 },
                 {
                     "title": "藍色圈",
@@ -29,7 +30,8 @@
                     "action": "API/map/blueMap",
                     "pollingKeywordName1": "1星餐廳",
                     "pollingKeywordName2": "唔好叫錯外賣餐廳",
-                    "apitype" : "git"
+                    "apitype" : "git",
+                    "lastupdate" : "02/12/2019"
                 },
                 {
                     "layout": "type",
