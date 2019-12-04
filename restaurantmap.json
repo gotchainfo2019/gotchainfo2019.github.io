@@ -12180,5 +12180,19 @@
         "googlePlaceId2": "ChIJlbkcbkkIBDQRQJnYgKQmQ5k",
         "good": 0,
         "bad": 1
+    },
+    {
+        "id": 895,
+        "name": "金家樂茶餐廳",
+        "brand": "金家樂茶餐廳",
+        "address": "大角嘴大全街12-18號地下",
+        "district": "油尖旺",
+        "areas": "九龍區",
+        "desc": "有人發夢話:\n我到這間食飯，店主和店員話打死D曱甴，香港就會好",
+        "checkingSameContent": "Done",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
+        "type": "restaurant",
+        "lat": 22.322027,
+        "lon": 114.161541
     }
 ]
