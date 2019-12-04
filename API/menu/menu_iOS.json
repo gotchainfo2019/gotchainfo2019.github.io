@@ -6,7 +6,7 @@
     },
     {
          "title": "經濟圈",
-         "icon": "icon_map_marker_yellow.png",
+         "icon": "marker/menu_yellowblueicon.png",
          "layout": "IntegrationMap",
          "actionType": "API",
          "action": "integrationYellowBlueMap",
