@@ -154,7 +154,7 @@
     {
         "id": 20,
         "type": "toys",
-        "name": "玩具",
+        "name": "玩具及精品",
         "displayimage": "marker/normal_toys.png",
         "yellowimage": "marker/y_toys.png",
         "blueimage": "marker/b_toys.png"
