@@ -186,7 +186,7 @@
     {
         "id": 24,
         "type": "design",
-        "name": "設計及工程",
+        "name": "設計,工程及家品",
         "displayimage": "marker/normal_design.png",
         "yellowimage": "marker/y_design.png",
         "blueimage": "marker/b_design.png"
