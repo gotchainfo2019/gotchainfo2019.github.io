@@ -15326,10 +15326,11 @@
         "subType": "西式/咖喱",
         "lat": 22.3724007,
         "lon": 114.1109796,
-        "openHours": "星期一至六\n12:00 - 16:00\n18:00 - 21:00\n星期日 全日休息",
+        "openHours": "星期一至四 開中午12:00時至晚上8:00時\n星期五及六 開中午12:00時至晚上9:00時 \n(下午3:00 至下午6:00休息時間，不接單) \n晚市截單時間為休息前30分鐘，按等候客人數量而定)\n星期日休息",
         "fb2": "@princekitchen34801048",
         "good": 35,
-        "bad": 2
+        "bad": 2,
+        "coverImage": "https://static6.orstatic.com/userphoto/doorphoto/G/D0J/02KJUH8343B8478E01B76Bpx.jpg"
     },
     {
         "id": 321,
@@ -32196,25 +32197,6 @@
         "lat": 22.354612,
         "lon": 114.097692,
         "googlePlaceId2": "ChIJyY29GNj4AzQROWgRyJ3Ep-8",
-        "good": 0,
-        "bad": 0
-    },
-    {
-        "id": 1365,
-        "name": "燒夜食堂",
-        "brand": "燒夜食堂",
-        "address": "長沙灣順寧道順寧中心A座地下8號",
-        "district": "深水埗",
-        "areas": "九龍區",
-        "desc": "小店有學生免費水和索帶, 更有免費口罩提供\nhttps://www.instagram.com/p/B4HFl0VDaHL/?igshid=uimm9lzu6rzh\n\nhttps://www.facebook.com/story/graphql_permalink/?graphql_id=UzpfSTU5NDA5NDMwNzpWSzoyODYyNTA3NDIzNzYxMDI0\n\n[11/11] 參加三罷",
-        "normalDesc": "小店有學生免費水和索帶, 更有免費口罩提供\nhttps://www.instagram.com/p/B4HFl0VDaHL/?igshid=uimm9lzu6rzh\n\nhttps://www.facebook.com/story/graphql_permalink/?graphql_id=UzpfSTU5NDA5NDMwNzpWSzoyODYyNTA3NDIzNzYxMDI0",
-        "timeline": "**[11/11] 參加三罷",
-        "checkingSameContent": "Done",
-        "image": "https://gotchainfo2019.github.io/images/promotion201911282.jpg",
-        "type": "restaurant",
-        "lat": 22.3368044,
-        "lon": 114.1597034,
-        "googlePlaceId2": "ChIJryYrf40HBDQRH0K5xQvDB4w",
         "good": 0,
         "bad": 0
     },
