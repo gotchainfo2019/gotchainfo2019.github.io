@@ -23816,5 +23816,19 @@
         "lon": 114.183226,
         "good": 0,
         "bad": 0
+    },
+    {
+        "id": 1423,
+        "name": "新嘉美茶餐廳",
+        "brand": "新嘉美茶餐廳",
+        "address": "灣仔摩理臣山道26號地下",
+        "district": "灣仔",
+        "areas": "香港島",
+        "desc": "9/9 有人舉報這間是藍店： \n侍應傾點解冇生意，結論係因為學生罷課。\n攞鎚仔出街好正常。\n警察要打都打暴徒，唔會打良好市民。盲嘅！ 盲嘅做飲食好危險。\n\n11/9 Facebook 澄清不是藍店\nhttps://www.facebook.com/permalink.php?story_fbid=10155655282378039&id=304200483038\n\n30/10 支持「黃色經濟圈」\n\n25/10 - 30/11 搞免費學生餐\nhttps://www.facebook.com/permalink.php?story_fbid=10155752308163039&id=304200483038\n\n11/11有罷工支持",
+        "image": "https://gotchainfo2019.github.io/images/promotion201911282.jpg",
+        "type": "restaurant",
+        "subType": "港式/茶餐廳/冰室/咪嘥嘢食店",
+        "lat": 22.277168,
+        "lon": 114.180025
     }
 ]
