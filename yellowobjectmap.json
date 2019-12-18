@@ -5949,10 +5949,11 @@
         "subType": "西式/咖喱",
         "lat": 22.3724007,
         "lon": 114.1109796,
-        "openHours": "星期一至六\n12:00 - 16:00\n18:00 - 21:00\n星期日 全日休息",
+        "openHours": "星期一至四 開中午12:00時至晚上8:00時\n星期五及六 開中午12:00時至晚上9:00時 \n(下午3:00 至下午6:00休息時間，不接單) \n晚市截單時間為休息前30分鐘，按等候客人數量而定)\n星期日休息",
         "fb2": "@princekitchen34801048",
         "good": 35,
-        "bad": 2
+        "bad": 2,
+        "coverImage": "https://static6.orstatic.com/userphoto/doorphoto/G/D0J/02KJUH8343B8478E01B76Bpx.jpg"
     },
     {
         "id": 321,
@@ -8478,17 +8479,20 @@
         "address": "灣仔克街6號廣生行大廈B座地下B2號舖",
         "district": "灣仔",
         "areas": "香港島",
-        "desc": "店內大量文宣，播放願榮光歸香港，追加食物質素一流\nhttps://www.facebook.com/groups/2701324926545942/permalink/2727375707274197?sfns=mo",
-        "checkingSameContent": "Done",
+        "desc": "店內大量文宣，播放願榮光歸香港，追加食物質素一流\nhttps://www.facebook.com/groups/2701324926545942/permalink/2727375707274197?sfns=mo\n一開門就播香港國歌\nhttps://www.facebook.com/groups/2701324926545942/permalink/2796704240341343?sfns=mo",
+        "normalDesc": "店內大量文宣，播放願榮光歸香港，追加食物質素一流\nhttps://www.facebook.com/groups/2701324926545942/permalink/2727375707274197?sfns=mo\n一開門就播香港國歌\nhttps://www.facebook.com/groups/2701324926545942/permalink/2796704240341343?sfns=mo",
+        "timeline": "**[13/11] 休息\nhttps://www.facebook.com/hungkeehk/photos/a.877761685664569/2481803828593672/\n**[12/11] 俾《星火》\nhttps://www.facebook.com/hungkeehk/photos/a.877761685664569/2480552792052109/\n**[11/11] 罷\nhttps://www.facebook.com/hungkeehk/photos/a.877761685664569/2476163969157658/",
+        "checkingSameContent": "Same Name District 1926",
         "image": "https://gotchainfo2019.github.io/images/promotion201911282.jpg",
         "type": "restaurant",
         "subType": "港式/粉麵/米線",
-        "lat": 22.2775383,
-        "lon": 114.1774228,
+        "lat": 22.277562,
+        "lon": 114.177465,
         "openHours": "星期一至六 11:00 - 21:00\n星期日 全日休息",
         "fb2": "@hungkeehk",
         "good": 78,
-        "bad": 6
+        "bad": 6,
+        "coverImage": "https://static8.orstatic.com/userphoto2/photo/Y/QW1/05B7T779A7274318EC1CB6px.jpg"
     },
     {
         "id": 462,
@@ -22543,25 +22547,6 @@
         "bad": 0
     },
     {
-        "id": 1349,
-        "name": "雄仔美食",
-        "brand": "雄仔美食",
-        "address": "灣仔克街廣生行大廈地下",
-        "district": "灣仔",
-        "areas": "香港島",
-        "desc": "一開門就播香港國歌\nhttps://www.facebook.com/groups/2701324926545942/permalink/2796704240341343?sfns=mo",
-        "normalDesc": "一開門就播香港國歌\nhttps://www.facebook.com/groups/2701324926545942/permalink/2796704240341343?sfns=mo",
-        "timeline": "**[13/11] 休息\nhttps://www.facebook.com/hungkeehk/photos/a.877761685664569/2481803828593672/\n**[12/11] 俾《星火》\nhttps://www.facebook.com/hungkeehk/photos/a.877761685664569/2480552792052109/\n**[11/11] 罷\nhttps://www.facebook.com/hungkeehk/photos/a.877761685664569/2476163969157658/",
-        "checkingSameContent": "Done",
-        "image": "https://gotchainfo2019.github.io/images/promotion201911282.jpg",
-        "type": "restaurant",
-        "lat": 22.2777853,
-        "lon": 114.1775157,
-        "googlePlaceId2": "ChIJP2Z4UFoABDQR8rfDjnfafDQ",
-        "good": 0,
-        "bad": 0
-    },
-    {
         "id": 1350,
         "name": "德記潮州魚蛋牛雜粉麵",
         "brand": "德記潮州魚蛋牛雜粉麵",
@@ -22835,25 +22820,6 @@
         "lat": 22.354612,
         "lon": 114.097692,
         "googlePlaceId2": "ChIJyY29GNj4AzQROWgRyJ3Ep-8",
-        "good": 0,
-        "bad": 0
-    },
-    {
-        "id": 1365,
-        "name": "燒夜食堂",
-        "brand": "燒夜食堂",
-        "address": "長沙灣順寧道順寧中心A座地下8號",
-        "district": "深水埗",
-        "areas": "九龍區",
-        "desc": "小店有學生免費水和索帶, 更有免費口罩提供\nhttps://www.instagram.com/p/B4HFl0VDaHL/?igshid=uimm9lzu6rzh\n\nhttps://www.facebook.com/story/graphql_permalink/?graphql_id=UzpfSTU5NDA5NDMwNzpWSzoyODYyNTA3NDIzNzYxMDI0\n\n[11/11] 參加三罷",
-        "normalDesc": "小店有學生免費水和索帶, 更有免費口罩提供\nhttps://www.instagram.com/p/B4HFl0VDaHL/?igshid=uimm9lzu6rzh\n\nhttps://www.facebook.com/story/graphql_permalink/?graphql_id=UzpfSTU5NDA5NDMwNzpWSzoyODYyNTA3NDIzNzYxMDI0",
-        "timeline": "**[11/11] 參加三罷",
-        "checkingSameContent": "Done",
-        "image": "https://gotchainfo2019.github.io/images/promotion201911282.jpg",
-        "type": "restaurant",
-        "lat": 22.3368044,
-        "lon": 114.1597034,
-        "googlePlaceId2": "ChIJryYrf40HBDQRH0K5xQvDB4w",
         "good": 0,
         "bad": 0
     },
@@ -23850,5 +23816,19 @@
         "lon": 114.183226,
         "good": 0,
         "bad": 0
+    },
+    {
+        "id": 1423,
+        "name": "新嘉美茶餐廳",
+        "brand": "新嘉美茶餐廳",
+        "address": "灣仔摩理臣山道26號地下",
+        "district": "灣仔",
+        "areas": "香港島",
+        "desc": "9/9 有人舉報這間是藍店： \n侍應傾點解冇生意，結論係因為學生罷課。\n攞鎚仔出街好正常。\n警察要打都打暴徒，唔會打良好市民。盲嘅！ 盲嘅做飲食好危險。\nhttps://www.facebook.com/groups/2701324926545942/permalink/2726091204069314/\n\n11/9 Facebook 澄清不是藍店\nhttps://www.facebook.com/permalink.php?story_fbid=10155655282378039&id=304200483038\n\n30/10 支持「黃色經濟圈」\n\n25/10 - 30/11 搞免費學生餐\nhttps://www.facebook.com/permalink.php?story_fbid=10155752308163039&id=304200483038\n\n11/11有罷工支持",
+        "image": "https://gotchainfo2019.github.io/images/promotion201911282.jpg",
+        "type": "restaurant",
+        "subType": "港式/茶餐廳/冰室/咪嘥嘢食店",
+        "lat": 22.277168,
+        "lon": 114.180025
     }
 ]
