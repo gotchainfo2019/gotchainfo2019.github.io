@@ -23830,5 +23830,22 @@
         "subType": "港式/茶餐廳/冰室/咪嘥嘢食店",
         "lat": 22.277168,
         "lon": 114.180025
+    },
+    {
+        "id": 10575,
+        "name": "Honey Garden",
+        "brand": "Honey Garden",
+        "address": "旺角西洋菜街2A銀城廣場一樓71-73號舖",
+        "district": "油尖旺",
+        "areas": "九龍區",
+        "desc": "店內有set口罩卡片同貼紙自助欄\nhttps://www.instagram.com/honeygarden_mk/\n\n5/8 有罷工支持\n11/11有罷工支持",
+        "checkingSameContent": "Done",
+        "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
+        "type": "food",
+        "subType": "零食",
+        "lat": 22.316181,
+        "lon": 114.170871,
+        "good": 0,
+        "bad": 0
     }
 ]
