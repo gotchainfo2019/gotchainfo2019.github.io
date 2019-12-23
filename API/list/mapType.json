@@ -42,7 +42,7 @@
     {
         "id": 6,
         "type": "food",
-        "name": "餐飲材料及其他食品",
+        "name": "食材及其他食品",
         "displayimage": "marker/normal_food.png",
         "yellowimage": "marker/y_food.png",
         "blueimage": "marker/b_food.png"
@@ -90,7 +90,7 @@
     {
         "id": 12,
         "type": "fish",
-        "name": "魚",
+        "name": "海洋類",
         "displayimage": "marker/normal_fish.png",
         "yellowimage": "marker/y_fish.png",
         "blueimage": "marker/b_fish.png"
@@ -218,7 +218,7 @@
     {
         "id": 28,
         "type": "sex",
-        "name": "成人用品",
+        "name": "成人&性感用品",
         "displayimage": "marker/normal_sex.png",
         "yellowimage": "marker/y_sex.png",
         "blueimage": "marker/b_sex.png"
