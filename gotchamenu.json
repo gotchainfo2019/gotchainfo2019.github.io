@@ -40,18 +40,11 @@
        "action": "yellowOtherMap"
     },
     {
-        "title": "餐廳報料區",
+        "title": "報料區",
         "icon": "icon_google_form.png",
         "layout": "webview",
         "actionType": "URL",
         "action": "https://docs.google.com/forms/d/e/1FAIpQLSdvYpenzCRlGB-aUXwsAvwuBNZFNHyTyhYwkP7enWDdjRFW1Q/viewform?usp=sf_link"
-    },
-    {
-        "title": "夾公仔報料區",
-        "icon": "icon_google_form.png",
-        "layout": "webview",
-        "actionType": "URL",
-        "action": "https://docs.google.com/forms/d/e/1FAIpQLSdiatMZWddTLTJBq8Lk-3bVhlwMqgcsgiq_hoCFTzLttHc7bg/viewform?usp=sf_link"
     },
     {
         "title": "Follow Facebook Page",
@@ -59,6 +52,13 @@
         "layout": "webview",
         "actionType": "FACEBOOK",
         "action": "whatsgaphk"
+    },
+    {
+        "title": "香城Online群組",
+        "icon": "icon_yellow_online.jpg",
+        "layout": "webview",
+        "actionType": "URL",
+        "action": "https://www.facebook.com/groups/2798734860192968"
     },
     {
         "title": "Facebook Fan Page",
