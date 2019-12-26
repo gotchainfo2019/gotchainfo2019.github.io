@@ -15789,6 +15789,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.308529,
     "lon": 114.168852,
     "googlePlaceId2": "ChIJ9ULLfQQBBDQRuLy_nnIkfIk"
@@ -15804,6 +15805,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.3722702,
     "lon": 114.1173814,
     "googlePlaceId2": "ChIJfeWxcO34AzQRvzB8F0Q7xuc"
@@ -15819,6 +15821,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.3225404,
     "lon": 114.2570671,
     "googlePlaceId2": "ChIJsRhi4AsEBDQRUICy1eIXrD4"
@@ -15834,6 +15837,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.3851066,
     "lon": 114.1988185,
     "googlePlaceId2": "ChIJK5oy8E4GBDQR5S01lkVXKyM"
@@ -15849,6 +15853,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.390968,
     "lon": 113.9772455,
     "googlePlaceId2": "ChIJD-gdiz37AzQRCQly_1kmKHY"
@@ -15864,6 +15869,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.444624,
     "lon": 114.030565,
     "googlePlaceId2": "ChIJrVP_0aDwAzQRz3F4oXUqft4"
@@ -15879,6 +15885,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.503775,
     "lon": 114.126937,
     "googlePlaceId2": "EioyLCA4OSBTYW4gRnVuZyBBdmUsIFNoZXVuZyBTaHVpLCBIb25nIEtvbmciHRobChYKFAoSCUGHIpIR9gM0EZNQ7ZIENh7QEgEy"
@@ -15894,6 +15901,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.455236,
     "lon": 114.168629,
     "googlePlaceId2": "ChIJG2LXEEgIBDQRNDb3sePjBLM"
@@ -15909,6 +15917,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "wedding",
+    "subType": "婚禮",
     "lat": 22.455236,
     "lon": 114.168629,
     "googlePlaceId2": "ChIJG2LXEEgIBDQRNDb3sePjBLM"
@@ -15924,6 +15933,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.317873,
     "lon": 114.171233
   },
@@ -15938,6 +15948,7 @@
     "checkingSameContent": "Done",
     "image": "https://i.lih.kg/540/https://na.cx/i/nc64vQu.jpg",
     "type": "game",
+    "subType": "遊戲",
     "lat": 22.3069951,
     "lon": 114.2335701
   },
@@ -15952,6 +15963,7 @@
     "checkingSameContent": "Done",
     "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "mobile",
+    "subType": "電子產品及手機",
     "lat": 22.4044609,
     "lon": 113.9700075
   },
@@ -15966,6 +15978,7 @@
     "checkingSameContent": "Done",
     "image": "https://i.lih.kg/540/https://na.cx/i/hQMjSqq.jpg",
     "type": "bike",
+    "subType": "自行車",
     "lat": 22.326641,
     "lon": 114.165042
   },
@@ -15980,6 +15993,7 @@
     "checkingSameContent": "Done",
     "image": "https://scontent.fhkg3-1.fna.fbcdn.net/v/t1.0-9/80047688_10219067045565371_6369789318646464512_n.jpg?_nc_cat=110&_nc_oc=AQnOeMWcxDjQzhhK9f7VbQSCQ12uRvOnpU4WnHzK3aEFe7I_21rYwIp0yPYPtKDQbZs&_nc_ht=scontent.fhkg3-1.fna&oh=06a1ce39c84fe926470e2c58d2ca7efa&oe=5EAC1F5C",
     "type": "pet",
+    "subType": "寵物",
     "lat": 22.340455,
     "lon": 114.150417
   },
@@ -15994,6 +16008,7 @@
     "checkingSameContent": "Done",
     "image": "https://scontent.fhkg3-1.fna.fbcdn.net/v/t1.0-9/80047688_10219067045565371_6369789318646464512_n.jpg?_nc_cat=110&_nc_oc=AQnOeMWcxDjQzhhK9f7VbQSCQ12uRvOnpU4WnHzK3aEFe7I_21rYwIp0yPYPtKDQbZs&_nc_ht=scontent.fhkg3-1.fna&oh=06a1ce39c84fe926470e2c58d2ca7efa&oe=5EAC1F5C",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.314957,
     "lon": 114.170523
   },
@@ -16006,7 +16021,9 @@
     "areas": "九龍區",
     "desc": "呢間美甲店係藍到黑，成間舖由老闆娘到職員都係藍到黑，仲要不停鬧手足係曱甴\nwww.facebook.com/angelangelbeauty88/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "beauty",
+    "subType": "美容",
     "lat": 22.300066,
     "lon": 114.174007,
     "googlePlaceId2": "ChIJcVbTA5QBBDQRaeKjmuGDa8M"
@@ -16020,7 +16037,9 @@
     "areas": "新界區",
     "desc": "一向都係熟客有傾有講，17/11晚上因天水圍TG放題，第二日帶黑口罩去買野職員即黑面，之後再幫襯都不太歡迎！",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "food",
+    "subType": "餐飲材料及其他食品",
     "lat": 22.446073,
     "lon": 114.003419,
     "googlePlaceId2": "ChIJOVXBtoHwAzQRrzxKiCtZyZg"
@@ -16034,7 +16053,9 @@
     "areas": "九龍區",
     "desc": "頭先無聊行信和行到2樓見到有個黑衫肥仔行過比電梯邊果間抽一番賞個老細屌,屌佢廢青無錢幫襯話佢着黑衫搞亂旺角,仲打左電話叫實Q趕個肥仔走,平時都知間舖貨貴態度閪,宜家仲搞鳩d手足,以後永久black list\nhttps://lih.kg/1590509\nhttps://zh-hk.facebook.com/mongbox/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "toys",
+    "subType": "玩具",
     "lat": 22.3160575,
     "lon": 114.1703633,
     "googlePlaceId2": "ChIJZcDUHscABDQRKmqCjNOjwMk"
@@ -16048,7 +16069,9 @@
     "areas": "九龍區",
     "desc": "覺唔覺得一邊扮黃一邊賣支那化學零食好嘔心\n https://lih.kg/1783881\n - 分享自 LIHKG 討論區 \n賣支那小食 偽黃\nIG:bonbonbonsss",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "food",
+    "subType": "餐飲材料及其他食品",
     "lat": 22.320043,
     "lon": 114.169659,
     "googlePlaceId2": "ChIJr6QH3ccABDQRlv9Et_tF3JI"
@@ -16062,7 +16085,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂(丁良輝)\nhttps://i.imgur.com/q7qiCar.png",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2868311,
     "lon": 114.1522364,
     "googlePlaceId2": "ChIJBTiJ2lUABDQRPtctxLSvFQc"
@@ -16076,7 +16101,9 @@
     "areas": "九龍區",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.3133429,
     "lon": 114.1708509,
     "googlePlaceId2": "ChIJqaUvJ8EABDQRU8MXnGesYgU"
@@ -16090,7 +16117,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.279693,
     "lon": 114.156958,
     "googlePlaceId2": "ChIJ5wNFI2UABDQRX1gjJlto4Ho"
@@ -16104,7 +16133,9 @@
     "areas": "九龍區",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.321322,
     "lon": 114.211267,
     "googlePlaceId2": "ChIJy4KA7WtG_xMRXHTAsMSeDns"
@@ -16118,7 +16149,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂(李家祥(Eric Li) )\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2803654,
     "lon": 114.1769119,
     "googlePlaceId2": "ChIJp4qXg1kABDQRsSm7RWD92WU"
@@ -16132,7 +16165,9 @@
     "areas": "九龍區",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.30265,
     "lon": 114.1743395,
     "googlePlaceId2": "ChIJjZRMre4ABDQRJr6wk43NDZ4"
@@ -16146,7 +16181,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2807433,
     "lon": 114.1583107,
     "googlePlaceId2": "ChIJW8Ce8GQABDQRY4HdiMvrVlM"
@@ -16160,7 +16197,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2871,
     "lon": 114.135872,
     "googlePlaceId2": "ChIJGSBBkIP_AzQRTJuxe4xTOXc"
@@ -16174,7 +16213,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂(陳記煊)\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2793006,
     "lon": 114.1763362,
     "googlePlaceId2": "ChIJ48_czVsABDQRLugWEB7ETR4"
@@ -16188,7 +16229,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂(陳記煊)\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2793006,
     "lon": 114.1763362,
     "googlePlaceId2": "ChIJmZK9zVsABDQRHZK8uusvqJI"
@@ -16202,7 +16245,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2822859,
     "lon": 114.1552718,
     "googlePlaceId2": "ChIJOfsrSXsABDQRNCbjcihim6Q"
@@ -16216,7 +16261,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2777044,
     "lon": 114.1778503,
     "googlePlaceId2": "ChIJXZWqRloABDQRzNoxIDLbMZI"
@@ -16230,7 +16277,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂(鄒燦林)\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2777044,
     "lon": 114.1778503,
     "googlePlaceId2": "ChIJXZWqRloABDQRzNoxIDLbMZI"
@@ -16244,7 +16293,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2781088,
     "lon": 114.1738002,
     "googlePlaceId2": "ChIJYVdwh1sABDQRkAPPkxWDkVg"
@@ -16258,7 +16309,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2781984,
     "lon": 114.1750309,
     "googlePlaceId2": "ChIJWbv2VFcABDQRZOecWlpa1ik"
@@ -16272,7 +16325,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂(蔡國偉)\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2768537,
     "lon": 114.1745679,
     "googlePlaceId2": "ChIJkf_GcVsABDQRHZ68CKj1624"
@@ -16286,7 +16341,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2768537,
     "lon": 114.1745679,
     "googlePlaceId2": "ChIJkf_GcVsABDQRHZ68CKj1624"
@@ -16300,7 +16357,9 @@
     "areas": "香港島",
     "desc": "登報支持止暴制亂(羅君美)\nhttps://i.imgur.com/q7qiCar.png\n",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.283823,
     "lon": 114.156966,
     "googlePlaceId2": "ChIJ-btuQ2MABDQROJpiz5flXNA"
@@ -16314,7 +16373,9 @@
     "areas": "香港島",
     "desc": "2012年選委提名梁振英\nhttps://i.imgur.com/MRo4SE7.png\nhttps://www.hk01.com/社會新聞/56487/選委戰-梁粉不再-會計界林智遠名單稱按民調捆綁投票",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2785809,
     "lon": 114.1775854,
     "googlePlaceId2": "ChIJlTBmm1sABDQRp4DWgqbnjgo"
@@ -16328,7 +16389,9 @@
     "areas": "香港島",
     "desc": "林智遠恩師，梁粉\nhttps://i.imgur.com/OW6Sybc.png\nhttp://the-sun.on.cc/cnt/news/20130727/00408_006.html",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.2777583,
     "lon": 114.1830798,
     "googlePlaceId2": "ChIJ-0u_I1EABDQR9ZJQBP1uo0c"
@@ -16342,7 +16405,9 @@
     "areas": "新界區",
     "desc": "店主為警狗及警嫂\nhttps://i.imgur.com/SlPKCYD.png",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "gotcha",
+    "subType": "娃娃機",
     "lat": 22.3884179,
     "lon": 113.9789238,
     "googlePlaceId2": "ChIJ430awRX7AzQRVzvepsgbr0k"
@@ -16356,7 +16421,9 @@
     "areas": "九龍區",
     "desc": "狀學堂即係ABC group的學習中心, 老細藍到癲。\nhttps://i.imgur.com/rNU572H.png\njuniorversity.com.hk",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.3170183,
     "lon": 114.1613725,
     "googlePlaceId2": "ChIJw6Wpj4urBjQROJgi-libp3U"
@@ -16370,7 +16437,9 @@
     "areas": "九龍區",
     "desc": "Popo専車。腦細係藍  \nhttps://i.imgur.com/ziJLbXD.jpg\nhttps://www.jojobus.com.hk/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "car",
+    "subType": "汽車",
     "lat": 22.346296,
     "lon": 114.198355,
     "googlePlaceId2": "EjLomZ_lnLDkuIssIDYgU2h1bmcgV2FoIFN0LCBUc3ogV2FuIFNoYW4sIEhvbmcgS29uZyIlGiMKFgoUChIJm5a8LNwGBDQR6CEvZy1B6IsSCeiZn-WcsOS4iw"
@@ -16384,7 +16453,9 @@
     "areas": "新界區",
     "desc": "老闆近日逼其中一個員工自行辭職(該名員工係有參與反送中的活動), 其中一個原因係因為老闆從第三者口中得知該名員工袋入面有D關於反送中的物品, 老闆表面話驚家長見到會唔鐘意 (該名員工係無主動同家長提過/展示有關反送中的話題/物品), 但其實係怕如果該名員工被捕, 會影響公司運作, 所以就先一步要個員工\"被辭職\", 老闆亦係其他同事面前爆響口話睇死該同事會被捕  有同事/老師表示想係8月5 三罷個日罷工，老闆知道之後係勸同事/老師唔好罷",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "education",
+    "subType": "教育",
     "lat": 22.3888914,
     "lon": 114.20842,
     "googlePlaceId2": "ChIJ0yMvGAABBDQRoWbGQBr9qPA"
@@ -16398,7 +16469,9 @@
     "areas": "香港島",
     "desc": "🔥🔥🔥一邊整指甲，一邊聽老闆娘同佢嘅同事講警察應該要打學生🤬🤬🤬 同事: d老師帶學生示威，應該捉起老師入差館打一獲甘，打得勁就唔敢再出唻 老闆娘：係喇，搞到個社會噤亂，搞到我無生意 下刪幾千字🔥🔥🔥\nhttps://m.facebook.com/rainbowbeautynail/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "beauty",
+    "subType": "美容",
     "lat": 22.2851956,
     "lon": 114.2141954,
     "googlePlaceId2": "ChIJ7VDTWAsBBDQRotKGaEgckWU"
@@ -16412,7 +16485,9 @@
     "areas": "新界區",
     "desc": "https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://jpmedic.com/zh-hant/contact/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.501223,
     "lon": 114.131667,
     "googlePlaceId2": "ChIJx2xWmxD2AzQRX-GsIVOifgs"
@@ -16426,7 +16501,9 @@
     "areas": "新界區",
     "desc": "https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://jpmedic.com/zh-hant/contact/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.391035,
     "lon": 113.978396,
     "googlePlaceId2": "ChIJiWbZOBb7AzQREeEHDep1Ff4"
@@ -16440,7 +16517,9 @@
     "areas": "新界區",
     "desc": "https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://jpmedic.com/zh-hant/contact/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3734627,
     "lon": 114.1193273,
     "googlePlaceId2": "ChIJff5rVu34AzQRGf12txXnZ8w"
@@ -16454,7 +16533,9 @@
     "areas": "九龍區",
     "desc": "https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://jpmedic.com/zh-hant/contact/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.2964113,
     "lon": 114.1689,
     "googlePlaceId2": "ChIJF7YrxPIABDQRO9se_rJuRM8"
@@ -16468,7 +16549,9 @@
     "areas": "九龍區",
     "desc": "https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://jpmedic.com/zh-hant/contact/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3282026,
     "lon": 114.188033,
     "googlePlaceId2": "ChIJoTpQ1awBBDQRNMBgRQVqv10"
@@ -16482,7 +16565,9 @@
     "areas": "香港島",
     "desc": "https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://jpmedic.com/zh-hant/contact/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.283703,
     "lon": 114.157142,
     "googlePlaceId2": "ChIJS2AiIiMBBDQR5GnxdL9NhHs"
@@ -16496,7 +16581,9 @@
     "areas": "新界區",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3907161,
     "lon": 113.9785129,
     "googlePlaceId2": "ChIJ_7vlPRb7AzQRryfIbvYhzYI"
@@ -16510,7 +16597,9 @@
     "areas": "新界區",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.4457587,
     "lon": 114.0352248,
     "googlePlaceId2": "ChIJ_0P636fwAzQRdTNtZhIzRdM"
@@ -16524,7 +16613,9 @@
     "areas": "新界區",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3734627,
     "lon": 114.1193273,
     "googlePlaceId2": "ChIJff5rVu34AzQRGf12txXnZ8w"
@@ -16538,7 +16629,9 @@
     "areas": "新界區",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3623909,
     "lon": 114.1324556,
     "googlePlaceId2": "ChIJ00tI5Rv5AzQR-CN3cj-b0rw"
@@ -16552,7 +16645,9 @@
     "areas": "九龍區",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.340554,
     "lon": 114.2021768,
     "googlePlaceId2": "ChIJsUTxGdsGBDQRuMrIipHUdtQ"
@@ -16566,7 +16661,9 @@
     "areas": "九龍區",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3009412,
     "lon": 114.172221,
     "googlePlaceId2": "ChIJa1nkN-wABDQRDsWr9AgJRRk"
@@ -16580,7 +16677,9 @@
     "areas": "香港島",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.283593,
     "lon": 114.1571031,
     "googlePlaceId2": "ChIJS2AiIiMBBDQR5GnxdL9NhHs"
@@ -16594,7 +16693,9 @@
     "areas": "新界區",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.309509,
     "lon": 114.2629045,
     "googlePlaceId2": "ChIJlw6_yowDBDQR8FouonJGK0s"
@@ -16608,7 +16709,9 @@
     "areas": "香港島",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.2857247,
     "lon": 114.2179149,
     "googlePlaceId2": "ChIJWQSx-NQBBDQRgreFzCxSlmc"
@@ -16622,7 +16725,9 @@
     "areas": "新界區",
     "desc": "莊文煜醫生是怡健堂股東之一, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.joyfulandhealth.com/zh-hant/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3972665,
     "lon": 114.1933805,
     "googlePlaceId2": "ChIJI_F8KZoHBDQR_SE0de5gPo8"
@@ -16636,7 +16741,9 @@
     "areas": "九龍區",
     "desc": "此中心是莊柏醫療(腦細: 莊文煜醫生)旗下的腸胃鏡中心, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.endoscopy.hk/tc/contact-us.php",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.317912,
     "lon": 114.169191,
     "googlePlaceId2": "ChIJm_pAoscABDQREKlnvWMoghg"
@@ -16650,7 +16757,9 @@
     "areas": "香港島",
     "desc": "此中心是莊柏醫療(腦細: 莊文煜醫生)旗下的腸胃鏡中心, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.endoscopy.hk/tc/contact-us.php",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.2804971,
     "lon": 114.1573817,
     "googlePlaceId2": "ChIJzw-QL8wBBDQRtgFjadEiIGc"
@@ -16664,7 +16773,9 @@
     "areas": "香港島",
     "desc": "此中心是莊柏醫療(腦細: 莊文煜醫生)旗下的腸胃鏡中心, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttp://www.endoscopy.hk/tc/contact-us.php",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.2804971,
     "lon": 114.1573817,
     "googlePlaceId2": "ChIJzw-QL8wBBDQRtgFjadEiIGc"
@@ -16678,7 +16789,9 @@
     "areas": "九龍區",
     "desc": "此中心是莊柏醫療(腦細: 莊文煜醫生)旗下的PET-CT醫療診斷中心(最近收購, 利申 員工), https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttps://www.ahkmdc.com",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3048218,
     "lon": 114.1719424,
     "googlePlaceId2": "ChIJbyvevesABDQRZI7MYKOQHGs"
@@ -16692,7 +16805,9 @@
     "areas": "九龍區",
     "desc": "此醫務所是莊柏醫療(腦細: 莊文煜醫生)旗下的澳文牙科診所, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttps://www.facebook.com/219590241774379/posts/870346550032075?sfns=mo",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3282026,
     "lon": 114.188033,
     "googlePlaceId2": "ChIJoTpQ1awBBDQRNMBgRQVqv10"
@@ -16706,7 +16821,9 @@
     "areas": "新界區",
     "desc": "此醫務所是莊柏醫療(腦細: 莊文煜醫生)旗下的澳文牙科診所, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttps://www.facebook.com/219590241774379/posts/870346550032075?sfns=mo",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3874803,
     "lon": 113.9803268,
     "googlePlaceId2": "ChIJA3C1ShT7AzQRtvgfpcYq-zo"
@@ -16720,7 +16837,9 @@
     "areas": "新界區",
     "desc": "此醫務所是莊柏醫療(腦細: 莊文煜醫生)旗下的澳文牙科診所, https://docs.google.com/spreadsheets/d/1I29qWSD5RYVooXom8NybCMGxextmQoMbsm6qTF_-ySI/htmlview#\nhttps://i.imgur.com/S2DjyFw.jpg\nhttps://www.facebook.com/219590241774379/posts/870346550032075?sfns=mo",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "doctor",
+    "subType": "醫生",
     "lat": 22.3734627,
     "lon": 114.1193273,
     "googlePlaceId2": "ChIJff5rVu34AzQRGf12txXnZ8w"
@@ -16734,7 +16853,9 @@
     "areas": "九龍區",
     "desc": "傳言：\n之前係果度做兼職，佢一路聽收音機，就一路同d北京客話d巧生仔搞搞震、人頭豬腦或無腦等字眼，聽到都把鬼火！不過佢都幾多大陸客嫁，有時仲會叫員工帶貨上深圳順豐寄貨嫁\nhttps://i.imgur.com/hBUwyFM.png\nhttps://m.facebook.com/TheIVYleagueco/和ig：the.ivyleague和電話:92664751",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "beauty",
+    "subType": "美容",
     "lat": 22.3683763,
     "lon": 114.1377578,
     "googlePlaceId2": "ChIJU_iNl5z4AzQRNh9vwNNTdBY"
@@ -16748,7 +16869,9 @@
     "areas": "九龍區",
     "desc": "傳言：\n17/12 夜晚10點幾去家興買野 聽到企最入白衫短頭髮嘅收銀阿姐無啦啦喺度鬧示威者，話咩佢哋口號係叫人返屋企去打飛機話咩dllm pk死，我真係唔知佢係邊度聽返嚟，但係我就冇聽過啦。之後會仲好晦氣咁話啲大學生喎？！高學歷喎？！其他員工亦都有附和。個短髮收銀一路講一路企喺收銀機後面，問佢佢個位係咪開嘅，眼尾望下我就冇應我，相當冇禮貌。",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "food",
+    "subType": "餐飲材料及其他食品",
     "lat": 22.3054929,
     "lon": 114.1863968,
     "googlePlaceId2": "ChIJhfkfAN4ABDQRAytfINyTEu8"
@@ -16762,7 +16885,9 @@
     "areas": "新界區",
     "desc": "傳言：\nD 職員係門口大大聲話要炸死示威者\nhttps://m.facebook.com/pages/佳域多媒體有限公司/190717840960231",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "mobile",
+    "subType": "電子產品及手機",
     "lat": 22.444068,
     "lon": 114.027647,
     "googlePlaceId2": "ChIJSxBRYaDwAzQRGHZ4rMZqJPg"
@@ -16776,7 +16901,9 @@
     "areas": "香港島",
     "desc": "傳言：\nParty room , 個老闆同佢屋企人，表妹， 表妹男友，全部都係白衫黑警！ \nhttps://www.facebook.com/16yaa/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "party",
+    "subType": "Party room及室內樂園",
     "lat": 22.277245,
     "lon": 114.173929,
     "googlePlaceId2": "ChIJMf_ogI0BBDQROQNK_duEhmk"
@@ -16790,7 +16917,9 @@
     "areas": "九龍區",
     "desc": "傳言：\nIG勁多藍色星幫襯 老闆同曹永廉 陳小春超級老友",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "fashion",
+    "subType": "時尚",
     "lat": 22.3164345,
     "lon": 114.170464,
     "googlePlaceId2": "ChIJnfqYOcYABDQRVMy8sc95VVU"
@@ -16804,7 +16933,9 @@
     "areas": "新界區",
     "desc": "店主老公係黑警，還有另一間網店\n:http://facebook.com/babies-little-things-1631985797016569/\nhttps://i.imgur.com/UOWp0JY.jpg\nHttp://www.facebook.com/fourmamapigs/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "child",
+    "subType": "兒童",
     "lat": 22.3813141,
     "lon": 113.9716482,
     "googlePlaceId2": "ChIJxZ32LUH7AzQR5ZhPRns-0pU"
@@ -16818,7 +16949,9 @@
     "areas": "新界區",
     "desc": "傳言：\n店主兩姊妹藍到黑，愛黨愛國支持👮🏿‍♂️",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "beauty",
+    "subType": "美容",
     "lat": 22.3879785,
     "lon": 113.9791679,
     "googlePlaceId2": "ChIJYwuEwRX7AzQRu_0C8zonJ5w"
@@ -16832,7 +16965,9 @@
     "areas": "香港島",
     "desc": "傳言\n 超藍公司，老細喺政協陳永琪，全公司寫字樓大部份藍絲，可以google YGMLTD\nhttps://i.imgur.com/exr8Gnk.png\nhttps://zh.m.wikipedia.org/wiki/陳永棋",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "fashion",
+    "subType": "時尚",
     "lat": 22.2781556,
     "lon": 114.18203,
     "googlePlaceId2": "ChIJ_bAR11AABDQRGxsNeGwaZYM"
@@ -16846,7 +16981,9 @@
     "areas": "九龍區",
     "desc": "Facebook page管理人撐警\nhttps://i.imgur.com/epc6F39.png\nhttps://m.facebook.com/pages/category/Local-Business/Hong-Kong-Pet-Memorial-香港寵物紀念館-148519588530755/?locale2=zh_HK",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "pet",
+    "subType": "寵物",
     "lat": 22.340351,
     "lon": 114.150406,
     "googlePlaceId2": "ChIJNYMYUVEHBDQRRartCEDYBuY"
@@ -16860,7 +16997,9 @@
     "areas": "新界區",
     "desc": "老闆係愛港力成員，佔中有份去踩場\nhttps://www.facebook.com/KandKGame/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "game",
+    "subType": "遊戲",
     "lat": 22.3907533,
     "lon": 113.977344,
     "googlePlaceId2": "ChIJU9O-oT37AzQRPXemgoL1ZJo"
@@ -16874,7 +17013,9 @@
     "areas": "九龍區",
     "desc": "https://lihkg.com/thread/1210695/page/1\nhttps://i.imgur.com/0pfSFP5.png\nhttp://www.newbornbeauty.com/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "beauty",
+    "subType": "美容",
     "lat": 22.298179,
     "lon": 114.1690059,
     "googlePlaceId2": "ChIJXTbssO34AzQRyWHXm50qYkI"
@@ -16888,7 +17029,9 @@
     "areas": "九龍區",
     "desc": "https://lihkg.com/thread/1210695/page/1\nhttps://i.imgur.com/0pfSFP5.png\nhttp://www.newbornbeauty.com/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "beauty",
+    "subType": "美容",
     "lat": 22.3116363,
     "lon": 114.2245537,
     "googlePlaceId2": "ChIJXTbssO34AzQRyWHXm50qYkI"
@@ -16902,7 +17045,9 @@
     "areas": "九龍區",
     "desc": "https://lihkg.com/thread/1210695/page/1\nhttps://i.imgur.com/0pfSFP5.png\nhttp://www.newbornbeauty.com/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "beauty",
+    "subType": "美容",
     "lat": 22.3116363,
     "lon": 114.2245537,
     "googlePlaceId2": "ChIJXTbssO34AzQRyWHXm50qYkI"
@@ -16916,7 +17061,9 @@
     "areas": "香港島",
     "desc": "https://lihkg.com/thread/1210695/page/1\nhttps://i.imgur.com/0pfSFP5.png\nhttp://www.newbornbeauty.com/",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "beauty",
+    "subType": "美容",
     "lat": 22.280987,
     "lon": 114.183783,
     "googlePlaceId2": "ChIJVSngpFYABDQRw35wGHqAdrA"
@@ -16930,7 +17077,9 @@
     "areas": "新界區",
     "desc": "24/12號yoho手足二樓跌下 這間店說是抵死之說 藍店一間\nhttp://www.california-maid.com/web/contact.htm",
     "checkingSameContent": "Done",
+    "image": "https://gotchainfo2019.github.io/images/promotion20191004_3.jpg",
     "type": "other",
+    "subType": "其他",
     "lat": 22.4427237,
     "lon": 114.0272673,
     "googlePlaceId2": "ChIJPV4oX_65j4ARVW8IJ6IJUYs"
@@ -16945,6 +17094,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3122535,
     "lon": 114.2251183,
     "googlePlaceId2": "ChIJL6h6NU8BBDQR5wTfo1i1fK4"
@@ -16959,6 +17109,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2965356,
     "lon": 114.1709903,
     "googlePlaceId2": "EjxE6IiWLCBTYW5kcyBCdWlsZGluZywgMTcgSGFua293IFJkLCBUc2ltIFNoYSBUc3VpLCBIb25nIEtvbmciIBoeChYKFAoSCY_oXWHyAAQ0Ebw3ZK4lVggxEgRE6IiW"
@@ -16973,6 +17124,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.281564,
     "lon": 114.186,
     "googlePlaceId2": "EixC6IiWLCA2IEtpbmdzdG9uIFN0LCBDYXVzZXdheSBCYXksIEhvbmcgS29uZyIgGh4KFgoUChIJQbrr01UABDQRnBFon2xAHLASBELoiJY"
@@ -16987,6 +17139,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3373517,
     "lon": 114.1745657,
     "googlePlaceId2": "ChIJfx5PRjEHBDQRIDFANIp7T_0"
@@ -17001,6 +17154,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2997962,
     "lon": 114.1725687,
     "googlePlaceId2": "ChIJO8Rrye0ABDQRIzRnrwsXcu0"
@@ -17015,6 +17169,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.294735,
     "lon": 114.1656411,
     "googlePlaceId2": "ChIJaw6Ow_IABDQRkjApcoDUd1c"
@@ -17029,6 +17184,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.307521,
     "lon": 114.259068,
     "googlePlaceId2": "ChIJz0PPQvIDBDQR9sQjA3d9KkA"
@@ -17043,6 +17199,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3373517,
     "lon": 114.1745657,
     "googlePlaceId2": "ChIJfx5PRjEHBDQRIDFANIp7T_0"
@@ -17057,6 +17214,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2953067,
     "lon": 114.1727074,
     "googlePlaceId2": "ChIJ6Xetl1YABDQRRd_ktdFAB34"
@@ -17071,6 +17229,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2867035,
     "lon": 114.2174893,
     "googlePlaceId2": "ChIJFz4RF3MBBDQRWmHiFkVJ12k"
@@ -17085,6 +17244,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2799504,
     "lon": 114.1858907,
     "googlePlaceId2": "ChIJrW_6IVQABDQRWqXVQkTnd_4"
@@ -17099,6 +17259,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.282331,
     "lon": 114.153639
   },
@@ -17112,6 +17273,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2979289,
     "lon": 114.1679474,
     "googlePlaceId2": "ChIJSYRG6u0ABDQR9YFlronuMMA"
@@ -17126,6 +17288,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2804272,
     "lon": 114.1843032,
     "googlePlaceId2": "ChIJ-ZuOlFYABDQRT4Pk8HeffpM"
@@ -17140,6 +17303,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3178304,
     "lon": 114.1686481,
     "googlePlaceId2": "ChIJwXJ2nMcABDQRVvxF6vL4n2Q"
@@ -17154,6 +17318,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.29507,
     "lon": 114.167123,
     "googlePlaceId2": "ChIJm1hj1owABDQRw6OKe3h8hfU"
@@ -17168,6 +17333,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2804272,
     "lon": 114.1843032,
     "googlePlaceId2": "ChIJ-ZuOlFYABDQRT4Pk8HeffpM"
@@ -17182,6 +17348,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.379717,
     "lon": 114.186763,
     "googlePlaceId2": "ChIJz43DaKwHBDQRI40O9D17zUs"
@@ -17196,6 +17363,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3093276,
     "lon": 114.1889872,
     "googlePlaceId2": "ChIJT5ZvG98ABDQRcJsnOWGDWKk"
@@ -17210,6 +17378,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2894343,
     "lon": 113.9408813,
     "googlePlaceId2": "ChIJQflqt7riAzQR4a0y9zqysEE"
@@ -17224,6 +17393,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3102872,
     "lon": 114.2251734,
     "googlePlaceId2": "ChIJSzslbEUBBDQRtwGlbZeDJwk"
@@ -17238,6 +17408,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2924139,
     "lon": 114.1971379,
     "googlePlaceId2": "ChIJWSpBWQMBBDQRfRn12Zw5zss"
@@ -17252,6 +17423,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2767315,
     "lon": 114.2399396,
     "googlePlaceId2": "ChIJDzj02H8BBDQRM_vHVUBGZVU"
@@ -17266,6 +17438,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.385207,
     "lon": 114.2045753,
     "googlePlaceId2": "ChIJX1sol0UGBDQRKF9HJ9EI7uA"
@@ -17280,6 +17453,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3688543,
     "lon": 114.1206598,
     "googlePlaceId2": "ChIJbd1SJZP4AzQR884TQlEfjhk"
@@ -17294,6 +17468,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3189016,
     "lon": 114.1714151,
     "googlePlaceId2": "ChIJURd8N8YABDQRNzwo_tlkjjw"
@@ -17308,6 +17483,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2777583,
     "lon": 114.1830798,
     "googlePlaceId2": "ChIJ-0u_I1EABDQR9ZJQBP1uo0c"
@@ -17322,6 +17498,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3572368,
     "lon": 114.1271323,
     "googlePlaceId2": "ChIJdV_oM7z4AzQRadSsqA7oYbA"
@@ -17336,6 +17513,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.340554,
     "lon": 114.2021768,
     "googlePlaceId2": "ChIJsUTxGdsGBDQRuMrIipHUdtQ"
@@ -17350,6 +17528,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3190684,
     "lon": 114.1716103,
     "googlePlaceId2": "EjTlnLDkuItHMywgRzQgJiBHNSwgMTcgTmVsc29uIFN0LCBNb25nIEtvaywgSG9uZyBLb25nIi0aKwoWChQKEglrxtg6xgAENBFUAGu2DAEHZxIR5Zyw5LiLRzMsIEc0ICYgRzU"
@@ -17364,6 +17543,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.370735,
     "lon": 114.111309,
     "googlePlaceId2": "ChIJl8B1_u74AzQRlJT-tYUUzSU"
@@ -17378,6 +17558,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3186184,
     "lon": 114.1705442,
     "googlePlaceId2": "ChIJG0GDyscABDQRBlmIMQR8BL0"
@@ -17392,6 +17573,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3183037,
     "lon": 114.1714936,
     "googlePlaceId2": "Ei3omZ_lnLDkuIssIDcwIEZhIFl1ZW4gU3QsIE1vbmcgS29rLCBIb25nIEtvbmciJRojChYKFAoSCZX8zkfGAAQ0EaJwdhc8M1BsEgnomZ_lnLDkuIs"
@@ -17406,6 +17588,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3817578,
     "lon": 114.1886372,
     "googlePlaceId2": "ChIJFTcnqK0HBDQRdC7jGqw4Cd4"
@@ -17420,6 +17603,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3817578,
     "lon": 114.1886372,
     "googlePlaceId2": "ChIJFTcnqK0HBDQRdC7jGqw4Cd4"
@@ -17434,6 +17618,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3584265,
     "lon": 114.1081419,
     "googlePlaceId2": "ChIJpd4vzcT4AzQRvCdRHDks_Go"
@@ -17448,6 +17633,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2780882,
     "lon": 114.1823536,
     "googlePlaceId2": "ChIJ1YIw2VAABDQRh3c6iem6JRs"
@@ -17462,6 +17648,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3163478,
     "lon": 114.2649983,
     "googlePlaceId2": "ChIJz4LqfXUEBDQRMR05fSGTeUo"
@@ -17476,6 +17663,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3215129,
     "lon": 114.2132529,
     "googlePlaceId2": "ChIJA_mcpjUBBDQRp4NrNS9SqaI"
@@ -17490,6 +17678,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2764659,
     "lon": 114.1736624,
     "googlePlaceId2": "Ei_omZ_lnLDkuIssIDEzMiBKb2huc3RvbiBSZCwgV2FuIENoYWksIEhvbmcgS29uZyIqGigKGxIZChQKEgl12SdiWwAENBEJIKwJw07LRxCEARIJ6Jmf5Zyw5LiL"
@@ -17504,6 +17693,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.5020669,
     "lon": 114.1292793,
     "googlePlaceId2": "ChIJZR5s_hD2AzQR3FP6MEZHsmM"
@@ -17518,6 +17708,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.4526561,
     "lon": 114.1711126,
     "googlePlaceId2": "ChIJQb6PNkYIBDQRCoeCmjqHjis"
@@ -17532,6 +17723,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3929685,
     "lon": 113.9770392,
     "googlePlaceId2": "ChIJASQPcT37AzQRBlhSGahsxls"
@@ -17546,6 +17738,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3797906,
     "lon": 114.1876536,
     "googlePlaceId2": "ChIJ3RDicKwHBDQRMjnQHUUfDZU"
@@ -17560,6 +17753,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.5001826,
     "lon": 114.1263527,
     "googlePlaceId2": "ChIJvxxo_hD2AzQRDbd_WVYTNAU"
@@ -17574,6 +17768,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2963952,
     "lon": 114.1728111,
     "googlePlaceId2": "ChIJn7G7E_IABDQRISbQYjNxRQY"
@@ -17588,6 +17783,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2797035,
     "lon": 114.1838445,
     "googlePlaceId2": "ChIJuwh9w1YABDQRaRbZ1DgateI"
@@ -17602,6 +17798,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2975154,
     "lon": 114.173655,
     "googlePlaceId2": "ChIJKeKQWO4ABDQRT29AFiZDOXU"
@@ -17616,6 +17813,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3186054,
     "lon": 114.1702869,
     "googlePlaceId2": "ChIJGbkFtscABDQRlcpLwYWeI7c"
@@ -17630,6 +17828,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.4457587,
     "lon": 114.0352248,
     "googlePlaceId2": "ChIJTfgkPKbwAzQRXYrhIonBM38"
@@ -17644,6 +17843,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3183845,
     "lon": 114.171484,
     "googlePlaceId2": "Ei3omZ_lnLDkuIssIDcyIEZhIFl1ZW4gU3QsIE1vbmcgS29rLCBIb25nIEtvbmciJRojChYKFAoSCetF70fGAAQ0EdznmIWkIpJJEgnomZ_lnLDkuIs"
@@ -17658,6 +17858,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.369508,
     "lon": 114.113671,
     "googlePlaceId2": "ChIJvw6hnO74AzQRAUbEHPMekZA"
@@ -17672,6 +17873,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.333543,
     "lon": 114.196775,
     "googlePlaceId2": "ChIJ_0-UsNYGBDQRbdvDfa6CGMM"
@@ -17686,6 +17888,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3181221,
     "lon": 114.1686701,
     "googlePlaceId2": "ChIJ33J5nccABDQR2j7tABkCJ2s"
@@ -17700,6 +17903,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3179137,
     "lon": 114.1687442,
     "googlePlaceId2": "ChIJPYBimscABDQR6Z9fyxXzluI"
@@ -17714,6 +17918,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.4446712,
     "lon": 114.0238323,
     "googlePlaceId2": "ChIJh3xG65_wAzQRyYG4-hQkMxY"
@@ -17728,6 +17933,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2980584,
     "lon": 114.173704,
     "googlePlaceId2": "ChIJxz3x-O0ABDQRdM6mF1xLuyA"
@@ -17742,6 +17948,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3231937,
     "lon": 114.1723194,
     "googlePlaceId2": "ChIJC_lPIskABDQRxerRNtoOV9o"
@@ -17756,6 +17963,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.316837,
     "lon": 114.170638,
     "googlePlaceId2": "ChIJnzgdAscABDQRMoiyE_tQ4TU"
@@ -17770,6 +17978,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.395356,
     "lon": 113.973892,
     "googlePlaceId2": "ChIJxWRS0jz7AzQRQhonHdb7w24"
@@ -17784,6 +17993,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2780882,
     "lon": 114.1823536,
     "googlePlaceId2": "ChIJ1YIw2VAABDQRh3c6iem6JRs"
@@ -17798,6 +18008,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.3187215,
     "lon": 114.1710948,
     "googlePlaceId2": "EkDomZ_lnLDkuIssIEZhIFl1ZW4gU3RyZWV0LCA3MS03MyBGYSBZdWVuIFN0LCBNb25nIEtvaywgSG9uZyBLb25nIiUaIwoWChQKEgn5PYQ2xgAENBFuKFsrjSiKaxIJ6Jmf5Zyw5LiL"
@@ -17812,6 +18023,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2781357,
     "lon": 114.1821587,
     "googlePlaceId2": "ChIJ_bAR11AABDQRGxsNeGwaZYM"
@@ -17826,6 +18038,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.4241668,
     "lon": 114.2314834,
     "googlePlaceId2": "ChIJRZaLm2QABDQRddp9jBmJSc0"
@@ -17840,6 +18053,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.4443246,
     "lon": 114.0263196,
     "googlePlaceId2": "EkHomZ_lnLDkuIssIDE4OCBDYXN0bGUgUGVhayBSb2FkIChZdWVuIExvbmcpLCBZdWVuIExvbmcsIEhvbmcgS29uZyIqGigKGxIZChQKEgnZXf4UoPADNBEKp5C_waMUJRC8ARIJ6Jmf5Zyw5LiL"
@@ -17854,6 +18068,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.312575,
     "lon": 114.170482,
     "googlePlaceId2": "ChIJawW048AABDQRfE54MHbiNao"
@@ -17868,6 +18083,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.1963729,
     "lon": 113.5451469,
     "googlePlaceId2": "EjvomZ_lnLDkuIssIDI3IEF2LiBkbyBDb25zZWxoZWlybyBGZXJyZWlyYSBkZSBBbG1laWRhLCBNYWNhbyIlGiMKFgoUChIJUZQc9-Z6ATQR319w43AGM1wSCeiZn-WcsOS4iw"
@@ -17882,6 +18098,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.1962212,
     "lon": 113.5409035,
     "googlePlaceId2": "ChIJX8w5sOV6ATQRQOO7Mtna4Ws"
@@ -17896,6 +18113,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.1959552,
     "lon": 113.5448619,
     "googlePlaceId2": "EjromZ_lnLDkuIssIDcgQXYuIGRvIENvbnNlbGhlaXJvIEZlcnJlaXJhIGRlIEFsbWVpZGEsIE1hY2FvIikaJwoaEhgKFAoSCVG9GVzmegE0Efzm4CzFJIDwEAcSCeiZn-WcsOS4iw"
@@ -17910,6 +18128,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.1953634,
     "lon": 113.5444354,
     "googlePlaceId2": "EiHomZ_lnLDkuIssIDMwOSBSLiBkbyBDYW1wbywgTWFjYW8iJRojChYKFAoSCQ2FrWnmegE0EYNVuoSAMDkrEgnomZ_lnLDkuIs"
@@ -17924,6 +18143,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.1429151,
     "lon": 113.5521343,
     "googlePlaceId2": "ChIJSd2ynhNwATQRmUUxrhCyVss"
@@ -17938,6 +18158,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.1942849,
     "lon": 113.5416252,
     "googlePlaceId2": "EiNB6IiWLCAyMiBSLiBkZSBTw6NvIERvbWluZ29zLCBNYWNhbyIgGh4KFgoUChIJj4BO8-V6ATQRbOo2Rw3ESVISBEHoiJY"
@@ -17952,6 +18173,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.2138028,
     "lon": 113.549391,
     "googlePlaceId2": "EihKLEssTCxTLCAzMzAgRXN0ci4gZG9zIENhdmFsZWlyb3MsIE1hY2FvIiMaIQoWChQKEgkB-YuhInsBNBFntnYtfujNchIHSixLLEwsUw"
@@ -17966,6 +18188,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.1920514,
     "lon": 113.5408497,
     "googlePlaceId2": "ChIJrwAOLPZ7ATQR9k_H--MkB2Q"
@@ -17980,6 +18203,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.148462,
     "lon": 113.560538,
     "googlePlaceId2": "ChIJR0zShQ9wATQReVRBNmYAXk0"
@@ -17994,6 +18218,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.1470331,
     "lon": 113.559839,
     "googlePlaceId2": "ChIJt7JweQVwATQRr242E0IBxVM"
@@ -18008,6 +18233,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.143492,
     "lon": 113.562119,
     "googlePlaceId2": "ChIJlSj3ixpwATQRpqWS9REqlpY"
@@ -18022,6 +18248,7 @@
     "desc": "撐警劉亦菲成為代言人\nhttps://www.facebook.com/photo.php?fbid=448876589333788&set=gm.2934560579943728&type=3",
     "image": "https://i.lih.kg/540/https://na.cx/i/urTBqRO.png",
     "type": "shopping",
+    "subType": "購物/波鞋",
     "lat": 22.145976,
     "lon": 113.565343
   }
