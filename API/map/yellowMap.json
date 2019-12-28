@@ -7,7 +7,7 @@
     "district": "東區",
     "areas": "香港島",
     "desc": "[5/8] 罷市\nhttps://www.instagram.com/p/B0wASedhntk/?utm_source=ig_web_button_share_sheet",
-    "timeline": "**[5/8] 參與罷市\nhttps://www.instagram.com/p/B0wASedhntk/?utm_source=ig_web_button_share_sheet",
+    "timeline": "**[11/11] 參與罷市\nhttps://www.facebook.com/takeyourtimehkofficial/photos/a.903683250020832/1221371154918705/\n**[5/8] 參與罷市\nhttps://www.instagram.com/p/B0wASedhntk/?utm_source=ig_web_button_share_sheet",
     "checkingSameContent": "Done",
     "image": "https://static8.orstatic.com/userphoto2/photo/W/PJV/051PBV6C3AD02EAD656D7Bpx.jpg",
     "type": "restaurant",
@@ -17,7 +17,8 @@
     "openHours": "星期一至日 12:00 - 21:00",
     "fb2": "@takeyourtimehkofficial",
     "good": 111,
-    "bad": 8
+    "bad": 8,
+    "mechanism": "參與罷市||網上媒體公開發聲"
   },
   {
     "id": 4,
@@ -38,7 +39,8 @@
     "openHours": "星期一至日 12:00pm - 12:00am",
     "fb2": "@spicyandong",
     "good": 71,
-    "bad": 4
+    "bad": 4,
+    "mechanism": "參與罷市||網上媒體公開發聲||捐錢||免費派發物資||免費/優惠比同路人"
   },
   {
     "id": 5,
@@ -3872,7 +3874,7 @@
     "checkingSameContent": "Done",
     "image": "https://static8.orstatic.com/userphoto/doorphoto/Q/KLI/042GWR07FD6D4738B2860Epx.jpg",
     "type": "restaurant",
-    "subType": "韓國菜/甜品/糖水",
+    "subType": "西式/甜品/糖水/All Day Breakfast/咖啡店",
     "lat": 22.4253282,
     "lon": 114.2310624,
     "openHours": "11:00 - 22:30",
@@ -3893,7 +3895,7 @@
     "checkingSameContent": "Done",
     "image": "https://static7.orstatic.com/userphoto/doorphoto/O/JE3/03TWAQA98F4D7B0D46EDA5px.jpg",
     "type": "restaurant",
-    "subType": "韓國菜/甜品/糖水",
+    "subType": "西式/甜品/糖水/All Day Breakfast/咖啡店",
     "lat": 22.3856732,
     "lon": 114.1880647,
     "openHours": "11:00 - 22:00",
@@ -3912,7 +3914,7 @@
     "checkingSameContent": "Done",
     "image": "https://static7.orstatic.com/userphoto/doorphoto/Q/L42/0464ZI5156E5649C580DA1px.jpg",
     "type": "restaurant",
-    "subType": "韓國菜/甜品/糖水",
+    "subType": "西式/甜品/糖水/All Day Breakfast/咖啡店",
     "lat": 22.3090629,
     "lon": 114.2609557,
     "openHours": "星期一至五 11:00 - 22:30\n星期六至日, 公眾假期 10:00 - 22:30",
@@ -3931,7 +3933,7 @@
     "checkingSameContent": "Done",
     "image": "https://static5.orstatic.com/userphoto2/photo/S/MOF/04H9RGCB2D3D7D2B8F8053px.jpg",
     "type": "restaurant",
-    "subType": "韓國菜/甜品/糖水",
+    "subType": "西式/甜品/糖水/All Day Breakfast/咖啡店",
     "lat": 22.3720844,
     "lon": 114.1155474,
     "openHours": "11:00 - 22:30",
@@ -12039,24 +12041,6 @@
     "lon": 114.1770745,
     "googlePlaceId2": "ChIJhyv4NHEBBDQRfX7ex_GuekY",
     "good": 76,
-    "bad": 1
-  },
-  {
-    "id": 697,
-    "name": "荳子 Beans",
-    "brand": "Beans ",
-    "address": "荃灣海壩街99號地下",
-    "district": "荃灣",
-    "areas": "新界區",
-    "desc": "https://m.facebook.com/bean234/\n\n7/13 沙田分店戶外區將闢作公眾休息區並免費為公眾添加飲用水。",
-    "checkingSameContent": "Done",
-    "image": "https://static5.orstatic.com/userphoto2/photo/S/MOF/04H9RGCB2D3D7D2B8F8053px.jpg",
-    "type": "restaurant",
-    "subType": "西式/甜品/糖水",
-    "lat": 22.3720844,
-    "lon": 114.1155474,
-    "googlePlaceId2": "ChIJgyn46u34AzQRXM9HCcIIAI8",
-    "good": 4,
     "bad": 1
   },
   {
@@ -28350,7 +28334,7 @@
     "brand": "Red Rice 米飯主題餐廳",
     "address": "九龍新蒲崗六合街11-13號隆工廠大廈地下B室",
     "district": "黃大仙",
-    "areas": "香港島",
+    "areas": "九龍區",
     "desc": "蕭生開\nhttps://www.facebook.com/hkshiuyeukyuen/posts/1353811601365316/",
     "image": "https://peoplesmarket.hk/pub/media/wysiwyg/membernews/201807/201807n1-3.jpg",
     "type": "restaurant",
