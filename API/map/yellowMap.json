@@ -22356,24 +22356,6 @@
     "bad": 0
   },
   {
-    "id": 1390,
-    "name": "大門橫丁Dai Mon Yokocho ",
-    "brand": "大門橫丁Dai Mon Yokocho ",
-    "address": "旺角山東街76號地下",
-    "district": "油尖旺",
-    "areas": "九龍區",
-    "desc": " https://s.openrice.com/QrbS05z6000~uOFrbAw\n餐廳播放榮光國歌、一系列抗爭歌",
-    "checkingSameContent": "Done",
-    "image": "https://static8.orstatic.com/userphoto/doorphoto/3/2P1/00J61R5208260A7D8F12FFlv.jpg",
-    "type": "restaurant",
-    "subType": "未分類",
-    "lat": 22.3178009,
-    "lon": 114.1722327,
-    "googlePlaceId2": "ChIJb0MyaMYABDQRlYwz2pWdQ50",
-    "good": 0,
-    "bad": 0
-  },
-  {
     "id": 1391,
     "name": "M3 Italian",
     "brand": "M3 Italian",
