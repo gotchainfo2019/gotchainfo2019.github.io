@@ -7,13 +7,37 @@
         "yellowimage": "marker/y_restaurant.png",
         "blueimage": "marker/b_restaurant.png"
     },
-    {
-        "id": 2,
-        "type": "child",
-        "name": "兒童",
-        "displayimage": "marker/normal_child.png",
-        "yellowimage": "marker/y_child.png",
-        "blueimage": "marker/b_child.png"
+        {
+        "id": 6,
+        "type": "food",
+        "name": "食材及其他食品",
+        "displayimage": "marker/normal_food.png",
+        "yellowimage": "marker/y_food.png",
+        "blueimage": "marker/b_food.png"
+    },
+	{
+        "id": 27,
+        "type": "doctor",
+        "name": "醫生",
+        "displayimage": "marker/normal_doctor.png",
+        "yellowimage": "marker/y_doctor.png",
+        "blueimage": "marker/b_doctor.png"
+    },
+        {
+        "id": 35,
+        "type": "pharmacy",
+        "name": "藥房",
+        "displayimage": "marker/normal_pharmacy.png",
+        "yellowimage": "marker/y_pharmacy.png",
+        "blueimage": "marker/b_pharmacy.png"
+    },
+	{
+        "id": 24,
+        "type": "design",
+        "name": "家居用品及設計工程",
+        "displayimage": "marker/normal_design.png",
+        "yellowimage": "marker/y_design.png",
+        "blueimage": "marker/b_design.png"
     },
     {
         "id": 3,
@@ -23,13 +47,85 @@
         "yellowimage": "marker/y_mobile.png",
         "blueimage": "marker/b_mobile.png"
     },
+	{
+        "id": 8,
+        "type": "camera",
+        "name": "相機",
+        "displayimage": "marker/normal_camera.png",
+        "yellowimage": "marker/y_camera.png",
+        "blueimage": "marker/b_camera.png"
+    },
+	{
+        "id": 9,
+        "type": "fashion",
+        "name": "衫褲鞋及首飾",
+        "displayimage": "marker/normal_fashion.png",
+        "yellowimage": "marker/y_fashion.png",
+        "blueimage": "marker/b_fashion.png"
+    },
+	{
+        "id": 26,
+        "type": "glasses",
+        "name": "眼鏡",
+        "displayimage": "marker/normal_glasses.png",
+        "yellowimage": "marker/y_glasses.png",
+        "blueimage": "marker/b_glasses.png"
+    },
     {
         "id": 4,
         "type": "shopping",
-        "name": "購物",
+        "name": "生活購物",
         "displayimage": "marker/normal_shopping.png",
         "yellowimage": "marker/y_shopping.png",
         "blueimage": "marker/b_shopping.png"
+    },
+	{
+        "id": 21,
+        "type": "handmade",
+        "name": "手工製作",
+        "displayimage": "marker/normal_handmade.png",
+        "yellowimage": "marker/y_handmade.png",
+        "blueimage": "marker/b_handmade.png"
+    },
+	{
+        "id": 32,
+        "type": "jewellery",
+        "name": "珠寶類首飾",
+        "displayimage": "marker/normal_jewellery.png",
+        "yellowimage": "marker/y_jewellery.png",
+        "blueimage": "marker/b_jewellery.png"
+    },
+	{
+        "id": 17,
+        "type": "hair",
+        "name": "髮型",
+        "displayimage": "marker/normal_hair.png",
+        "yellowimage": "marker/y_hair.png",
+        "blueimage": "marker/b_hair.png"
+    },
+      {
+        "id": 2,
+        "type": "child",
+        "name": "兒童",
+        "displayimage": "marker/normal_child.png",
+        "yellowimage": "marker/y_child.png",
+        "blueimage": "marker/b_child.png"
+    },
+	{
+        "id": 31,
+        "type": "education",
+        "name": "教育",
+        "displayimage": "marker/normal_education.png",
+        "yellowimage": "marker/y_education.png",
+        "blueimage": "marker/b_education.png"
+    },
+	{
+        "id": 29,
+        "type": "music",
+        "name": "音樂及樂器",
+        "displayimage": "marker/normal_music.png",
+        "yellowimage": "marker/y_music.png",
+        "blueimage": "marker/b_music.png"
     },
     {
         "id": 5,
@@ -39,13 +135,29 @@
         "yellowimage": "marker/y_pet.png",
         "blueimage": "marker/b_pet.png"
     },
-    {
-        "id": 6,
-        "type": "food",
-        "name": "食材及其他食品",
-        "displayimage": "marker/normal_food.png",
-        "yellowimage": "marker/y_food.png",
-        "blueimage": "marker/b_food.png"
+	{
+        "id": 12,
+        "type": "fish",
+        "name": "水產類及用品",
+        "displayimage": "marker/normal_fish.png",
+        "yellowimage": "marker/y_fish.png",
+        "blueimage": "marker/b_fish.png"
+    },
+	{
+        "id": 14,
+        "type": "sport",
+        "name": "運動",
+        "displayimage": "marker/normal_sport.png",
+        "yellowimage": "marker/y_sport.png",
+        "blueimage": "marker/b_sport.png"
+    },
+	{
+        "id": 16,
+        "type": "beauty",
+        "name": "美容及身體管理",
+        "displayimage": "marker/normal_beauty.png",
+        "yellowimage": "marker/y_beauty.png",
+        "blueimage": "marker/b_beauty.png"
     },
     {
         "id": 7,
@@ -56,89 +168,17 @@
         "blueimage": "marker/b_party.png"
     },
     {
-        "id": 8,
-        "type": "camera",
-        "name": "相機",
-        "displayimage": "marker/normal_camera.png",
-        "yellowimage": "marker/y_camera.png",
-        "blueimage": "marker/b_camera.png"
-    },
-    {
-        "id": 9,
-        "type": "fashion",
-        "name": "時尚",
-        "displayimage": "marker/normal_fashion.png",
-        "yellowimage": "marker/y_fashion.png",
-        "blueimage": "marker/b_fashion.png"
-    },
-    {
-        "id": 10,
-        "type": "draw",
-        "name": "美術",
-        "displayimage": "marker/normal_draw.png",
-        "yellowimage": "marker/y_draw.png",
-        "blueimage": "marker/b_draw.png"
-    },
-    {
-        "id": 11,
-        "type": "flower",
-        "name": "花",
-        "displayimage": "marker/normal_flower.png",
-        "yellowimage": "marker/y_flower.png",
-        "blueimage": "marker/b_flower.png"
-    },
-    {
-        "id": 12,
-        "type": "fish",
-        "name": "海洋類",
-        "displayimage": "marker/normal_fish.png",
-        "yellowimage": "marker/y_fish.png",
-        "blueimage": "marker/b_fish.png"
-    },
-    {
         "id": 13,
         "type": "wedding",
-        "name": "婚禮",
+        "name": "婚禮相關",
         "displayimage": "marker/normal_wedding.png",
         "yellowimage": "marker/y_wedding.png",
         "blueimage": "marker/b_wedding.png"
     },
     {
-        "id": 14,
-        "type": "sport",
-        "name": "運動",
-        "displayimage": "marker/normal_sport.png",
-        "yellowimage": "marker/y_sport.png",
-        "blueimage": "marker/b_sport.png"
-    },
-    {
-        "id": 15,
-        "type": "hotel",
-        "name": "旅館",
-        "displayimage": "marker/normal_hotel.png",
-        "yellowimage": "marker/y_hotel.png",
-        "blueimage": "marker/b_hotel.png"
-    },
-    {
-        "id": 16,
-        "type": "beauty",
-        "name": "美容",
-        "displayimage": "marker/normal_beauty.png",
-        "yellowimage": "marker/y_beauty.png",
-        "blueimage": "marker/b_beauty.png"
-    },
-    {
-        "id": 17,
-        "type": "hair",
-        "name": "髮型",
-        "displayimage": "marker/normal_hair.png",
-        "yellowimage": "marker/y_hair.png",
-        "blueimage": "marker/b_hair.png"
-    },
-    {
         "id": 18,
         "type": "book",
-        "name": "書",
+        "name": "書,文具及印刷",
         "displayimage": "marker/normal_book.png",
         "yellowimage": "marker/y_book.png",
         "blueimage": "marker/b_book.png"
@@ -159,13 +199,13 @@
         "yellowimage": "marker/y_toys.png",
         "blueimage": "marker/b_toys.png"
     },
-    {
-        "id": 21,
-        "type": "handmade",
-        "name": "手工製作",
-        "displayimage": "marker/normal_handmade.png",
-        "yellowimage": "marker/y_handmade.png",
-        "blueimage": "marker/b_handmade.png"
+	{
+        "id": 33,
+        "type": "gotcha",
+        "name": "夾公仔",
+        "displayimage": "marker/normal_gotcha.png",
+        "yellowimage": "marker/y_gotcha.png",
+        "blueimage": "marker/b_gotcha.png"
     },
     {
         "id": 22,
@@ -175,6 +215,39 @@
         "yellowimage": "marker/y_boardgame.png",
         "blueimage": "marker/b_boardgame.png"
     },
+     
+    {
+        "id": 10,
+        "type": "draw",
+        "name": "美術",
+        "displayimage": "marker/normal_draw.png",
+        "yellowimage": "marker/y_draw.png",
+        "blueimage": "marker/b_draw.png"
+    },
+    {
+        "id": 11,
+        "type": "flower",
+        "name": "花",
+        "displayimage": "marker/normal_flower.png",
+        "yellowimage": "marker/y_flower.png",
+        "blueimage": "marker/b_flower.png"
+    },
+	{
+        "id": 15,
+        "type": "hotel",
+        "name": "旅館",
+        "displayimage": "marker/normal_hotel.png",
+        "yellowimage": "marker/y_hotel.png",
+        "blueimage": "marker/b_hotel.png"
+    },
+	{
+        "id": 30,
+        "type": "travel",
+        "name": "旅行",
+        "displayimage": "marker/normal_travel.png",
+        "yellowimage": "marker/y_travel.png",
+        "blueimage": "marker/b_travel.png"
+    },
     {
         "id": 23,
         "type": "car",
@@ -183,13 +256,13 @@
         "yellowimage": "marker/y_car.png",
         "blueimage": "marker/b_car.png"
     },
-    {
-        "id": 24,
-        "type": "design",
-        "name": "設計,工程及家品",
-        "displayimage": "marker/normal_design.png",
-        "yellowimage": "marker/y_design.png",
-        "blueimage": "marker/b_design.png"
+	{
+        "id": 34,
+        "type": "bike",
+        "name": "自行車",
+        "displayimage": "marker/normal_bike.png",
+        "yellowimage": "marker/y_bike.png",
+        "blueimage": "marker/b_bike.png"
     },
     {
         "id": 25,
@@ -200,84 +273,12 @@
         "blueimage": "marker/b_coin.png"
     },
     {
-        "id": 26,
-        "type": "glasses",
-        "name": "眼鏡",
-        "displayimage": "marker/normal_glasses.png",
-        "yellowimage": "marker/y_glasses.png",
-        "blueimage": "marker/b_glasses.png"
-    },
-    {
-        "id": 27,
-        "type": "doctor",
-        "name": "醫生",
-        "displayimage": "marker/normal_doctor.png",
-        "yellowimage": "marker/y_doctor.png",
-        "blueimage": "marker/b_doctor.png"
-    },
-    {
         "id": 28,
         "type": "sex",
         "name": "成人&性感用品",
         "displayimage": "marker/normal_sex.png",
         "yellowimage": "marker/y_sex.png",
         "blueimage": "marker/b_sex.png"
-    },
-    {
-        "id": 29,
-        "type": "music",
-        "name": "音樂",
-        "displayimage": "marker/normal_music.png",
-        "yellowimage": "marker/y_music.png",
-        "blueimage": "marker/b_music.png"
-    },
-    {
-        "id": 30,
-        "type": "travel",
-        "name": "旅行",
-        "displayimage": "marker/normal_travel.png",
-        "yellowimage": "marker/y_travel.png",
-        "blueimage": "marker/b_travel.png"
-    },
-    {
-        "id": 31,
-        "type": "education",
-        "name": "教育",
-        "displayimage": "marker/normal_education.png",
-        "yellowimage": "marker/y_education.png",
-        "blueimage": "marker/b_education.png"
-    },
-    {
-        "id": 32,
-        "type": "jewellery",
-        "name": "珠寶",
-        "displayimage": "marker/normal_jewellery.png",
-        "yellowimage": "marker/y_jewellery.png",
-        "blueimage": "marker/b_jewellery.png"
-    },
-    {
-        "id": 33,
-        "type": "gotcha",
-        "name": "娃娃機",
-        "displayimage": "marker/normal_gotcha.png",
-        "yellowimage": "marker/y_gotcha.png",
-        "blueimage": "marker/b_gotcha.png"
-    },
-    {
-        "id": 34,
-        "type": "bike",
-        "name": "自行車",
-        "displayimage": "marker/normal_bike.png",
-        "yellowimage": "marker/y_bike.png",
-        "blueimage": "marker/b_bike.png"
-    },
-    {
-        "id": 35,
-        "type": "pharmacy",
-        "name": "藥房",
-        "displayimage": "marker/normal_pharmacy.png",
-        "yellowimage": "marker/y_pharmacy.png",
-        "blueimage": "marker/b_pharmacy.png"
     },
     {
         "id": 36,
