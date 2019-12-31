@@ -5331,25 +5331,6 @@
     "bad": 4
   },
   {
-    "id": 296,
-    "name": "外賣俠",
-    "brand": "外賣俠",
-    "address": "九龍觀塘駿業街熟食市場地下21號舖",
-    "district": "觀塘",
-    "areas": "九龍區",
-    "desc": "12/6 參與罷市\nhttps://www.facebook.com/TakeawayMasterKwunTong/photos/a.2272565126167919/2306693022755129/?type=3&theater",
-    "checkingSameContent": "Done",
-    "image": "https://static7.orstatic.com/userphoto/doorphoto/3/2JE/00I22MF5503F2A88DA3CF7px.jpg",
-    "type": "restaurant",
-    "subType": "外賣/Lunch Box",
-    "lat": 22.311747,
-    "lon": 114.222882,
-    "openHours": "/",
-    "fb2": "@TakeawayMasterKwunTong",
-    "good": 0,
-    "bad": 1
-  },
-  {
     "id": 297,
     "name": "大丼家燒烤牛丼專門店",
     "brand": "大丼家燒烤牛丼專門店",
