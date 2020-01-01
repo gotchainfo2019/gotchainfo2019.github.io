@@ -12,29 +12,15 @@
          "action": "integrationYellowBlueMap",
          "actionList":[
                 {
-                    "title": "黃色圈",
+                    "title": "經濟圈",
                     "icon": "icon_map_marker_restaurant_yellow.png",
                     "iconField": "yellowimage",
                     "layout": "map",
                     "actionType": "API",
-                    "action": "API/map/yellowMap",
-                    "pollingKeywordName1": "5星餐廳",
-                    "pollingKeywordName2": "網民推介餐廳",
+                    "action": "API/map/yellowblueMap.json",
                     "apitype" : "git",
                     "lastupdate" : "30/12/2019"
-                },
-                {
-                    "title": "藍色圈",
-                    "icon": "icon_map_marker_restaurant.png",
-                    "iconField": "blueimage",
-                    "layout": "map",
-                    "actionType": "API",
-                    "action": "API/map/blueMap",
-                    "pollingKeywordName1": "1星餐廳",
-                    "pollingKeywordName2": "唔好叫錯外賣餐廳",
-                    "apitype" : "git",
-                    "lastupdate" : "30/12/2019"
-                },
+                }
                 {
                     "layout": "type",
                     "actionType": "API",
