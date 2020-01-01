@@ -1,104 +1,104 @@
 [
-    {
-        "title": "香港加油",
-        "actionType": "Title",
-        "action": "Title"
-    },
-    {
-         "title": "經濟圈",
-         "icon": "marker/menu_yellowblueicon.png",
-         "layout": "IntegrationMap",
-         "actionType": "API",
-         "action": "integrationYellowBlueMap",
-         "actionList":[
-                {
-                    "title": "經濟圈",
-                    "iconField": "yellowimage",
-                    "layout": "map",
-                    "actionType": "API",
-                    "action": "API/map/yellowblueMap.json",
-                    "apitype" : "git",
-                    "lastupdate" : "30/12/2019"
-                }
-                {
-                    "layout": "type",
-                    "actionType": "API",
-                    "action": "API/list/mapType"
-                },
-                {
-                    "layout": "news",
-                    "actionType": "API",
-                    "action": "API/news/news"
-                }
-         ],
-         "apitype" : "git"
-    },
-    {
-        "title": "報料區",
-        "icon": "icon_rating.png",
-        "layout": "reportForm",
-        "actionType": "API",
-        "action": "reportForm"
-    },
-    {
-         "title": "KOL推介",
-         "actionType": "Title",
-         "action": "Title"
-     },
-    {
-        "title": "啱Channel之選餐廳",
-        "icon": "icon_arm_channel_marker.png",
+  {
+    "title": "香港加油",
+    "actionType": "Title",
+    "action": "Title"
+  },
+  {
+    "title": "經濟圈",
+    "icon": "marker/menu_yellowblueicon.png",
+    "layout": "IntegrationMap",
+    "actionType": "API",
+    "action": "integrationYellowBlueMap",
+    "actionList": [
+      {
+        "title": "經濟圈",
+        "iconField": "yellowimage",
         "layout": "map",
         "actionType": "API",
-        "action": "armchannel",
-        "apitype" : "git"
-    },
-    {
-        "title": "夾公仔",
-        "actionType": "Title",
-        "action": "Title"
-    },
-    {
-        "title": "夾公仔地圖",
-        "icon": "icon_map_marker.png",
-        "layout": "map",
+        "action": "API/map/yellowblueMap.json",
+        "apitype": "git",
+        "lastupdate": "30/12/2019"
+      },
+      {
+        "layout": "type",
         "actionType": "API",
-        "action": "gotchamap",
-        "pollingKeywordName1": "夾公仔",
-        "apitype" : "git"
-    },
-    {
-        "title": "報料區",
-        "icon": "icon_rating.png",
-        "layout": "reportForm",
+        "action": "API/list/mapType"
+      },
+      {
+        "layout": "news",
         "actionType": "API",
-        "action": "reportForm"
-    },
-    {
-        "title": "關於我們",
-        "actionType": "Title",
-        "action": "Title"
-    },
-    {
-        "title": "Facebook Fan Page",
-        "icon": "icon_facebook.png",
-        "layout": "webview",
-        "actionType": "URL",
-        "action": "https://www.facebook.com/100290784654471"
-    },
-    {
-        "title": "香城Online群組",
-        "icon": "icon_yellow_online.jpg",
-        "layout": "webview",
-        "actionType": "URL",
-        "action": "https://www.facebook.com/groups/2798734860192968"
-    },
-    {
-        "title": "解鎖 - 去除廣告",
-        "icon": "icon_ads.png",
-        "layout": "InAppPurchase",
-        "actionType": "InAppPurchase",
-        "action": "whatsgap.remove.ads",
-        "desc": "$8 永久去除app內的所有廣告"
-    }
+        "action": "API/news/news"
+      }
+    ],
+    "apitype": "git"
+  },
+  {
+    "title": "報料區",
+    "icon": "icon_rating.png",
+    "layout": "reportForm",
+    "actionType": "API",
+    "action": "reportForm"
+  },
+  {
+    "title": "KOL推介",
+    "actionType": "Title",
+    "action": "Title"
+  },
+  {
+    "title": "啱Channel之選餐廳",
+    "icon": "icon_arm_channel_marker.png",
+    "layout": "map",
+    "actionType": "API",
+    "action": "armchannel",
+    "apitype": "git"
+  },
+  {
+    "title": "夾公仔",
+    "actionType": "Title",
+    "action": "Title"
+  },
+  {
+    "title": "夾公仔地圖",
+    "icon": "icon_map_marker.png",
+    "layout": "map",
+    "actionType": "API",
+    "action": "gotchamap",
+    "pollingKeywordName1": "夾公仔",
+    "apitype": "git"
+  },
+  {
+    "title": "報料區",
+    "icon": "icon_rating.png",
+    "layout": "reportForm",
+    "actionType": "API",
+    "action": "reportForm"
+  },
+  {
+    "title": "關於我們",
+    "actionType": "Title",
+    "action": "Title"
+  },
+  {
+    "title": "Facebook Fan Page",
+    "icon": "icon_facebook.png",
+    "layout": "webview",
+    "actionType": "URL",
+    "action": "https://www.facebook.com/100290784654471"
+  },
+  {
+    "title": "香城Online群組",
+    "icon": "icon_yellow_online.jpg",
+    "layout": "webview",
+    "actionType": "URL",
+    "action": "https://www.facebook.com/groups/2798734860192968"
+  },
+  {
+    "title": "解鎖 - 去除廣告",
+    "icon": "icon_ads.png",
+    "layout": "InAppPurchase",
+    "actionType": "InAppPurchase",
+    "action": "whatsgap.remove.ads",
+    "desc": "$8 永久去除app內的所有廣告"
+  }
 ]
