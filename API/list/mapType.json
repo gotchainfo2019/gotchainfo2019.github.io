@@ -7,6 +7,14 @@
         "yellowimage": "marker/y_restaurant.png",
         "blueimage": "marker/b_restaurant.png"
     },
+	{
+        "id": 38,
+        "type": "newyear",
+        "name": "新年盆菜及年貨",
+        "displayimage": "marker/normal_restaurant.png",
+        "yellowimage": "marker/y_restaurant.png",
+        "blueimage": "marker/b_restaurant.png"
+    },
         {
         "id": 6,
         "type": "food",
