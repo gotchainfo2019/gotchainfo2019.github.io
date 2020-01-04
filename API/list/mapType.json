@@ -7,7 +7,8 @@
         "yellowimage": "marker/y_restaurant.png",
         "blueimage": "marker/b_restaurant.png",
         "greenimage": "marker/normal_restaurant.png",
-        "maptype": "新年"
+        "maptype": "新年",
+        "sort": 1
     },
     {
         "id": 1,
@@ -17,7 +18,8 @@
         "yellowimage": "marker/y_restaurant.png",
         "blueimage": "marker/b_restaurant.png",
         "greenimage": "marker/normal_restaurant.png",
-        "maptype": "食"
+        "maptype": "食",
+        "sort": 2
     },
     {
         "id": 6,
@@ -27,7 +29,8 @@
         "yellowimage": "marker/y_food.png",
         "blueimage": "marker/b_food.png",
         "greenimage": "marker/normal_food.png",
-        "maptype": "食"
+        "maptype": "食",
+        "sort": 2
     },
     {
         "id": 7,
@@ -37,7 +40,8 @@
         "yellowimage": "marker/y_party.png",
         "blueimage": "marker/b_party.png",
         "greenimage": "marker/normal_party.png",
-        "maptype": "食"
+        "maptype": "食",
+        "sort": 2
     },
     {
         "id": 24,
@@ -47,7 +51,8 @@
         "yellowimage": "marker/y_design.png",
         "blueimage": "marker/b_design.png",
         "greenimage": "marker/normal_design.png",
-        "maptype": "住"
+        "maptype": "住",
+        "sort": 3
     },
     {
         "id": 21,
@@ -57,7 +62,8 @@
         "yellowimage": "marker/y_handmade.png",
         "blueimage": "marker/b_handmade.png",
         "greenimage": "marker/normal_handmade.png",
-        "maptype": "住"
+        "maptype": "住",
+        "sort": 3
     },
     {
         "id": 4,
@@ -67,7 +73,8 @@
         "yellowimage": "marker/y_shopping.png",
         "blueimage": "marker/b_shopping.png",
         "greenimage": "marker/normal_shopping.png",
-        "maptype": "生活消費"
+        "maptype": "生活消費",
+        "sort": 4
     },
     {
         "id": 3,
@@ -77,7 +84,8 @@
         "yellowimage": "marker/y_mobile.png",
         "blueimage": "marker/b_mobile.png",
         "greenimage": "marker/normal_mobile.png",
-        "maptype": "生活消費"
+        "maptype": "生活消費",
+        "sort": 4
     },
     {
         "id": 8,
@@ -87,7 +95,8 @@
         "yellowimage": "marker/y_camera.png",
         "blueimage": "marker/b_camera.png",
         "greenimage": "marker/normal_camera.png",
-        "maptype": "生活消費"
+        "maptype": "生活消費",
+        "sort": 4
     },
     {
         "id": 9,
@@ -97,7 +106,8 @@
         "yellowimage": "marker/y_fashion.png",
         "blueimage": "marker/b_fashion.png",
         "greenimage": "marker/normal_fashion.png",
-        "maptype": "生活消費"
+        "maptype": "生活消費",
+        "sort": 4
     },
     {
         "id": 10,
@@ -107,7 +117,8 @@
         "yellowimage": "marker/y_draw.png",
         "blueimage": "marker/b_draw.png",
         "greenimage": "marker/normal_draw.png",
-        "maptype": "生活消費"
+        "maptype": "生活消費",
+        "sort": 4
     },
     {
         "id": 13,
@@ -117,7 +128,8 @@
         "yellowimage": "marker/y_wedding.png",
         "blueimage": "marker/b_wedding.png",
         "greenimage": "marker/normal_wedding.png",
-        "maptype": "生活消費"
+        "maptype": "生活消費",
+        "sort": 4
     },
     {
         "id": 17,
@@ -127,7 +139,8 @@
         "yellowimage": "marker/y_hair.png",
         "blueimage": "marker/b_hair.png",
         "greenimage": "marker/normal_hair.png",
-        "maptype": "生活消費"
+        "maptype": "生活消費",
+        "sort": 4
     },
     {
         "id": 26,
@@ -137,7 +150,8 @@
         "yellowimage": "marker/y_glasses.png",
         "blueimage": "marker/b_glasses.png",
         "greenimage": "marker/normal_glasses.png",
-        "maptype": "生活消費"
+        "maptype": "生活消費",
+        "sort": 4
     },
     {
         "id": 32,
@@ -147,7 +161,8 @@
         "yellowimage": "marker/y_jewellery.png",
         "blueimage": "marker/b_jewellery.png",
         "greenimage": "marker/normal_jewellery.png",
-        "maptype": "生活消費"
+        "maptype": "生活消費",
+        "sort": 4
     },
     {
         "id": 27,
@@ -157,7 +172,8 @@
         "yellowimage": "marker/y_doctor.png",
         "blueimage": "marker/b_doctor.png",
         "greenimage": "marker/normal_doctor.png",
-        "maptype": "健康"
+        "maptype": "健康",
+        "sort": 5
     },
     {
         "id": 2,
@@ -167,7 +183,8 @@
         "yellowimage": "marker/y_child.png",
         "blueimage": "marker/b_child.png",
         "greenimage": "marker/normal_child.png",
-        "maptype": "健康"
+        "maptype": "健康",
+        "sort": 5
     },
     {
         "id": 14,
@@ -177,7 +194,8 @@
         "yellowimage": "marker/y_sport.png",
         "blueimage": "marker/b_sport.png",
         "greenimage": "marker/normal_sport.png",
-        "maptype": "健康"
+        "maptype": "健康",
+        "sort": 5
     },
     {
         "id": 16,
@@ -187,7 +205,8 @@
         "yellowimage": "marker/y_beauty.png",
         "blueimage": "marker/b_beauty.png",
         "greenimage": "marker/normal_beauty.png",
-        "maptype": "健康"
+        "maptype": "健康",
+        "sort": 5
     },
     {
         "id": 35,
@@ -197,7 +216,8 @@
         "yellowimage": "marker/y_pharmacy.png",
         "blueimage": "marker/b_pharmacy.png",
         "greenimage": "marker/normal_pharmacy.png",
-        "maptype": "健康"
+        "maptype": "健康",
+        "sort": 5
     },
     {
         "id": 23,
@@ -207,7 +227,8 @@
         "yellowimage": "marker/y_car.png",
         "blueimage": "marker/b_car.png",
         "greenimage": "marker/normal_car.png",
-        "maptype": "行"
+        "maptype": "行",
+        "sort": 6
     },
     {
         "id": 34,
@@ -217,7 +238,8 @@
         "yellowimage": "marker/y_bike.png",
         "blueimage": "marker/b_bike.png",
         "greenimage": "marker/normal_bike.png",
-        "maptype": "行"
+        "maptype": "行",
+        "sort": 6
     },
     {
         "id": 19,
@@ -227,7 +249,8 @@
         "yellowimage": "marker/y_game.png",
         "blueimage": "marker/b_game.png",
         "greenimage": "marker/normal_game.png",
-        "maptype": "玩樂"
+        "maptype": "玩樂",
+        "sort": 7
     },
     {
         "id": 20,
@@ -237,7 +260,8 @@
         "yellowimage": "marker/y_toys.png",
         "blueimage": "marker/b_toys.png",
         "greenimage": "marker/normal_toys.png",
-        "maptype": "玩樂"
+        "maptype": "玩樂",
+        "sort": 7
     },
     {
         "id": 22,
@@ -247,7 +271,8 @@
         "yellowimage": "marker/y_boardgame.png",
         "blueimage": "marker/b_boardgame.png",
         "greenimage": "marker/normal_boardgame.png",
-        "maptype": "玩樂"
+        "maptype": "玩樂",
+        "sort": 7
     },
     {
         "id": 33,
@@ -257,7 +282,8 @@
         "yellowimage": "marker/y_gotcha.png",
         "blueimage": "marker/b_gotcha.png",
         "greenimage": "marker/normal_gotcha.png",
-        "maptype": "玩樂"
+        "maptype": "玩樂",
+        "sort": 7
     },
     {
         "id": 15,
@@ -267,7 +293,8 @@
         "yellowimage": "marker/y_hotel.png",
         "blueimage": "marker/b_hotel.png",
         "greenimage": "marker/normal_hotel.png",
-        "maptype": "玩樂"
+        "maptype": "玩樂",
+        "sort": 7
     },
     {
         "id": 30,
@@ -277,7 +304,8 @@
         "yellowimage": "marker/y_travel.png",
         "blueimage": "marker/b_travel.png",
         "greenimage": "marker/normal_travel.png",
-        "maptype": "玩樂"
+        "maptype": "玩樂",
+        "sort": 7
     },
     {
         "id": 5,
@@ -287,7 +315,8 @@
         "yellowimage": "marker/y_pet.png",
         "blueimage": "marker/b_pet.png",
         "greenimage": "marker/normal_pet.png",
-        "maptype": "動植物"
+        "maptype": "動植物",
+        "sort": 8
     },
     {
         "id": 12,
@@ -297,7 +326,8 @@
         "yellowimage": "marker/y_fish.png",
         "blueimage": "marker/b_fish.png",
         "greenimage": "marker/normal_fish.png",
-        "maptype": "動植物"
+        "maptype": "動植物",
+        "sort": 8
     },
     {
         "id": 11,
@@ -307,7 +337,8 @@
         "yellowimage": "marker/y_flower.png",
         "blueimage": "marker/b_flower.png",
         "greenimage": "marker/normal_flower.png",
-        "maptype": "動植物"
+        "maptype": "動植物",
+        "sort": 8
     },
     {
         "id": 18,
@@ -317,7 +348,8 @@
         "yellowimage": "marker/y_book.png",
         "blueimage": "marker/b_book.png",
         "greenimage": "marker/normal_book.png",
-        "maptype": "學習"
+        "maptype": "學習",
+        "sort": 9
     },
     {
         "id": 29,
@@ -327,7 +359,8 @@
         "yellowimage": "marker/y_music.png",
         "blueimage": "marker/b_music.png",
         "greenimage": "marker/normal_music.png",
-        "maptype": "學習"
+        "maptype": "學習",
+        "sort": 9
     },
     {
         "id": 31,
@@ -337,7 +370,8 @@
         "yellowimage": "marker/y_education.png",
         "blueimage": "marker/b_education.png",
         "greenimage": "marker/normal_education.png",
-        "maptype": "學習"
+        "maptype": "學習",
+        "sort": 9
     },
     {
         "id": 25,
@@ -347,7 +381,8 @@
         "yellowimage": "marker/y_coin.png",
         "blueimage": "marker/b_coin.png",
         "greenimage": "marker/normal_coin.png",
-        "maptype": "其他"
+        "maptype": "其他",
+        "sort": 10
     },
     {
         "id": 28,
@@ -357,7 +392,8 @@
         "yellowimage": "marker/y_sex.png",
         "blueimage": "marker/b_sex.png",
         "greenimage": "marker/normal_sex.png",
-        "maptype": "其他"
+        "maptype": "其他",
+        "sort": 10
     },
     {
         "id": 36,
@@ -367,7 +403,8 @@
         "yellowimage": "marker/y_church.png",
         "blueimage": "marker/b_church.png",
         "greenimage": "marker/normal_church.png",
-        "maptype": "其他"
+        "maptype": "其他",
+        "sort": 10
     },
     {
         "id": 37,
@@ -377,6 +414,7 @@
         "yellowimage": "marker/y_more.png",
         "blueimage": "marker/b_more.png",
         "greenimage": "marker/normal_more.png",
-        "maptype": "其他"
+        "maptype": "其他",
+        "sort": 10
     }
 ]
