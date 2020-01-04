@@ -33,7 +33,7 @@
         "action": "armchannel"
     },
     {
-       "title": "其他黃色圈(測試中)",
+       "title": "其他黃色圈(此功能請到facebook取最新版本)",
        "icon": "icon_map_marker_yellow.png",
        "layout": "map",
        "actionType": "API",
@@ -58,7 +58,7 @@
         "icon": "icon_yellow_online.jpg",
         "layout": "webview",
         "actionType": "URL",
-        "action": "https://www.facebook.com/groups/2798734860192968"
+        "action": "https://www.facebook.com/groups/842956306141338/"
     },
     {
         "title": "Facebook Fan Page",
