@@ -1104,6 +1104,7 @@
     "icon": "Y",
     "good": 54,
     "bad": 1,
+    "mechanismgood": "參與罷市||連儂牆/貼文宣\n",
     "color": "yellow"
   },
   {
@@ -1122,6 +1123,7 @@
     "openHours": "星期一至日12:00pm - 8:30pm",
     "good": 103,
     "bad": 2,
+    "mechanismgood": "參與罷市||免費派發物資\n",
     "color": "yellow"
   },
   {
@@ -1140,6 +1142,7 @@
     "openHours": "星期一至日 12:00 - 23:00",
     "good": 12,
     "bad": 3,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1159,6 +1162,7 @@
     "googlePlaceId2": "ChIJ__9vgyL7AzQR5161h_NjIEw",
     "good": 58,
     "bad": 2,
+    "mechanismgood": "參與罷市||捐錢||網上媒體公開發聲||免費派發物資\n\n\n\n\n",
     "color": "yellow"
   },
   {
@@ -1179,6 +1183,7 @@
     "openHours": "星期一至五12:00 - 23:00\n星期六及日 10:00 - 23:00",
     "good": 36,
     "bad": 0,
+    "mechanismgood": "參與罷市||捐錢||網上媒體公開發聲||免費派發物資||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1199,6 +1204,7 @@
     "openHours": "星期一至四 12:00 - 22:30\n星期五 12:00 - 23:00\n星期六/ 公眾假期前夕 11:00 - 23:00\n星期日/公眾假期 11:00 - 22:30",
     "good": 76,
     "bad": 1,
+    "mechanismgood": "參與罷市||捐錢||網上媒體公開發聲||免費派發物資||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1217,6 +1223,7 @@
     "openHours": "星期一至五 11:00 - 20:00; \n星期六至日10:00 - 21:00",
     "good": 14,
     "bad": 5,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1235,6 +1242,7 @@
     "openHours": "星期一至日\n12:30 - 16:00\n18:00 - 00:00",
     "good": 34,
     "bad": 6,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1253,6 +1261,7 @@
     "openHours": "星期一至五11:00 - 19:30; 星期六12:00 - 19:30; 星期日, 公眾假期 全日休息",
     "good": 11,
     "bad": 3,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1273,6 +1282,7 @@
     "openHours": "星期一至日\n12:00 - 15:30\n18:00 - 22:30",
     "good": 27,
     "bad": 3,
+    "mechanismgood": "參與罷市||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1293,6 +1303,7 @@
     "openHours": "星期一至日 12:00 - 00:30",
     "good": 68,
     "bad": 10,
+    "mechanismgood": "參與罷市||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1313,6 +1324,7 @@
     "openHours": "星期一至日\n12:00 - 15:30\n18:00 - 22:30",
     "good": 36,
     "bad": 8,
+    "mechanismgood": "參與罷市||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1333,6 +1345,7 @@
     "openHours": "星期一至日 11:00 - 22:00",
     "good": 17,
     "bad": 6,
+    "mechanismgood": "參與罷市||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1353,6 +1366,7 @@
     "openHours": "星期一至日\n12:00 - 15:30\n18:00 - 22:30",
     "good": 52,
     "bad": 16,
+    "mechanismgood": "參與罷市||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1373,6 +1387,7 @@
     "openHours": "星期一至日\n12:00 - 15:30\n18:00 - 22:30",
     "good": 52,
     "bad": 5,
+    "mechanismgood": "參與罷市||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1393,6 +1408,7 @@
     "openHours": "星期一至日\n12:00 - 15:30\n18:00 - 00:30",
     "good": 37,
     "bad": 3,
+    "mechanismgood": "參與罷市||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1411,6 +1427,7 @@
     "openHours": "12:00 - 20:30",
     "good": 21,
     "bad": 10,
+    "mechanismgood": "參與罷市||捐錢||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1431,6 +1448,7 @@
     "icon": "Y",
     "good": 17,
     "bad": 3,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1450,6 +1468,7 @@
     "openHours": "星期一至日 11:30 - 15:30, 18:00 - 22:00",
     "good": 23,
     "bad": 2,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1469,6 +1488,7 @@
     "icon": "Y",
     "good": 25,
     "bad": 2,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1487,6 +1507,7 @@
     "openHours": "星期一至五12:00 - 15:00; \n星期六12:00 - 17:00; \n星期日, 公眾假期 全日休息",
     "good": 8,
     "bad": 1,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1505,6 +1526,7 @@
     "openHours": "星期一至五 08:00 - 00:00\n星期六 10:30 - 00:00\n星期日 全日休息\n公眾假期 10:30 - 00:00",
     "good": 12,
     "bad": 0,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1523,6 +1545,7 @@
     "openHours": "星期一、星期三至日、逢初一,十五\n12:00 - 15:00\n18:30 - 22:00\n星期二 全日休息",
     "good": 5,
     "bad": 2,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -1544,6 +1567,7 @@
     "icon": "Y",
     "good": 14,
     "bad": 1,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1565,6 +1589,7 @@
     "icon": "Y",
     "good": 44,
     "bad": 2,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1585,6 +1610,7 @@
     "openHours": "星期一至日 11:30-22:00",
     "good": 88,
     "bad": 14,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1605,6 +1631,7 @@
     "openHours": "NA",
     "good": 57,
     "bad": 6,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1625,6 +1652,7 @@
     "openHours": "星期一至日 11:30-21:30",
     "good": 89,
     "bad": 8,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1645,6 +1673,7 @@
     "openHours": "NA",
     "good": 45,
     "bad": 3,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1665,6 +1694,7 @@
     "openHours": "星期一至日 11:30-21:00",
     "good": 56,
     "bad": 5,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1685,6 +1715,7 @@
     "openHours": "星期一至日 11:30-22:00",
     "good": 26,
     "bad": 3,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1705,6 +1736,7 @@
     "openHours": "星期一至日 11:30-22:00",
     "good": 34,
     "bad": 6,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1725,6 +1757,7 @@
     "openHours": "星期一至日 11:00-21:30",
     "good": 46,
     "bad": 5,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1745,6 +1778,7 @@
     "openHours": "NA",
     "good": 79,
     "bad": 4,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1765,6 +1799,7 @@
     "openHours": "星期一至日 12:000-21:30",
     "good": 68,
     "bad": 11,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1785,6 +1820,7 @@
     "openHours": "星期一至日 11:30-21:30",
     "good": 90,
     "bad": 6,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1806,6 +1842,7 @@
     "icon": "Uncertain",
     "good": 20,
     "bad": 7,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1826,6 +1863,7 @@
     "openHours": "星期一至日 11:30-21:00",
     "good": 34,
     "bad": 3,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1846,6 +1884,7 @@
     "openHours": "NA",
     "good": 17,
     "bad": 3,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1866,6 +1905,7 @@
     "openHours": "NA",
     "good": 77,
     "bad": 8,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1875,7 +1915,7 @@
     "address": "屯門屯利街1號華都商場地下60號舖",
     "district": "屯門",
     "areas": "新界區",
-    "desc": "5/8 收入捐予612人道支援基金\nhttps://www.instagram.com/p/B0vLpJVgUJl/\n\n店外有連儂牆！老闆員工都支持運動\nhttps://www.facebook.com/groups/2701324926545942/permalink/2713225725355862/",
+    "desc": "5/8 收入捐予612人道支援基金\nhttps://www.instagram.com/p/B0vLpJVgUJl/\n\n店外有連儂牆！老闆員工都支持運動\nhttps://www.facebook.com/groups/2701324926545942/permalink/2713225725355862/\n\n[11/12] 罷市\nhttps://www.instagram.com/p/B4vpQhGjix7/",
     "image": "https://static6.orstatic.com/userphoto/doorphoto/R/M2I/04CXVD17EF2440B321285Cpx.jpg",
     "type": "restaurant",
     "subType": "西式/粉麵/米線",
@@ -1884,6 +1924,7 @@
     "openHours": "星期一至日 11:00 - 22:00",
     "good": 165,
     "bad": 10,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||捐錢||連儂牆/貼文宣||老闆言論/行為||員工言論/行為\n\n",
     "color": "yellow"
   },
   {
@@ -1902,6 +1943,7 @@
     "openHours": "星期一、三至日 17:30 - 03:30",
     "good": 37,
     "bad": 1,
+    "mechanismgood": "網上媒體公開發聲||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -1920,6 +1962,7 @@
     "openHours": "星期一至三 12:00 - 18:00\n星期四至六 12:00 - 22:30\n星期日 13:30 - 22:30",
     "good": 15,
     "bad": 1,
+    "mechanismgood": "參與罷市\n",
     "mechanismbad": "用支付寶",
     "color": "yellow"
   },
@@ -1939,6 +1982,7 @@
     "openHours": "/",
     "good": 13,
     "bad": 1,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||老闆言論/行為\n",
     "color": "yellow"
   },
   {
@@ -1957,6 +2001,7 @@
     "openHours": "星期一全日休息\n星期二至日12:00 - 21:30",
     "good": 33,
     "bad": 2,
+    "mechanismgood": "網上媒體公開發聲||免費派發物資\n",
     "color": "yellow"
   },
   {
@@ -1975,6 +2020,7 @@
     "openHours": "星期一至四 15:00 - 01:00\n星期五至六 15:00 - 02:00\n星期日 14:00 - 01:00",
     "good": 31,
     "bad": 0,
+    "mechanismgood": "網上媒體公開發聲",
     "color": "yellow"
   },
   {
@@ -1993,6 +2039,7 @@
     "openHours": "星期一至日6:00 pm - 2:00am",
     "good": 32,
     "bad": 0,
+    "mechanismgood": "參與罷市||網上媒體公開發聲||老闆言論/行為||免費/優惠比同路人\n\n\n",
     "color": "yellow"
   },
   {
@@ -2011,6 +2058,7 @@
     "openHours": "星期一全日休息; 星期二至日 12:00 - 21:30",
     "good": 17,
     "bad": 3,
+    "mechanismgood": "參與罷市||網上媒體公開發聲\n",
     "color": "yellow"
   },
   {
@@ -2031,6 +2079,7 @@
     "openHours": "星期一至日 12:00pm - 8:00pm",
     "good": 24,
     "bad": 5,
+    "mechanismgood": "參與罷市||老闆言論/行為||播viutv / 港台 / now\n",
     "color": "yellow"
   },
   {
@@ -2050,6 +2099,7 @@
     "openHours": "星期一至日12:00 - 22:00",
     "good": 31,
     "bad": 3,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -2069,6 +2119,7 @@
     "icon": "Y",
     "good": 27,
     "bad": 1,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -2087,6 +2138,7 @@
     "openHours": "/",
     "good": 89,
     "bad": 4,
+    "mechanismgood": "免費派發物資||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -2105,6 +2157,7 @@
     "openHours": "星期一至六11:30am - 9:00pm",
     "good": 80,
     "bad": 0,
+    "mechanismgood": "參與罷市||網上媒體公開發聲\n\n",
     "color": "yellow"
   },
   {
@@ -2123,6 +2176,7 @@
     "openHours": "星期一至四 12:00 - 23:45\n星期五 00:00 - 02:00\n星期六至日 12:00 - 23:45\n公眾假期、公眾假期前夕 12:00 - 23:45",
     "good": 60,
     "bad": 5,
+    "mechanismgood": "參與罷市||連儂牆/貼文宣\n",
     "color": "yellow"
   },
   {
@@ -2141,6 +2195,7 @@
     "openHours": "星期四至二 2:00pm - 10:00pm",
     "good": 21,
     "bad": 1,
+    "mechanismgood": "參與罷市",
     "color": "yellow"
   },
   {
@@ -2159,6 +2214,7 @@
     "openHours": "11:00 - 23:30",
     "good": 32,
     "bad": 4,
+    "mechanismgood": "員工言論/行為||網上媒體公開發聲\n",
     "color": "yellow"
   },
   {
@@ -2178,6 +2234,7 @@
     "openHours": "星期一至四 16:00 - 01:00; 星期五至六\n16:00 - 02:00; 星期日16:00 - 01:00",
     "good": 117,
     "bad": 3,
+    "mechanismgood": "免費派發物資||免費/優惠比同路人\n",
     "color": "yellow"
   },
   {
@@ -8646,7 +8703,7 @@
     "desc": "蕭若元開設的韓燒專門店\n",
     "image": "https://static5.orstatic.com/userphoto2/photo/U/NXK/04Q6S4AF011D4E0E951D70px.jpg",
     "type": "restaurant",
-    "subType": "韓國菜/日式放題",
+    "subType": "蕭生開/韓國菜/日式放題",
     "lat": 22.3212111,
     "lon": 114.169166,
     "openHours": "星期一至日 12:00 - 15:00, 17:30 - 23:30",
@@ -19092,7 +19149,7 @@
     "district": "離島",
     "areas": "新界區",
     "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2736953089649792/\n老闆娘傾計時佢話：聽日我要帶佢（佢個仔）出去，俾佢知道我地唔係fight for ourselves，係要俾佢知道佢需要fight for himself",
-    "image": "https://static6.orstatic.com/userphoto/doorphoto/M/HYY/03JSLX68D7C33C079B444Cpx.jpg",
+    "image": "https://imgur.com/WF4LLyq.png",
     "type": "restaurant",
     "subType": "港式/茶館",
     "lat": 22.226833,
@@ -26006,7 +26063,7 @@
     "address": "香港灣仔皇后大道東255號",
     "district": "灣仔",
     "areas": "香港島",
-    "desc": "\n\n皇后大道東255號地下\n【官方資訊 / Official Information】\n8.5罷市\nhttps://www.facebook.com/ABCCakeHouse/photos/a.996100033738928/2848860611796185/?type=3&theater【只屬傳言 / Hearsay ONLY】\n網友指11月2日警方係皇后大道東發射催淚彈，店員/老板叫示威者入內暫避。\n\n來源: 黃藍商戶地圖",
+    "desc": "[30/11] 義賣所得總數$5105，會全數交給天水圍中催淚彈的傅同學嘅哥哥\nhttps://www.facebook.com/ABCCakeHouse/posts/3140692765946300\n\n皇后大道東255號地下\n【官方資訊 / Official Information】\n8.5罷市\nhttps://www.facebook.com/ABCCakeHouse/photos/a.996100033738928/2848860611796185/?type=3&theater【只屬傳言 / Hearsay ONLY】\n網友指11月2日警方係皇后大道東發射催淚彈，店員/老板叫示威者入內暫避。\n\n來源: 黃藍商戶地圖",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "restaurant",
     "subType": "未分類",
@@ -27941,21 +27998,6 @@
     "lat": 22.33746,
     "lon": 114.199267,
     "googlePlaceId2": "ChIJF1FFRVEABDQRfL_GmjFpa_Q",
-    "color": "yellow"
-  },
-  {
-    "id": 1736,
-    "name": "Red Rice 米飯主題餐廳",
-    "brand": "Red Rice 米飯主題餐廳",
-    "address": "九龍大角咀大全街47-49號地下",
-    "district": "油尖旺",
-    "areas": "九龍區",
-    "desc": "蕭生開\nhttps://www.facebook.com/hkshiuyeukyuen/posts/1353811601365316/",
-    "image": "https://peoplesmarket.hk/pub/media/wysiwyg/membernews/201807/201807n1-3.jpg",
-    "type": "restaurant",
-    "subType": "蕭生開/港式粉麵/米線/茶餐廳/冰室",
-    "lat": 22.321935,
-    "lon": 114.160585,
     "color": "yellow"
   },
   {
@@ -39320,9 +39362,9 @@
     "desc": "8.5 10.1 罷工\nhttps://www.facebook.com/peoplesmarket.hk/photos/a.437485142987484/2376409535761692/?type=1&theater\nhttps://www.facebook.com/peoplesmarket.hk/photos/a.902109399858387/2483211948414783/?type=1&theater\n",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "food",
-    "subType": "肉/醬料",
-    "lat": 22.3363133,
-    "lon": 114.1475141,
+    "subType": "蕭生開/肉/醬料",
+    "lat": 22.276369,
+    "lon": 114.174824,
     "googlePlaceId2": "ChIJLa-651QHBDQRqa6Kzq35ppI",
     "good": 0,
     "bad": 0,
@@ -39338,9 +39380,9 @@
     "desc": "8.5 10.1 罷工\nhttps://www.facebook.com/peoplesmarket.hk/photos/a.437485142987484/2376409535761692/?type=1&theater\nhttps://www.facebook.com/peoplesmarket.hk/photos/a.902109399858387/2483211948414783/?type=1&theater\n",
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "food",
-    "subType": "肉/醬料",
-    "lat": 22.3363133,
-    "lon": 114.1475141,
+    "subType": "蕭生開/肉/醬料",
+    "lat": 22.449265,
+    "lon": 114.16471,
     "googlePlaceId2": "ChIJLa-651QHBDQRqa6Kzq35ppI",
     "good": 0,
     "bad": 0,
@@ -39622,8 +39664,8 @@
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "newyear",
     "subType": "盆菜",
-    "lat": 22.3363133,
-    "lon": 114.1475141,
+    "lat": 22.276369,
+    "lon": 114.174824,
     "googlePlaceId2": "ChIJLa-651QHBDQRqa6Kzq35ppI",
     "good": 0,
     "bad": 0,
@@ -39640,8 +39682,8 @@
     "image": "https://gotchainfo2019.github.io/images/promotion20191218.jpg",
     "type": "newyear",
     "subType": "盆菜",
-    "lat": 22.3363133,
-    "lon": 114.1475141,
+    "lat": 22.449265,
+    "lon": 114.16471,
     "googlePlaceId2": "ChIJLa-651QHBDQRqa6Kzq35ppI",
     "good": 0,
     "bad": 0,
