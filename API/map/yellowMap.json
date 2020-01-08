@@ -5672,24 +5672,6 @@
     "color": "yellow"
   },
   {
-    "id": 320,
-    "name": "王子廚房",
-    "brand": "王子廚房",
-    "address": "荃灣享成街8號香城大廈地下5A號舖",
-    "district": "荃灣",
-    "areas": "新界區",
-    "desc": "5/8 參與罷市\nhttps://www.facebook.com/princekitchen34801048/photos/a.241740052644924/1383023368516581/?type=3&theater",
-    "image": "https://static6.orstatic.com/userphoto/doorphoto/G/D0J/02KJUH8343B8478E01B76Bpx.jpg",
-    "type": "restaurant",
-    "subType": "西式/咖喱",
-    "lat": 22.3724007,
-    "lon": 114.1109796,
-    "openHours": "星期一至四 開中午12:00時至晚上8:00時\n星期五及六 開中午12:00時至晚上9:00時 \n(下午3:00 至下午6:00休息時間，不接單) \n晚市截單時間為休息前30分鐘，按等候客人數量而定)\n星期日休息",
-    "good": 35,
-    "bad": 2,
-    "color": "yellow"
-  },
-  {
     "id": 321,
     "name": "王孖記果子",
     "brand": "王孖記果子",
@@ -19337,22 +19319,6 @@
     "lat": 22.3667885,
     "lon": 114.1164626,
     "googlePlaceId2": "ChIJ4c4NCev4AzQRd4KNrDwYQdU",
-    "color": "yellow"
-  },
-  {
-    "id": 1230,
-    "name": "入麵",
-    "brand": "入麵",
-    "address": "荃灣路德圍42號安富大厦地舖",
-    "district": "荃灣",
-    "areas": "新界區",
-    "desc": "https://www.facebook.com/groups/2701324926545942/permalink/2720481017963666/\n老闆深黃,為反送中運動發聲",
-    "image": "https://static7.orstatic.com/userphoto/doorphoto/J/FR3/0340N6607DBFF3635D2AD7px.jpg",
-    "type": "restaurant",
-    "subType": "未分類",
-    "lat": 22.3727375,
-    "lon": 114.1154853,
-    "googlePlaceId2": "ChIJuSS9jO34AzQRCjfmLLvSyDs",
     "color": "yellow"
   },
   {
