@@ -1,11 +1,5 @@
 [
-  {
-    "id": 16,
-    "title": "[黃色經濟] 好消息！廚房佬終於都可以同大家見面啦",
-    "desc": "今個月12號希望見到各位\n按入睇更多詳情",
-    "image": "https://scontent.fhkg3-1.fna.fbcdn.net/v/t1.0-9/81091651_107945237396060_2124794555545944064_o.jpg?_nc_cat=109&_nc_ohc=CyTHkfYnHbUAQmHXB33RUxEnPnevNCCqnv6_AFmFGSDU96vzZsKbJmoqQ&_nc_ht=scontent.fhkg3-1.fna&oh=6194a872eb78240812d93ac1007ca0b9&oe=5EA85FE3",
-    "link": "https://www.facebook.com/kitchenman1112/photos/a.107951434062107/107945230729394/"
-  },
+  
   {
     "id": 15,
     "title": "[黃色經濟] 口罩都有黃色",
@@ -48,11 +42,18 @@
     "link": "https://www.facebook.com/102104401292308/photos/a.107389670763781/112772720225476/"
   },
   {
-    "id": 13,
-    "title": "[黃色經濟][注意]抗爭衣服",
-    "desc": "早前fkpopo.shoplineapp.com搵我(我們由2019開始的夢遊)授權佢哋義賣衫，基於有啲懷疑佢負責人身份，我唔授權佢哋，但佢哋靜靜雞依然照印照賣，仲要扮晒手足咁樣响街賣，口口聲聲話為前線手足，咁同為抗爭去打劫有乜分別。",
-    "image": "https://scontent.fhkg3-1.fna.fbcdn.net/v/t1.0-9/80391331_178408310223838_4262121731172335616_o.jpg?_nc_cat=104&_nc_oc=AQmNAAvOS5KuDjYgjKrIZjNFWLvU3MBLWTiu7EjQIEMTbgaOMZwXH8bTMSv5HiqkHRs&_nc_ht=scontent.fhkg3-1.fna&oh=ab8264e655a8ea8671da9fb03a9801f5&oe=5E72925F",
-    "link": "https://www.facebook.com/Kailanegg/posts/178408406890495"
+      "id": 1,
+      "title": "[APP]iOS 1.2.0 更新",
+      "desc": "iOS 1.2.0 有新更新啦",
+      "image": "https://assets.collaction.hk/extradition_gallery/54d611bc77cd2f473b7d57afd012c5a1c340db3710e01cb9a509af91c51856bd52fdf9681b022b23295cf58cd542618d.jpg",
+      "link": "https://apps.apple.com/hk/app/whatsgap-%E7%99%BC%E5%A4%A2%E5%9C%B0%E5%9C%96/id1475004773"
+    },
+  {
+    "id": 16,
+    "title": "(已結束)[黃色經濟] 好消息！廚房佬終於都可以同大家見面啦",
+    "desc": "今個月12號希望見到各位\n按入睇更多詳情",
+    "image": "https://scontent.fhkg3-1.fna.fbcdn.net/v/t1.0-9/81091651_107945237396060_2124794555545944064_o.jpg?_nc_cat=109&_nc_ohc=CyTHkfYnHbUAQmHXB33RUxEnPnevNCCqnv6_AFmFGSDU96vzZsKbJmoqQ&_nc_ht=scontent.fhkg3-1.fna&oh=6194a872eb78240812d93ac1007ca0b9&oe=5EA85FE3",
+    "link": "https://www.facebook.com/kitchenman1112/photos/a.107951434062107/107945230729394/"
   },
   {
     "id": 7,
@@ -122,12 +123,5 @@
     "desc": "15/12星期日下午12點至3點，申子店鋪外擺設「和你寫」街站，身體力行希望有更多同路人過嚟寫聖誕卡俾在囚手足。 按入睇更多詳情",
     "image": "https://scontent.fhkg3-2.fna.fbcdn.net/v/t1.0-9/79224689_999678030381752_168865160457355264_n.jpg?_nc_cat=103&_nc_ohc=-5P9DxoMw1UAQmOOwqhTQWl_1HRcaERQRWdLgEWURoY2gu-FjfD2sLqDg&_nc_ht=scontent.fhkg3-2.fna&oh=293e1a33cd5182ed45ea1aaf5eb8ae4a&oe=5E85BD9A",
     "link": "https://www.facebook.com/shinkohk/photos/a.782680072081550/999678027048419"
-  },
-  {
-    "id": 1,
-    "title": "[APP]iOS 1.1.0 更新",
-    "desc": "iOS 1.1.0 有新更新啦",
-    "image": "https://assets.collaction.hk/extradition_gallery/54d611bc77cd2f473b7d57afd012c5a1c340db3710e01cb9a509af91c51856bd52fdf9681b022b23295cf58cd542618d.jpg",
-    "link": "https://www.facebook.com/whatsgaphk/"
   }
 ]
