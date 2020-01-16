@@ -26,6 +26,14 @@
         "pollingKeywordName2": "唔好叫錯外賣餐廳"
     },
     {
+      "title": "自己年宵自己搞",
+      "icon": "marker/y_CNY_marker.png",
+      "layout": "map",
+      "actionType": "API",
+      "action": "API/map/cny",
+      "apitype": "git"
+    },
+    {
         "title": "啱Channel之選餐廳",
         "icon": "icon_arm_channel_marker.png",
         "layout": "map",
