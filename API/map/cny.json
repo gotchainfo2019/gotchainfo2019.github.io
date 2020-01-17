@@ -280,7 +280,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.2823565,
-        "lon": 114.1886969
+        "lon": 114.1886969,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 20,
@@ -294,7 +295,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.2913246,
-        "lon": 113.9386367
+        "lon": 113.9386367,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 21,
@@ -308,7 +310,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.3719661,
-        "lon": 114.1134746
+        "lon": 114.1134746,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 22,
@@ -322,7 +325,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.358165,
-        "lon": 114.125275
+        "lon": 114.125275,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 23,
@@ -336,7 +340,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.3909185,
-        "lon": 113.9709422
+        "lon": 113.9709422,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 24,
@@ -350,7 +355,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.4495728,
-        "lon": 114.0304894
+        "lon": 114.0304894,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 25,
@@ -364,7 +370,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.327218,
-        "lon": 114.1736577
+        "lon": 114.1736577,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 26,
@@ -378,7 +385,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.3349071,
-        "lon": 114.1553479
+        "lon": 114.1553479,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 27,
@@ -392,7 +400,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.3380634,
-        "lon": 114.1919623
+        "lon": 114.1919623,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 28,
@@ -406,7 +415,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.3115403,
-        "lon": 114.2302478
+        "lon": 114.2302478,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 29,
@@ -420,7 +430,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.327218,
-        "lon": 114.1736577
+        "lon": 114.1736577,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 30,
@@ -434,7 +445,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.387758,
-        "lon": 114.196782
+        "lon": 114.196782,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 31,
@@ -448,7 +460,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.503717,
-        "lon": 114.127913
+        "lon": 114.127913,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 32,
@@ -462,7 +475,8 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.381411,
-        "lon": 114.272079
+        "lon": 114.272079,
+        "marker": "marker/r_CNY_marker.png"
     },
     {
         "id": 33,
@@ -476,6 +490,7 @@
         "type": "other",
         "subType": "只有濕貨的年宵",
         "lat": 22.318791,
-        "lon": 114.257509
+        "lon": 114.257509,
+        "marker": "marker/r_CNY_marker.png"
     }
 ]
