@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "name": "白紙市集 - 香城新年市集(25 - 28/1)",
+        "name": "白紙市集 - 香城新年市集(20 - 28/1)",
         "brand": "自己年宵自己搞",
         "address": "荔枝角長義街9號 D2 Place One + Two + Rooftop ",
         "district": "深水埗",
         "areas": "九龍區",
-        "desc": "香城年宵後的新年假期，也有一眾人氣插畫家及全民造星ll 參賽者 和我們一起過年！\nhttps://www.instagram.com/whitemarkethk/?hl=zh-hk\n\n🏮香城、 肥蛙 、 LLH story、7ohnee X 空中飛傭 等人氣插畫家\n🏮肥蛙、LLH story、7ohnee 主題即影即有區\n🏮全民造星2  Hugo、暖男及 Kay等等 都會在香城新年市集中演出\n現正接受檔主招募\n\n*市集活動會扣除成本，10%捐予立場新聞、20%捐予守護孩子\n\n【白紙市集 - 香城新年市集！】\n日期 : 2020年1月25 - 28日 (年初一至年初四)\n時間 : 13:00 - 20:00\n地點 : 荔枝角長義街9號 D2 Place One + Two + Rooftop \n\n『白紙市集 - 香城新年市集！』申請表格:\nhttps://docs.google.com/forms/d/e/1FAIpQLSdGyBP5I17BBgLzvyErxQtAZQxFlpu4lehjvtibPVdckK9Nmw/formResponse",
+        "desc": "香城年宵後的新年假期，也有一眾人氣插畫家及全民造星ll 參賽者 和我們一起過年！\nhttps://www.instagram.com/whitemarkethk/?hl=zh-hk\n\n🏮香城、 肥蛙 、 LLH story、7ohnee X 空中飛傭 等人氣插畫家\n🏮肥蛙、LLH story、7ohnee 主題即影即有區\n🏮全民造星2  Hugo、暖男及 Kay等等 都會在香城新年市集中演出\n現正接受檔主招募\n\n*市集活動會扣除成本，10%捐予立場新聞、20%捐予守護孩子\n\n【白紙市集 - 香城新年市集！】\n🎪年宵時段\n1月20 - 23日 : 1400- 2300\n1月24日 : 1400- 0100\n🧧新年時段\n1月25 - 28日 : 1300- 2000\n地點 : 荔枝角長義街9號 D2 Place One + Two + Rooftop ",
         "image": "http://timable.com/res/pic/7fe4e79b9fb1f5ef7a2f7fa47ed49a372.jpg",
         "type": "other",
         "subType": "自己年宵自己搞",
@@ -143,7 +143,7 @@
     },
     {
         "id": 11,
-        "name": "黃埔年宵(被取消)(18 -24/ 1)",
+        "name": "黃埔年宵 (被取消)(18 -24/ 1)",
         "brand": "自己年宵自己搞",
         "address": "紅磡碼頭旁空地",
         "district": "九龍城",
@@ -154,6 +154,21 @@
         "subType": "自己年宵自己搞",
         "lat": 22.3011407,
         "lon": 114.1903121
+    },
+    {
+        "id": 11,
+        "name": "黃埔年宵後續 (18 -24/ 1)",
+        "brand": "自己年宵自己搞",
+        "address": "黃埔花園九期九號水產",
+        "district": "九龍城",
+        "areas": "九龍區",
+        "desc": "年宵檔主將轉到九號水產繼續舉辦年宵市集，詳情如下：\n日期：1月18日至1月24日\n時間：早上11時半至晚上9時\n地點：黃埔花園九期九號水產",
+        "image": "https://imgs.nmplus.hk/wp-content/uploads/2020/01/80562964_2581901968584415_4782315272277065728_o_2957758555e12d2de19621-800x800_10336725435e1ef16f941a8.png",
+        "type": "other",
+        "subType": "自己年宵自己搞",
+        "lat": 22.3027004,
+        "lon": 114.1905305,
+        "googlePlaceId2": "ChIJ_S820uEABDQR1_efhPL4KSE"
     },
     {
         "id": 12,
@@ -171,7 +186,7 @@
     },
     {
         "id": 13,
-        "name": "葵涌「和你宵」(被取消)(18/1)",
+        "name": "葵涌「和你宵」(被取消) (18/1)",
         "brand": "自己年宵自己搞",
         "address": "葵涌村4期3樓平台",
         "district": "葵青",
