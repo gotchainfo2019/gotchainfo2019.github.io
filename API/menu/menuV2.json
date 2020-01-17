@@ -61,6 +61,39 @@
     "action": "https://www.instagram.com/woleifeiart/?igshid=1lwzki85r6dmt"
   },
   {
+    "title": "網上黃店",
+    "actionType": "Title",
+    "action": "Title"
+  },
+  {
+    "title": "光時",
+    "icon": "icon_facebook.png",
+    "layout": "webview",
+    "actionType": "URL",
+    "action": "https://www.facebook.com/hkongsofficial/",
+  },
+  {
+    "title": "重光號",
+    "icon": "icon_facebook.png",
+    "layout": "webview",
+    "actionType": "URL",
+    "action": "https://www.facebook.com/cgh.online/"
+  },
+  {
+    "title": "瓹窿瓹罅 GuruGuruhk.com",
+    "icon": "icon_facebook.png",
+    "layout": "webview",
+    "actionType": "URL",
+    "action": "https://www.facebook.com/guruguruhongkong/"
+  },
+  {
+    "title": "Yellow point",
+    "icon": "icon_facebook.png",
+    "layout": "webview",
+    "actionType": "URL",
+    "action": "https://www.facebook.com/yellowpoint.hk/"
+  },
+  {
     "title": "KOL推介",
     "actionType": "Title",
     "action": "Title"
