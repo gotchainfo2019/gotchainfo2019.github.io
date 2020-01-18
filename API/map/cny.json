@@ -1,4 +1,18 @@
 [
+    {
+       "id": 34,
+       "name": "香港人的市集(18 - 19/1)",
+       "brand": "自己年宵自己搞",
+       "address": "新蒲崗仁愛街36號窩子右門上",
+       "district": "黃大仙",
+       "areas": "九龍區",
+       "desc": "香港人的市集\n日期：2020年1月18-19日（六、日）\n 時間：12:00 - 18:00 \n地點：新蒲崗仁愛街36號窩子右門上#18Jan #19Jan #和你宵 #新蒲崗 #黃色經濟圈 #市集",
+       "image": "https://scontent.fhkg3-2.fna.fbcdn.net/v/t1.0-9/81264212_143033643803451_2188481009215864832_o.jpg?_nc_cat=102&_nc_oc=AQmcPIUw326bfXk8JrinVc29CqFz4BCzOhC0JCbJLE22RCBYejUkWrLooVxUHalw6iY&_nc_ht=scontent.fhkg3-2.fna&oh=b16c9c00252c6d98fd49eb11eb4f8045&oe=5E8E4823",
+       "type": "other",
+       "subType": "自己年宵自己搞",
+       "lat": 22.334536,
+       "lon": 114.194956
+     },
   {
     "id": 1,
     "name": "白紙市集 - 香城新年市集(20 - 28/1)",
