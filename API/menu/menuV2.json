@@ -70,7 +70,7 @@
     "icon": "icon_facebook.png",
     "layout": "webview",
     "actionType": "URL",
-    "action": "https://www.facebook.com/hkongsofficial/",
+    "action": "https://www.facebook.com/hkongsofficial/"
   },
   {
     "title": "重光號",
