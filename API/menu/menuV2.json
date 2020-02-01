@@ -46,14 +46,6 @@
     "action": "Title"
   },
   {
-    "title": "自己年宵自己搞",
-    "icon": "marker/y_CNY_marker.png",
-    "layout": "map",
-    "actionType": "API",
-    "action": "API/map/cny",
-    "apitype": "git"
-  },
-  {
     "title": "和理非接力寫生組",
     "icon": "icon_ig.png",
     "layout": "webview",
