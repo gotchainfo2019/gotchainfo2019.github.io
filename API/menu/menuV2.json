@@ -50,7 +50,7 @@
       "icon": "icon_map_marker_mask.png",
       "layout": "map",
       "actionType": "API",
-      "action": "highrisk",
+      "action": "API/map/highrisk",
       "apitype": "git"
   },
   {
