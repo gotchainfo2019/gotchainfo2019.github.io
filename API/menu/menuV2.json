@@ -41,6 +41,19 @@
     "action": "reportForm"
   },
   {
+    "title": "全民抗疫",
+    "actionType": "Title",
+    "action": "Title"
+  },
+  {
+      "title": "高危及隔離點(8 Feb)",
+      "icon": "icon_map_marker_mask.png",
+      "layout": "map",
+      "actionType": "API",
+      "action": "highrisk",
+      "apitype": "git"
+  },
+  {
     "title": "其他活動",
     "actionType": "Title",
     "action": "Title"
