@@ -54,6 +54,20 @@
       "apitype": "git"
   },
   {
+    "title": "強制家居檢疫人士(PDF)",
+    "icon": "icon_map_marker_mask.png",
+    "layout": "webview",
+    "actionType": "URL",
+    "action": "https://www.chp.gov.hk/files/pdf/list_of_buildings_tc.pdf"
+  },
+  {
+    "title": "Mandatory home quarantine(PDF)",
+    "icon": "icon_map_marker_mask.png",
+    "layout": "webview",
+    "actionType": "URL",
+    "action": "https://www.chp.gov.hk/files/pdf/list_of_buildings_en.pdf"
+  },
+  {
     "title": "其他活動",
     "actionType": "Title",
     "action": "Title"
