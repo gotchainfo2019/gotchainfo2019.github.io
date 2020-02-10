@@ -791,5 +791,19 @@
         "subType": "確診",
         "lat": 22.283697,
         "lon": 114.2210383
+    },
+    {
+        "id": 150,
+        "name": "隔離營（檢疫中心）",
+        "brand": "隔離營（檢疫中心）",
+        "address": "鯉魚門渡假村",
+        "district": "東區",
+        "areas": "香港島",
+        "desc": "康文署示，為配合衞生防護中心應對新型冠狀病毒感染肺炎，康文署今日起暫停開放鯉魚門公園作康樂用途，以預留該設施用作檢疫中心",
+        "image": "https://appledaily-hk-appledaily-prod.cdn.arcpublishing.com/resizer/ga9uuG4HE6Dt3fXQr7GagGZpnC8=/802x451/arc-photo-appledaily.s3.amazonaws.com/ap-ne-1-prod/public/PACC6IFBZTOH76QBGHNLQOACNE.jpg",
+        "type": "隔離營（檢疫中心）",
+        "subType": "隔離營（檢疫中心）",
+        "lat": 22.2785797,
+        "lon": 114.2337192
     }
 ]
