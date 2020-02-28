@@ -61,7 +61,7 @@
     "action": "https://www.chp.gov.hk/files/pdf/building_list_chi.pdf"
   },
   {
-    "title": "List of buildings with confirmed cases of COVID-19(PDF)",
+    "title": "Confirmed cases of COVID-19(PDF)",
     "icon": "icon_map_marker_mask.png",
     "layout": "webview",
     "actionType": "URL",
