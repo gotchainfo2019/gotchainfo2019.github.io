@@ -42,6 +42,13 @@
       "apitype": "git"
   },
   {
+    "title": "和理非接力寫生組",
+    "icon": "icon_ig.png",
+    "layout": "webview",
+    "actionType": "URL",
+    "action": "https://www.instagram.com/woleifeiart/?igshid=1lwzki85r6dmt"
+  },
+  {
     "title": "報料區",
     "icon": "icon_rating.png",
     "layout": "reportForm",
@@ -74,18 +81,6 @@
     "layout": "webview",
     "actionType": "URL",
     "action": "https://www.chp.gov.hk/files/pdf/building_list_eng.pdf"
-  },
-  {
-    "title": "其他活動",
-    "actionType": "Title",
-    "action": "Title"
-  },
-  {
-    "title": "和理非接力寫生組",
-    "icon": "icon_ig.png",
-    "layout": "webview",
-    "actionType": "URL",
-    "action": "https://www.instagram.com/woleifeiart/?igshid=1lwzki85r6dmt"
   },
   {
     "title": "網上黃店",
