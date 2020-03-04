@@ -34,6 +34,14 @@
     "apitype": "git"
   },
   {
+      "title": "和你食黃荃灣",
+      "icon": "marker/y_restaurant.png",
+      "layout": "map",
+      "actionType": "API",
+      "action": "API/map/yellowcity",
+      "apitype": "git"
+  },
+  {
     "title": "報料區",
     "icon": "icon_rating.png",
     "layout": "reportForm",
