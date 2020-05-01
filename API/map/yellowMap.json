@@ -29332,7 +29332,7 @@
     },
     {
         "id": 1884,
-        "name": "Nggy’s kitchen ",
+        "name": "Nggy s kitchen ",
         "brand": "Nggy’s kitchen ",
         "address": "中環鴨巴甸街35號元創坊B座4樓414室",
         "district": "中西區",
@@ -29613,21 +29613,6 @@
         "lat": 22.2480047,
         "lon": 114.1559235,
         "googlePlaceId2": "ChIJMRlgyxwABDQRRQxlosgfVxI",
-        "color": "yellow"
-    },
-    {
-        "id": 1903,
-        "name": "Cs Bakery",
-        "brand": "Cs Bakery",
-        "address": "香港西灣河街100-104號安業大廈地下A1號舖",
-        "district": "東區",
-        "areas": "香港島",
-        "desc": "https://www.facebook.com/1740755916154667/posts/2569284239968493?d=n&sfns=mo\nhttps://i.imgur.com/5ic9CDA.png\nCs' Bakery",
-        "image": "https:
-        "type": "restaurant",
-        "lat": 22.2809814,
-        "lon": 114.2223552,
-        "googlePlaceId2": "ChIJYQCsuAUBBDQRBzWrk8fL1Lk",
         "color": "yellow"
     },
     {
