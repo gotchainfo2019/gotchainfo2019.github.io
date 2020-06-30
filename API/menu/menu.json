@@ -1,74 +1,5 @@
 [
   {
-    "title": "香港加油",
-    "actionType": "Title",
-    "action": "Title"
-  },
-  {
-    "title": "店鋪",
-    "icon": "marker/menu_yellowblueicon.png",
-    "layout": "IntegrationMap",
-    "actionType": "API",
-    "action": "integrationYellowBlueMap",
-    "actionList": [
-      {
-        "title": "推薦店鋪",
-        "icon": "icon_map_marker_restaurant_yellow.png",
-        "iconField": "yellowimage",
-        "layout": "map",
-        "actionType": "API",
-        "action": "API/map/yellowMap",
-        "pollingKeywordName1": "5星餐廳",
-        "pollingKeywordName2": "網民推介餐廳",
-        "apitype": "git",
-        "lastupdate": "24/01/2020"
-      },
-      {
-        "title": "其他店鋪",
-        "icon": "icon_map_marker_restaurant.png",
-        "iconField": "blueimage",
-        "layout": "map",
-        "actionType": "API",
-        "action": "API/map/blueMap",
-        "pollingKeywordName1": "1星餐廳",
-        "pollingKeywordName2": "唔好叫錯外賣餐廳",
-        "apitype": "git",
-        "lastupdate": "23/01/2020"
-      },
-      {
-        "layout": "type",
-        "actionType": "API",
-        "action": "API/list/mapType"
-      },
-      {
-        "layout": "news",
-        "actionType": "API",
-        "action": "API/news/news"
-      }
-    ],
-    "apitype": "git"
-  },
-  {
-    "title": "報料區",
-    "icon": "icon_rating.png",
-    "layout": "reportForm",
-    "actionType": "API",
-    "action": "reportForm"
-  },
-  {
-    "title": "KOL推介",
-    "actionType": "Title",
-    "action": "Title"
-  },
-  {
-    "title": "啱Channel之選餐廳",
-    "icon": "icon_arm_channel_marker.png",
-    "layout": "map",
-    "actionType": "API",
-    "action": "armchannel",
-    "apitype": "git"
-  },
-  {
     "title": "夾公仔",
     "actionType": "Title",
     "action": "Title"
@@ -81,13 +12,6 @@
     "action": "gotchamap",
     "pollingKeywordName1": "夾公仔",
     "apitype": "git"
-  },
-  {
-    "title": "報料區",
-    "icon": "icon_rating.png",
-    "layout": "reportForm",
-    "actionType": "API",
-    "action": "reportForm"
   },
   {
     "title": "關於我們",
